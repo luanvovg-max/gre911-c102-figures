@@ -96,40 +96,43 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
   position:relative;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
 }
 .m-pedestal{
-  position:relative;width:100%;height:100%;border-radius:calc(28*var(--u)) calc(28*var(--u)) calc(12*var(--u)) calc(12*var(--u));
-  background:linear-gradient(175deg, rgba(20,58,54,0.8) 0%, rgba(10,33,30,0.94) 85%);
+  position:relative;width:100%;height:100%;border-radius:calc(18*var(--u));
+  background:#0B2320;
   border:1.5px solid var(--border);
-  box-shadow:0 14px 40px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.18), inset 0 0 24px rgba(184,163,106,0.08);
+  box-shadow:0 14px 44px rgba(0,0,0,0.68), inset 0 1px 0 rgba(255,255,255,0.16), inset 0 0 24px rgba(184,163,106,0.08);
   backdrop-filter:blur(10px);
   overflow:hidden;
-  display:flex;flex-direction:column;
   transition:border-color .3s, box-shadow .3s;
 }
 .m:hover .m-pedestal{
   border-color:var(--gold);
-  box-shadow:0 16px 48px rgba(0,0,0,0.7), 0 0 28px var(--gold-glow);
-}
-.m-header{
-  padding:calc(10*var(--u)) calc(14*var(--u));display:flex;justify-content:space-between;align-items:center;
-  font-size:calc(8.5*var(--u));letter-spacing:0.14em;color:var(--gold);
-  border-bottom:1px solid rgba(184,163,106,0.16);background:rgba(7,26,24,0.5);
+  box-shadow:0 18px 52px rgba(0,0,0,0.78), 0 0 28px var(--gold-glow);
 }
 .m-photo{
-  flex:1;min-height:0;width:100%;overflow:hidden;position:relative;background:#061413;
+  width:100%;height:100%;position:relative;background:#061413;overflow:hidden;
 }
-.m-photo img{
-  width:100%;height:100%;object-fit:cover;object-position:center top;display:block;
+.m-photo-blur{
+  position:absolute;inset:-12px;width:calc(100% + 24px);height:calc(100% + 24px);
+  object-fit:cover;object-position:center top;display:block;
+  filter:blur(11px) brightness(0.82) saturate(0.85);
+  transform:scale(1.02);
+  pointer-events:none;
+}
+.m-photo-sharp{
+  position:absolute;inset:0;width:100%;height:100%;
+  object-fit:cover;object-position:center top;display:block;
+  -webkit-mask-image:radial-gradient(ellipse 70% 55% at 50% 68%, #000 35%, rgba(0,0,0,0.85) 55%, transparent 84%);
+  mask-image:radial-gradient(ellipse 70% 55% at 50% 68%, #000 35%, rgba(0,0,0,0.85) 55%, transparent 84%);
   transition:transform .4s cubic-bezier(0.2,0.8,0.2,1);
 }
-.m:hover .m-photo img{
+.m:hover .m-photo-sharp{
   transform:scale(1.03);
 }
-.m-footer{
-  padding:calc(9*var(--u)) calc(14*var(--u));background:rgba(7,26,24,0.88);border-top:1px solid rgba(184,163,106,0.16);
-  display:flex;justify-content:space-between;align-items:center;
+.m-photo-vignette{
+  position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(ellipse 88% 78% at 50% 65%, transparent 48%, rgba(7,26,24,0.38) 78%, rgba(7,26,24,0.78) 100%),
+             linear-gradient(to top, rgba(7,26,24,0.45) 0%, transparent 18%);
 }
-.m-name{font-size:calc(10.5*var(--u));font-weight:600;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:70%}
-.m-price{font-size:calc(11.5*var(--u));font-weight:700;color:var(--gold-light)}
 
 /* Shadow beneath pedestal */
 .m::before{
@@ -630,7 +633,7 @@ const FIGURES = [
     theme: "Urban & Street Life",
     brand: "Chất 102",
     scale: "1:64",
-    material: "Resin Thủ Công Cao Cấp",
+    material: "Resin SLA",
     price: 295000,
     priceFormatted: "295.000₫",
     desc: "Tạo hình cách điệu Tây Du Ký phong cách đường phố hiện đại: Đường Tăng vest trắng lịch lãm, Tôn Ngộ Không nữ cá tính, Trư Bát Giới áo da, Sa Tăng uy dũng.",
@@ -656,7 +659,7 @@ const FIGURES = [
     theme: "Motorsport & Racing",
     brand: "OKGO",
     scale: "1:64",
-    material: "Resin Thủ Công Cao Cấp",
+    material: "Resin SLA",
     price: 450000,
     priceFormatted: "450.000₫",
     desc: "Bộ đôi người mẫu đường đua trong trang phục áo khoác da biker, quần shorts camo, bốt da cao cổ và nón bảo hiểm thể thao năng động.",
@@ -676,7 +679,7 @@ const FIGURES = [
     theme: "Japanese & Cultural",
     brand: "Chất 102",
     scale: "1:64",
-    material: "Resin Thủ Công Cao Cấp",
+    material: "Resin SLA",
     price: 290000,
     priceFormatted: "290.000₫",
     desc: "Nhân vật nữ phong cách anime với mái tóc xanh bạc hà, váy xếp ly trắng bồng bềnh, hoàn hảo cho sa bàn phố xá Nhật Bản thu nhỏ.",
@@ -695,7 +698,7 @@ const FIGURES = [
     theme: "Lifestyle & Leisure",
     brand: "OKGO",
     scale: "1:64",
-    material: "Resin Thủ Công Cao Cấp",
+    material: "Resin SLA",
     price: 500000,
     priceFormatted: "500.000₫",
     desc: "Hai nhân vật mang ván lướt sóng họa tiết hoàng hôn và sóng biển vẽ tay thủ công tinh xảo, tạo dáng phóng khoáng mùa hè nhiệt đới.",
@@ -713,7 +716,7 @@ const FIGURES = [
     theme: "Lifestyle & Leisure",
     brand: "Chất 102",
     scale: "1:64",
-    material: "Resin Thủ Công Cao Cấp",
+    material: "Resin SLA",
     price: 450000,
     priceFormatted: "450.000₫",
     desc: "Bộ đôi nhân vật nữ văn phòng hiện đại với kính gọng vàng, váy bút chì tạo dáng tự tin bên hai chiếc mô tô naked bike màu cam bắt mắt.",
@@ -733,7 +736,7 @@ const FIGURES = [
     theme: "Industrial & Workers",
     brand: "Chất 102",
     scale: "1:64",
-    material: "Resin Thủ Công Cao Cấp",
+    material: "Resin SLA",
     price: 800000,
     priceFormatted: "800.000₫",
     desc: "Figure nhân viên vận hành cùng xe vận chuyển pallet màu vàng kiểu chợ cá Tsukiji / kho hàng logistics sa bàn Nhật Bản tỉ lệ 1:64.",
@@ -769,7 +772,7 @@ for (let i = 0; i <= N; i++) {
   roll.append(b);
 }
 
-// Build stage plinths
+// Build stage plinths (bỏ viền top và bottom, hiệu ứng blur nền nổi bật figure)
 const people = FIGURES.map((fig, i) => {
   const e = document.createElement('div');
   e.className = 'm';
@@ -777,16 +780,10 @@ const people = FIGURES.map((fig, i) => {
   e.innerHTML = `
     <div class="m-inner">
       <div class="m-pedestal">
-        <div class="m-header michroma">
-          <span>SCALE 1:64</span>
-          <span>${fig.sku}</span>
-        </div>
         <div class="m-photo">
-          <img src="${fig.cover}" alt="${fig.title}" loading="lazy">
-        </div>
-        <div class="m-footer">
-          <span class="m-name">${fig.title}</span>
-          <span class="m-price michroma">${fig.priceFormatted}</span>
+          <img class="m-photo-blur" src="${fig.cover}" alt="" loading="lazy">
+          <img class="m-photo-sharp" src="${fig.cover}" alt="${fig.title}" loading="lazy">
+          <div class="m-photo-vignette"></div>
         </div>
       </div>
     </div>
@@ -851,11 +848,10 @@ function updateRail(idx) {
 
     <div class="specs-box">
       <div class="spec-row"><span class="spec-label">Mã sản phẩm:</span><span class="spec-val michroma">${fig.sku}</span></div>
-      <div class="spec-row"><span class="spec-label">Tỉ lệ mô hình:</span><span class="spec-val">1:64 (~2.8 cm)</span></div>
-      <div class="spec-row"><span class="spec-label">Chất liệu:</span><span class="spec-val">Resin SLA siêu mịn</span></div>
+      <div class="spec-row"><span class="spec-label">Tỉ lệ mô hình:</span><span class="spec-val michroma">1:64</span></div>
+      <div class="spec-row"><span class="spec-label">Chất liệu:</span><span class="spec-val">Resin SLA</span></div>
       <div class="spec-row"><span class="spec-label">Kỹ thuật sơn:</span><span class="spec-val">Hand-painted chi tiết cao</span></div>
-      <div class="spec-row"><span class="spec-label">Nhà chế tác:</span><span class="spec-val">${fig.brand} (Made in VN)</span></div>
-      <div class="spec-row"><span class="spec-label">Độ tương thích:</span><span class="spec-val">Sa bàn diorama 1:64</span></div>
+      <div class="spec-row"><span class="spec-label">Nhà chế tác:</span><span class="spec-val">${fig.brand === 'Chất 102' ? 'Chất 102 (Made in VN)' : fig.brand}</span></div>
     </div>
   `;
 
