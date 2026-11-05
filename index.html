@@ -764,8 +764,8 @@ const people = FIGURES.map((fig, i) => {
     <div class="m-inner">
       <div class="m-pedestal">
         <div class="m-photo">
-          <img class="m-photo-blur" src="${fig.cover}" alt="" loading="lazy">
-          <img class="m-photo-sharp" src="${fig.cover}" alt="${fig.title}" loading="lazy">
+          <img class="m-photo-blur" src="${getOptimizedImageUrl(fig.cover, 800, 80)}" alt="" loading="lazy">
+          <img class="m-photo-sharp" src="${getOptimizedImageUrl(fig.cover, 800, 88)}" alt="${fig.title}" loading="lazy">
           <div class="m-photo-vignette"></div>
         </div>
       </div>
@@ -789,7 +789,7 @@ function updateRail(idx) {
   railContent.innerHTML = `
     <div class="card-hero">
       <div class="card-hero-img-wrap" id="hero-zoom-trigger" title="Rê chuột để soi kính lúp • Bấm để mở thư viện Macro Zoom">
-        <img id="hero-img" src="${fig.gallery[currentHeroThumb] || fig.cover}" alt="${fig.title}">
+        <img id="hero-img" src="${getOptimizedImageUrl(fig.gallery[currentHeroThumb] || fig.cover, 900, 88)}" alt="${fig.title}" onerror="this.onerror=null; this.src='${getOptimizedImageUrl(fig.cover, 900, 88)}';">
         <div class="card-hero-zoom-badge michroma" id="hero-badge-zoom" title="Bấm mở Macro Zoom">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M11 8v6M8 11h6"/></svg>
           MACRO ZOOM
@@ -873,11 +873,12 @@ function updateRail(idx) {
   fig.gallery.forEach((gSrc, gIdx) => {
     const t = document.createElement('div');
     t.className = 'thumb' + (gIdx === currentHeroThumb ? ' on' : '');
-    t.innerHTML = `<img src="${gSrc}" alt="Góc ${gIdx + 1}" loading="lazy">`;
+    t.innerHTML = `<img src="${getThumbnailUrl(gSrc)}" alt="Góc ${gIdx + 1}" loading="lazy" onerror="this.onerror=null; this.src='${getThumbnailUrl(fig.cover)}';">`;
     t.addEventListener('click', () => {
       currentHeroThumb = gIdx;
-      $('hero-img').src = gSrc;
-      heroLoupe.style.backgroundImage = `url("${gSrc}")`;
+      const optSrc = getOptimizedImageUrl(gSrc, 900, 88);
+      $('hero-img').src = optSrc;
+      heroLoupe.style.backgroundImage = `url("${getOptimizedImageUrl(gSrc, 1600, 92)}")`;
       thumbsWrap.querySelectorAll('.thumb').forEach(el => el.classList.remove('on'));
       t.classList.add('on');
     });
@@ -1012,14 +1013,19 @@ function renderModalContent() {
   modalSku.textContent = fig.sku;
   modalPhotoCounter.textContent = `ẢNH ${String(modalPhotoIdx + 1).padStart(2, '0')} / ${String(fig.gallery.length).padStart(2, '0')}`;
   
-  modalImg.src = fig.gallery[modalPhotoIdx] || fig.cover;
+  const currentPhoto = fig.gallery[modalPhotoIdx] || fig.cover;
+  modalImg.src = getOptimizedImageUrl(currentPhoto, 2000, 95);
+  modalImg.onerror = function() {
+    this.onerror = null;
+    this.src = getOptimizedImageUrl(fig.cover, 2000, 95);
+  };
   
   // Render filmstrip thumbnails
   modalFilmstrip.innerHTML = '';
   fig.gallery.forEach((src, idx) => {
     const t = document.createElement('div');
     t.className = 'filmstrip-thumb' + (idx === modalPhotoIdx ? ' on' : '');
-    t.innerHTML = `<img src="${src}" alt="Ảnh ${idx + 1}">`;
+    t.innerHTML = `<img src="${getThumbnailUrl(src)}" alt="Ảnh ${idx + 1}" onerror="this.onerror=null; this.src='${getThumbnailUrl(fig.cover)}';">`;
     t.addEventListener('click', () => {
       modalPhotoIdx = idx;
       zoom = 1.0;
@@ -1398,6 +1404,15 @@ requestAnimationFrame(loop);
 /* ==============================================================
    IMAGEKIT OPTIMIZATIONS & HELPERS
    ============================================================== */
+function getThumbnailUrl(url) {
+  if (!url) return '';
+  if (url.includes('ik.imagekit.io')) {
+    const cleanUrl = url.split('?')[0];
+    return `${cleanUrl}?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto`;
+  }
+  return url;
+}
+
 function getOptimizedImageUrl(url, width = 800, quality = 85) {
   if (!url) return '';
   if (url.includes('ik.imagekit.io')) {
