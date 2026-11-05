@@ -142,7 +142,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 }
 
 /* INTRO / OVERLAY — HIERARCHY CẬP NHẬT THEO FOUNDER */
-.intro{position:absolute;z-index:6;left:calc(44*var(--u));top:calc(36*var(--u));width:calc(540*var(--u));pointer-events:none}
+.intro{position:absolute;z-index:6;left:calc(44*var(--u));top:calc(36*var(--u));max-width:calc(380*var(--u));pointer-events:none}
 /* Tiêu đề chính: CHẤT 102 × GRE•911 phóng to nổi bật */
 .intro-brand-title{
   font-weight:700;font-size:calc(25*var(--u));line-height:1.15;letter-spacing:0.08em;color:#fff;
@@ -209,7 +209,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 .rail-header h3{font-size:calc(11*var(--u));letter-spacing:0.14em;color:var(--gold);text-transform:uppercase}
 .rail-counter{font-size:calc(10*var(--u));color:var(--text-dim);letter-spacing:0.08em}
 
-.rail-content{padding:calc(16*var(--u)) calc(22*var(--u));flex:1;display:flex;flex-direction:column;gap:calc(16*var(--u))}
+.rail-content{padding:calc(12*var(--u)) calc(18*var(--u));flex:1;display:flex;flex-direction:column;gap:calc(12*var(--u))}
 
 /* Active figure detail hero card with interactive loupe */
 .card-hero{
@@ -217,7 +217,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
   box-shadow:0 8px 24px rgba(0,0,0,0.45);
 }
 .card-hero-img-wrap{
-  position:relative;height:calc(220*var(--u));background:#071A18;overflow:hidden;cursor:zoom-in;user-select:none;
+  position:relative;height:calc(195*var(--u));background:#071A18;overflow:hidden;cursor:zoom-in;user-select:none;
 }
 .card-hero-img-wrap img{
   width:100%;height:100%;object-fit:cover;object-position:center top;transition:transform .3s;display:block;
@@ -542,18 +542,25 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 }
 .search-close-btn:hover{background:rgba(255,255,255,0.1);color:#fff;border-color:rgba(255,255,255,0.3)}
 
-.search-filters{
-  display:flex;align-items:center;gap:8px;padding:12px 20px;background:rgba(7,26,24,0.5);
-  border-bottom:1px solid rgba(255,255,255,0.05);overflow-x:auto;scrollbar-width:none;
+.search-filter-groups{
+  padding:12px 20px;display:flex;flex-direction:column;gap:9px;background:rgba(7,26,24,0.75);
+  border-bottom:1px solid rgba(255,255,255,0.06);
 }
-.search-filters::-webkit-scrollbar{display:none}
+.search-filter-group{display:flex;align-items:center;gap:12px}
+.search-group-label{font-size:9px;color:var(--gold);letter-spacing:0.12em;min-width:115px;flex-shrink:0;font-weight:600}
+.search-chips-row{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.search-chips-row::-webkit-scrollbar{display:none}
 .search-filter-chip{
-  background:rgba(15,47,44,0.6);border:1px solid rgba(255,255,255,0.08);color:var(--text-dim);
-  font-size:9.5px;padding:6px 12px;border-radius:6px;cursor:pointer;white-space:nowrap;letter-spacing:0.06em;
+  background:rgba(15,47,44,0.7);border:1px solid rgba(255,255,255,0.08);color:var(--text-dim);
+  font-size:9.5px;padding:5px 11px;border-radius:6px;cursor:pointer;white-space:nowrap;letter-spacing:0.05em;
   transition:all .15s;
 }
 .search-filter-chip:hover{color:#fff;border-color:rgba(184,163,106,0.4)}
 .search-filter-chip.on{background:var(--gold);color:#071A18;font-weight:700;border-color:var(--gold)}
+.search-theme-tag{font-size:9px;padding:2px 6px;border-radius:4px;background:rgba(255,255,255,0.05);color:var(--text-dim);border:1px solid rgba(255,255,255,0.08)}
+.search-card-context{font-size:9px;color:var(--gold-light);display:flex;align-items:center;gap:4px;margin-top:3px}
+.chip-context{border-color:var(--gold)!important;color:var(--gold-light)!important;background:rgba(184,163,106,0.1)!important}
+.spec-context{color:var(--gold-light);font-weight:600}
 
 .search-meta-bar{
   display:flex;justify-content:space-between;align-items:center;padding:8px 20px;
@@ -564,7 +571,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 
 .search-grid-scroll{flex:1;overflow-y:auto;padding:16px 20px}
 .search-grid{
-  display:grid;grid-template-columns:repeat(auto-fill, minmax(210px, 1fr));gap:12px;
+  display:grid;grid-template-columns:repeat(auto-fill, minmax(260px, 1fr));gap:12px;
 }
 .search-card{
   background:#0B2825;border:1px solid rgba(255,255,255,0.06);border-radius:8px;padding:10px;
@@ -603,9 +610,10 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
         <a href="#" data-cat="Chất 102">CHẤT 102</a>
         <a href="#" data-cat="OKGO">OKGO</a>
         <a href="#" data-cat="Junix">JUNIX</a>
-        <a href="#" data-cat="Urban & Street Life">STREETWEAR</a>
-        <a href="#" data-cat="Lifestyle & Leisure">LIFESTYLE</a>
-        <a href="#" data-cat="Motorsport & Racing">MOTORSPORT</a>
+        <a href="#" data-cat="Liang Ge">LIANG GE</a>
+        <a href="#" data-cat="Đô thị & Đường phố">STREETWEAR</a>
+        <a href="#" data-cat="Đường đua & Tốc độ">MOTORSPORT</a>
+        <a href="#" data-cat="Văn hóa Phố Nhật">PHỐ NHẬT</a>
       </nav>
       <div class="acct michroma">
         <a href="#" id="search-btn" class="search-trigger-link" aria-label="Tìm kiếm SKU"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg> <span class="search-label-text">TÌM SKU</span></a><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></a>
@@ -733,7 +741,7 @@ import FIGURES from './src/figures-data.json';
 
 
 // DEPTH STOPS: d = -1 (leaving) to d = 5 (hazy distance)
-const KX = [1.22, 0.76, 0.51, 0.35, 0.23, 0.14, 0.08];
+const KX = [0.90, 0.50, 0.32, 0.20, 0.12, 0.06, 0.02];
 const KF = [1.14, 0.90, 0.79, 0.72, 0.66, 0.62, 0.59];
 const KH = [1.20, 0.85, 0.59, 0.44, 0.34, 0.26, 0.19];
 const KB = [0, 0, 1.2, 3.5, 7.5, 11, 16];
@@ -801,8 +809,9 @@ function updateRail(idx) {
       <div class="card-hero-body">
         <div class="tag-chips">
           <span class="chip chip-scale michroma">1:64</span>
-          <span class="chip michroma">${fig.brand}</span>
-          <span class="chip">${fig.theme}</span>
+          <span class="chip michroma">${fig.brand === 'Chất 102' ? 'Chất 102 (Made in VN)' : fig.brand}</span>
+          <span class="chip chip-theme">${fig.theme}</span>
+          <span class="chip chip-context">${fig.context}</span>
         </div>
         <h4 class="card-hero-title">${fig.title}</h4>
         <div class="card-hero-sku michroma">${fig.sku}</div>
@@ -831,10 +840,12 @@ function updateRail(idx) {
 
     <div class="specs-box">
       <div class="spec-row"><span class="spec-label">Mã sản phẩm:</span><span class="spec-val michroma">${fig.sku}</span></div>
-      <div class="spec-row"><span class="spec-label">Tỉ lệ mô hình:</span><span class="spec-val michroma">1:64</span></div>
-      <div class="spec-row"><span class="spec-label">Chất liệu:</span><span class="spec-val">Resin SLA</span></div>
+      <div class="spec-row"><span class="spec-label">Tỉ lệ mô hình:</span><span class="spec-val michroma">1:64 (~2.8 cm)</span></div>
+      <div class="spec-row"><span class="spec-label">Chất liệu:</span><span class="spec-val">Resin SLA siêu mịn</span></div>
       <div class="spec-row"><span class="spec-label">Kỹ thuật sơn:</span><span class="spec-val">Hand-painted chi tiết cao</span></div>
-      <div class="spec-row"><span class="spec-label">Nhà chế tác:</span><span class="spec-val">${fig.brand === 'Chất 102' ? 'Chất 102 (Made in VN)' : fig.brand}</span></div>
+      <div class="spec-row"><span class="spec-label">Nhà chế tác:</span><span class="spec-val spec-brand">${fig.brand === 'Chất 102' ? 'Chất 102 (Made in VN)' : fig.brand}</span></div>
+      <div class="spec-row"><span class="spec-label">Chủ đề:</span><span class="spec-val spec-theme">${fig.theme}</span></div>
+      <div class="spec-row"><span class="spec-label">Bối cảnh sa bàn:</span><span class="spec-val spec-context">${fig.context}</span></div>
     </div>
   `;
 
@@ -1433,7 +1444,9 @@ const searchClearBtn = $('search-clear-btn');
 const searchCloseBtn = $('search-close-btn');
 const searchBtn = $('search-btn');
 
-let currentSearchBrand = 'all';
+let currentBrandFilter = 'all';
+let currentThemeFilter = 'all';
+let currentContextFilter = 'all';
 
 function openSearchModal() {
   searchModal.classList.add('open');
@@ -1460,17 +1473,33 @@ function renderSearchResults() {
 
   const matched = [];
   FIGURES.forEach((fig, idx) => {
-    const matchBrand = (currentSearchBrand === 'all') || (fig.brand.toLowerCase() === currentSearchBrand.toLowerCase());
-    if (!matchBrand) return;
+    // Brand filter
+    if (currentBrandFilter === 'other') {
+      if (fig.brand === 'Chất 102' || fig.brand === 'OKGO' || fig.brand === 'Junix' || fig.brand === 'Liang Ge') return;
+    } else if (currentBrandFilter !== 'all' && fig.brand.toLowerCase() !== currentBrandFilter.toLowerCase()) {
+      return;
+    }
 
+    // Theme filter
+    if (currentThemeFilter !== 'all' && fig.theme !== currentThemeFilter) {
+      return;
+    }
+
+    // Context filter
+    if (currentContextFilter !== 'all' && fig.context !== currentContextFilter) {
+      return;
+    }
+
+    // Query filter
     if (!query) {
       matched.push({ fig, idx });
     } else {
-      const qInSku = fig.sku.toLowerCase().includes(query);
-      const qInTitle = fig.title.toLowerCase().includes(query);
-      const qInTheme = fig.theme.toLowerCase().includes(query);
-      const qInBrand = fig.brand.toLowerCase().includes(query);
-      if (qInSku || qInTitle || qInTheme || qInBrand) {
+      const qInSku = (fig.sku || '').toLowerCase().includes(query);
+      const qInTitle = (fig.title || '').toLowerCase().includes(query);
+      const qInTheme = (fig.theme || '').toLowerCase().includes(query);
+      const qInBrand = (fig.brand || '').toLowerCase().includes(query);
+      const qInContext = (fig.context || '').toLowerCase().includes(query);
+      if (qInSku || qInTitle || qInTheme || qInBrand || qInContext) {
         matched.push({ fig, idx });
       }
     }
@@ -1481,7 +1510,7 @@ function renderSearchResults() {
   if (matched.length === 0) {
     searchGrid.innerHTML = `
       <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-dimmer)">
-        Không tìm thấy SKU hoặc tên phù hợp với "<b>${query}</b>"
+        Không tìm thấy SKU hoặc nhân vật phù hợp với bộ lọc hiện tại.
       </div>
     `;
     return;
@@ -1489,13 +1518,18 @@ function renderSearchResults() {
 
   searchGrid.innerHTML = matched.map(({ fig, idx }) => `
     <div class="search-card" data-idx="${idx}">
-      <img src="${getOptimizedImageUrl(fig.cover, 140, 75)}" alt="${fig.title}" loading="lazy">
+      <img src="${getOptimizedImageUrl(fig.cover, 160, 80)}" alt="${fig.title}" loading="lazy" onerror="this.onerror=null; this.src='${fig.cover}';">
       <div class="search-card-info">
         <div class="search-card-sku michroma">${fig.sku}</div>
         <div class="search-card-title">${fig.title}</div>
         <div class="search-card-meta">
-          <span class="search-brand-tag">${fig.brand}</span>
+          <span class="search-brand-tag">${fig.brand === 'Chất 102' ? 'Chất 102 (VN)' : fig.brand}</span>
+          <span class="search-theme-tag">${fig.theme}</span>
           <span class="search-card-price michroma">${fig.priceFormatted}</span>
+        </div>
+        <div class="search-card-context">
+          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          ${fig.context}
         </div>
       </div>
     </div>
@@ -1523,11 +1557,21 @@ searchModal.addEventListener('click', e => {
   if (e.target === searchModal) closeSearchModal();
 });
 
+// Setup click listeners for each filter group
 document.querySelectorAll('.search-filter-chip').forEach(chip => {
   chip.addEventListener('click', () => {
-    document.querySelectorAll('.search-filter-chip').forEach(c => c.classList.remove('on'));
-    chip.classList.add('on');
-    currentSearchBrand = chip.dataset.filter;
+    const type = chip.dataset.type;
+    const filter = chip.dataset.filter;
+    const parentRow = chip.closest('.search-chips-row');
+    if (parentRow) {
+      parentRow.querySelectorAll('.search-filter-chip').forEach(c => c.classList.remove('on'));
+      chip.classList.add('on');
+    }
+
+    if (type === 'brand') currentBrandFilter = filter;
+    else if (type === 'theme') currentThemeFilter = filter;
+    else if (type === 'context') currentContextFilter = filter;
+
     renderSearchResults();
   });
 });
@@ -1540,12 +1584,13 @@ document.querySelectorAll('#nav-tabs a').forEach(tab => {
     tab.classList.add('on');
     const cat = tab.dataset.cat;
     if (cat === 'all') {
-      target = 0;
+      jumpToFigure(0);
       return;
     }
     const matchIdx = FIGURES.findIndex(f => 
-      f.brand.toLowerCase() === cat.toLowerCase() || 
-      f.theme.toLowerCase() === cat.toLowerCase()
+      (f.brand && f.brand.toLowerCase() === cat.toLowerCase()) || 
+      (f.theme && f.theme.toLowerCase() === cat.toLowerCase()) ||
+      (f.themeEn && f.themeEn.toLowerCase() === cat.toLowerCase())
     );
     if (matchIdx !== -1) {
       jumpToFigure(matchIdx);
@@ -1579,14 +1624,48 @@ window.addEventListener('keydown', e => {
       <button class="search-close-btn michroma" id="search-close-btn">✕ ĐÓNG [ESC]</button>
     </div>
 
-    <div class="search-filters">
-      <button class="search-filter-chip michroma on" data-filter="all">TẤT CẢ (100)</button>
-      <button class="search-filter-chip michroma" data-filter="Chất 102">CHẤT 102 (37)</button>
-      <button class="search-filter-chip michroma" data-filter="OKGO">OKGO (41)</button>
-      <button class="search-filter-chip michroma" data-filter="Junix">JUNIX (12)</button>
-      <button class="search-filter-chip michroma" data-filter="Liang Ge">LIANG GE (8)</button>
-      <button class="search-filter-chip michroma" data-filter="Urban & Street Life">STREETWEAR</button>
-      <button class="search-filter-chip michroma" data-filter="Lifestyle & Leisure">LIFESTYLE</button>
+    <div class="search-filter-groups">
+      <div class="search-filter-group">
+        <span class="search-group-label michroma">NHÀ CHẾ TÁC:</span>
+        <div class="search-chips-row" id="brand-chips">
+          <button class="search-filter-chip michroma on" data-type="brand" data-filter="all">TẤT CẢ (100)</button>
+          <button class="search-filter-chip michroma" data-type="brand" data-filter="Chất 102">CHẤT 102 (VN) (37)</button>
+          <button class="search-filter-chip michroma" data-type="brand" data-filter="OKGO">OKGO (41)</button>
+          <button class="search-filter-chip michroma" data-type="brand" data-filter="Junix">JUNIX (12)</button>
+          <button class="search-filter-chip michroma" data-type="brand" data-filter="Liang Ge">LIANG GE (8)</button>
+          <button class="search-filter-chip michroma" data-type="brand" data-filter="other">KHÁC (2)</button>
+        </div>
+      </div>
+
+      <div class="search-filter-group">
+        <span class="search-group-label michroma">CHỦ ĐỀ:</span>
+        <div class="search-chips-row" id="theme-chips">
+          <button class="search-filter-chip on" data-type="theme" data-filter="all">Tất cả chủ đề</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Đô thị & Đường phố">Đô thị & Đường phố (42)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Đời sống & Thư giãn">Đời sống & Thư giãn (29)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Cửa hàng & Dịch vụ">Cửa hàng & Dịch vụ (9)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Văn hóa Phố Nhật">Văn hóa Phố Nhật (6)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Đường đua & Tốc độ">Đường đua & Tốc độ (6)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Lễ hội Mùa đông">Lễ hội Mùa đông (4)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Kho vận & Kỹ thuật">Kho vận & Kỹ thuật (2)</button>
+          <button class="search-filter-chip" data-type="theme" data-filter="Nhân vật đặc biệt">Nhân vật đặc biệt (2)</button>
+        </div>
+      </div>
+
+      <div class="search-filter-group">
+        <span class="search-group-label michroma">BỐI CẢNH SA BÀN:</span>
+        <div class="search-chips-row" id="context-chips">
+          <button class="search-filter-chip on" data-type="context" data-filter="all">Tất cả bối cảnh</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Góc phố & Vỉa hè đô thị">Góc phố & Vỉa hè (60)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Cửa hàng tiện lợi & Tiệm cafe">Cửa hàng & Cafe (12)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Gara ô tô & Xưởng độ xe">Gara & Xưởng xe (8)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Phố cổ Nhật Bản & Bậc thang">Phố cổ Nhật Bản (6)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Đường đua & Pit stop tốc độ">Đường đua & Pit stop (5)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Bãi biển & Resort mùa hè">Bãi biển & Resort (4)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Lễ hội Giáng sinh tuyết trắng">Giáng sinh tuyết (4)</button>
+          <button class="search-filter-chip" data-type="context" data-filter="Kho hàng logistics & Bến bãi">Kho logistics & Cảng (1)</button>
+        </div>
+      </div>
     </div>
 
     <div class="search-meta-bar">
