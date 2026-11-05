@@ -1,0 +1,123 @@
+[
+  {
+    "id": "G018",
+    "sku": "C102-SET-0018",
+    "title": "Bộ Ngũ Đại Nhân Vật Streetwear",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin Thủ Công Cao Cấp",
+    "price": 295000,
+    "priceFormatted": "295.000₫",
+    "desc": "Tạo hình cách điệu Tây Du Ký phong cách đường phố hiện đại: Đường Tăng vest trắng lịch lãm, Tôn Ngộ Không nữ cá tính, Trư Bát Giới áo da, Sa Tăng uy dũng.",
+    "cover": "figures/FIG-C102-018__G018__01.jpg",
+    "gallery": [
+      "figures/FIG-C102-018__G018__01.jpg",
+      "figures/FIG-C102-018__G018__02.jpg",
+      "figures/FIG-C102-018__G018__03.jpg",
+      "figures/FIG-C102-018__G018__04.jpg",
+      "figures/FIG-C102-018__G018__05.jpg",
+      "figures/FIG-C102-018__G018__06.jpg",
+      "figures/FIG-C102-018__G018__07.jpg",
+      "figures/FIG-C102-018__G018__08.jpg",
+      "figures/FIG-C102-018__G018__09.jpg",
+      "figures/FIG-C102-018__G018__10.jpg",
+      "figures/FIG-C102-018__G018__11.jpg"
+    ]
+  },
+  {
+    "id": "G011",
+    "sku": "C102-SET-0011",
+    "title": "Cặp Nữ Cổ Động Biker & Race Queens",
+    "theme": "Motorsport & Racing",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin Thủ Công Cao Cấp",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Bộ đôi người mẫu đường đua trong trang phục áo khoác da biker, quần shorts camo, bốt da cao cổ và nón bảo hiểm thể thao.",
+    "cover": "figures/FIG-C102-011__G011__01.jpg",
+    "gallery": [
+      "figures/FIG-C102-011__G011__01.jpg",
+      "figures/FIG-C102-011__G011__02.jpg",
+      "figures/FIG-C102-011__G011__03.jpg",
+      "figures/FIG-C102-011__G011__04.jpg",
+      "figures/FIG-C102-011__G011__05.jpg"
+    ]
+  },
+  {
+    "id": "G007",
+    "sku": "C102-FIG-0007",
+    "title": "Nhân Vật Nữ Firefly Phố Nhật",
+    "theme": "Japanese & Cultural",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin Thủ Công Cao Cấp",
+    "price": 290000,
+    "priceFormatted": "290.000₫",
+    "desc": "Nhân vật nữ phong cách anime với mái tóc xanh bạc hà, váy xếp ly trắng bồng bềnh, hoàn hảo cho sa bàn phố xá Nhật Bản.",
+    "cover": "figures/FIG-C102-007__G007__01.jpg",
+    "gallery": [
+      "figures/FIG-C102-007__G007__01.jpg",
+      "figures/FIG-C102-007__G007__02.jpg",
+      "figures/FIG-C102-007__G007__03.jpg",
+      "figures/FIG-C102-007__G007__04.jpg"
+    ]
+  },
+  {
+    "id": "G049",
+    "sku": "C102-FIG-0049",
+    "title": "Cặp Vận Động Viên Lướt Sóng Coastal Surfers",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin Thủ Công Cao Cấp",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Hai nhân vật mang ván lướt sóng họa tiết hoàng hôn và sóng biển vẽ tay thủ công tinh xảo, tạo dáng phóng khoáng mùa hè.",
+    "cover": "figures/FIG-C102-049__G049__01.jpg",
+    "gallery": [
+      "figures/FIG-C102-049__G049__01.jpg",
+      "figures/FIG-C102-049__G049__02.jpg",
+      "figures/FIG-C102-049__G049__03.jpg"
+    ]
+  },
+  {
+    "id": "G022",
+    "sku": "C102-SET-0022",
+    "title": "Quý Cô & Xe Mô Tô Phân Khối Lớn Orange Moto",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin Thủ Công Cao Cấp",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Bộ đôi nhân vật nữ văn phòng hiện đại với kính gọng vàng, váy bút chì tạo dáng tự tin bên hai chiếc mô tô naked bike màu cam.",
+    "cover": "figures/FIG-C102-022__G022__01.jpg",
+    "gallery": [
+      "figures/FIG-C102-022__G022__01.jpg",
+      "figures/FIG-C102-022__G022__02.jpg",
+      "figures/FIG-C102-022__G022__03.jpg",
+      "figures/FIG-C102-022__G022__04.jpg",
+      "figures/FIG-C102-022__G022__05.jpg"
+    ]
+  },
+  {
+    "id": "G100",
+    "sku": "C102-SET-0100",
+    "title": "Nhân Viên Logistics & Xe Nâng Turret Truck",
+    "theme": "Industrial & Workers",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin Thủ Công Cao Cấp",
+    "price": 800000,
+    "priceFormatted": "800.000₫",
+    "desc": "Figure nhân viên vận hành cùng xe vận chuyển pallet màu vàng kiểu chợ cá Tsukiji / kho hàng Nhật Bản tỉ lệ 1:64.",
+    "cover": "figures/FIG-C102-100__G100__01.jpg",
+    "gallery": [
+      "figures/FIG-C102-100__G100__01.jpg",
+      "figures/FIG-C102-100__G100__02.jpg",
+      "figures/FIG-C102-100__G100__03.jpg"
+    ]
+  }
+]

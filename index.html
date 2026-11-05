@@ -1,0 +1,1409 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CHẤT 102 × GRE•911 | Figure Runway 1:64</title>
+<meta name="description" content="Trưng bày phối cảnh chiều sâu dòng Figure thu nhỏ tỉ lệ 1:64 sơn thủ công cao cấp từ Chất 102 và GRE•911.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Michroma&display=swap" rel="stylesheet">
+<style>
+:root{
+  --u:min(calc(100vw/1600),calc(100vh/900));
+  --bg:#071A18;
+  --bg-gradient:radial-gradient(circle at 50% 38%, #103834 0%, #09211F 45%, #051412 100%);
+  --card:#0F2F2C;
+  --card-alt:#143A36;
+  --gold:#B8A36A;
+  --gold-light:#D6C495;
+  --gold-glow:rgba(184,163,106,0.35);
+  --border:rgba(184,163,106,0.22);
+  --border-strong:rgba(184,163,106,0.55);
+  --text-main:#FFFFFF;
+  --text-dim:#94A8A3;
+  --text-dimmer:#5A736E;
+  --line:rgba(255,255,255,0.07);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg)}
+body{font-family:'Be Vietnam Pro',system-ui,sans-serif;color:var(--text-main);-webkit-font-smoothing:antialiased;overflow:hidden}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.michroma{font-family:'Michroma',sans-serif;letter-spacing:0.12em;text-transform:uppercase}
+
+.page{height:100svh;min-height:560px;display:grid;grid-template-rows:auto 1fr;background:var(--bg)}
+
+/* HEADER */
+header{position:relative;z-index:10;background:rgba(7,26,24,0.94);backdrop-filter:blur(14px);border-bottom:1px solid var(--border);padding:calc(15*var(--u)) calc(44*var(--u)) calc(13*var(--u))}
+.r1{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:calc(36*var(--u))}
+.brand-group{display:flex;align-items:baseline;gap:calc(12*var(--u))}
+.brand{font-size:calc(18*var(--u));font-weight:700;letter-spacing:0.18em;color:#fff}
+.brand span{color:var(--gold)}
+.brand-sub{font-size:calc(9.5*var(--u));letter-spacing:0.16em;color:var(--gold);padding:calc(2*var(--u)) calc(8*var(--u));border:1px solid var(--border);border-radius:4px;background:rgba(184,163,106,0.08)}
+.tabs{display:flex;justify-content:center;gap:calc(32*var(--u));font-size:calc(11*var(--u));letter-spacing:0.12em;color:var(--text-dim)}
+.tabs a{transition:color .25s,border-color .25s;padding:calc(6*var(--u)) 0;border-bottom:2px solid transparent}
+.tabs a:hover,.tabs a.on{color:var(--gold-light);border-bottom-color:var(--gold)}
+.acct{display:flex;align-items:center;gap:calc(20*var(--u));font-size:calc(10.5*var(--u));letter-spacing:0.12em;color:var(--text-dim)}
+.acct a{display:flex;align-items:center;gap:6px;transition:color .2s}
+.acct a:hover{color:#fff}
+.acct svg{width:calc(17*var(--u));height:calc(17*var(--u));fill:none;stroke:currentColor;stroke-width:1.6}
+.cart-badge{color:var(--gold-light);font-weight:600}
+
+/* MAIN STAGE */
+main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u));min-height:0}
+.stage{
+  position:relative;overflow:hidden;min-width:0;touch-action:pan-y;user-select:none;-webkit-user-select:none;cursor:none;
+  background:var(--bg-gradient);
+}
+.stage::before{
+  content:"";position:absolute;left:-20%;right:-20%;bottom:0;height:48%;
+  background:
+    radial-gradient(ellipse at 50% 100%, rgba(184,163,106,0.14) 0%, rgba(15,47,44,0.4) 40%, transparent 80%),
+    linear-gradient(to top, rgba(7,26,24,0.95), transparent 95%);
+  pointer-events:none;z-index:1;
+}
+.stage::after{
+  content:"";position:absolute;inset:0;
+  background:radial-gradient(circle at 65% 55%, transparent 40%, rgba(5,20,18,0.7) 100%);
+  pointer-events:none;z-index:2;
+}
+
+.line{position:absolute;inset:0;z-index:3}
+
+/* STAGE NAVIGATION ARROWS */
+.stage-arrow{
+  position:absolute;z-index:8;top:50%;transform:translateY(-50%);
+  width:calc(46*var(--u));height:calc(46*var(--u));border-radius:50%;
+  background:rgba(7,26,24,0.75);backdrop-filter:blur(10px);border:1.5px solid var(--border);
+  color:var(--gold-light);display:flex;align-items:center;justify-content:center;
+  cursor:pointer;transition:background .25s, border-color .25s, transform .2s, box-shadow .25s;
+}
+.stage-arrow:hover{
+  background:rgba(15,47,44,0.95);border-color:var(--gold);color:#fff;
+  transform:translateY(-50%) scale(1.1);box-shadow:0 0 20px var(--gold-glow);
+}
+.stage-arrow svg{width:calc(20*var(--u));height:calc(20*var(--u));fill:none;stroke:currentColor;stroke-width:2.2}
+.stage-arrow-prev{left:calc(24*var(--u))}
+.stage-arrow-next{right:calc(24*var(--u))}
+
+/* FIGURE PLINTH / SLAB */
+.m{
+  position:absolute;left:0;top:0;transform-origin:50% 100%;will-change:transform,filter;cursor:pointer;
+  display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+}
+.m-inner{
+  position:relative;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+}
+.m-pedestal{
+  position:relative;width:100%;height:100%;border-radius:calc(28*var(--u)) calc(28*var(--u)) calc(12*var(--u)) calc(12*var(--u));
+  background:linear-gradient(175deg, rgba(20,58,54,0.8) 0%, rgba(10,33,30,0.94) 85%);
+  border:1.5px solid var(--border);
+  box-shadow:0 14px 40px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.18), inset 0 0 24px rgba(184,163,106,0.08);
+  backdrop-filter:blur(10px);
+  overflow:hidden;
+  display:flex;flex-direction:column;
+  transition:border-color .3s, box-shadow .3s;
+}
+.m:hover .m-pedestal{
+  border-color:var(--gold);
+  box-shadow:0 16px 48px rgba(0,0,0,0.7), 0 0 28px var(--gold-glow);
+}
+.m-header{
+  padding:calc(10*var(--u)) calc(14*var(--u));display:flex;justify-content:space-between;align-items:center;
+  font-size:calc(8.5*var(--u));letter-spacing:0.14em;color:var(--gold);
+  border-bottom:1px solid rgba(184,163,106,0.16);background:rgba(7,26,24,0.5);
+}
+.m-photo{
+  flex:1;min-height:0;width:100%;overflow:hidden;position:relative;background:#061413;
+}
+.m-photo img{
+  width:100%;height:100%;object-fit:cover;object-position:center top;display:block;
+  transition:transform .4s cubic-bezier(0.2,0.8,0.2,1);
+}
+.m:hover .m-photo img{
+  transform:scale(1.03);
+}
+.m-footer{
+  padding:calc(9*var(--u)) calc(14*var(--u));background:rgba(7,26,24,0.88);border-top:1px solid rgba(184,163,106,0.16);
+  display:flex;justify-content:space-between;align-items:center;
+}
+.m-name{font-size:calc(10.5*var(--u));font-weight:600;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:70%}
+.m-price{font-size:calc(11.5*var(--u));font-weight:700;color:var(--gold-light)}
+
+/* Shadow beneath pedestal */
+.m::before{
+  content:"";position:absolute;left:5%;right:5%;bottom:-3%;height:6%;border-radius:50%;
+  background:radial-gradient(closest-side, rgba(0,0,0,0.88), transparent);
+  pointer-events:none;
+}
+
+/* INTRO / OVERLAY — HIERARCHY CẬP NHẬT THEO FOUNDER */
+.intro{position:absolute;z-index:6;left:calc(44*var(--u));top:calc(36*var(--u));width:calc(540*var(--u));pointer-events:none}
+/* Tiêu đề chính: CHẤT 102 × GRE•911 phóng to nổi bật */
+.intro-brand-title{
+  font-weight:700;font-size:calc(25*var(--u));line-height:1.15;letter-spacing:0.08em;color:#fff;
+  display:flex;align-items:center;gap:calc(10*var(--u));text-transform:uppercase;white-space:nowrap;
+  text-shadow:0 4px 16px rgba(0,0,0,0.6);
+}
+.intro-brand-title .x-sep{color:var(--gold);font-weight:400;font-size:0.85em}
+.intro-brand-title .dot{color:var(--gold)}
+/* Dòng phụ: FIGURE RUNWAY 1:64 nhỏ lại, tinh tế */
+.intro-sub-line{
+  display:flex;align-items:center;gap:calc(8*var(--u));
+  margin-top:calc(8*var(--u));font-size:calc(12*var(--u));letter-spacing:0.22em;color:var(--gold);
+  font-weight:600;text-transform:uppercase;
+}
+.intro-sub-line::before{content:"";width:calc(24*var(--u));height:1.5px;background:var(--gold)}
+.intro p{margin-top:calc(14*var(--u));font-size:calc(12*var(--u));line-height:1.68;color:var(--text-dim);font-weight:400}
+.badge-chất{
+  display:inline-flex;align-items:center;gap:6px;margin-top:calc(14*var(--u));
+  padding:calc(5*var(--u)) calc(12*var(--u));background:rgba(184,163,106,0.12);
+  border:1px solid var(--border);border-radius:20px;font-size:calc(9*var(--u));color:var(--gold-light);letter-spacing:0.12em;
+}
+
+/* BOTTOM LEFT TAG (SKU RUNWAY COUNTER) */
+.tag{position:absolute;z-index:6;left:calc(44*var(--u));bottom:calc(36*var(--u))}
+.look{
+  display:flex;align-items:center;font-size:calc(20*var(--u));line-height:calc(30*var(--u));
+  letter-spacing:0.12em;gap:.45em;pointer-events:none;color:#fff;
+}
+.tag-sku-title{color:#fff;font-weight:700}
+.win{height:calc(30*var(--u));overflow:hidden;display:inline-block}
+.roll{display:block;will-change:transform}
+.roll b{
+  display:block;font-weight:700;height:calc(30*var(--u));line-height:calc(30*var(--u));
+  color:var(--gold-light);white-space:nowrap;
+}
+.shop{
+  display:inline-flex;align-items:center;gap:8px;margin-top:calc(10*var(--u));
+  font-size:calc(10.5*var(--u));letter-spacing:0.14em;color:var(--gold);
+  padding-bottom:calc(4*var(--u));border-bottom:1px solid var(--gold);cursor:pointer;
+  transition:color .2s,border-color .2s;
+}
+.shop:hover{color:#fff;border-color:#fff}
+
+/* CURSOR RING */
+.ring{
+  position:absolute;z-index:9;left:0;top:0;width:calc(48*var(--u));height:calc(48*var(--u));
+  margin:calc(-24*var(--u)) 0 0 calc(-24*var(--u));border:calc(2*var(--u)) solid var(--gold);
+  border-radius:99px;pointer-events:none;opacity:0;
+  box-shadow:0 0 16px var(--gold-glow);
+  transition:width .22s cubic-bezier(.2,.8,.2,1),height .22s cubic-bezier(.2,.8,.2,1),margin .22s cubic-bezier(.2,.8,.2,1),opacity .2s;
+}
+.ring.show{opacity:0.9}
+.ring.drag{width:calc(88*var(--u));height:calc(36*var(--u));margin:calc(-18*var(--u)) 0 0 calc(-44*var(--u));background:rgba(184,163,106,0.12)}
+
+/* SIDE RAIL */
+.rail{
+  position:relative;overflow-y:auto;overflow-x:hidden;background:#0A2320;border-left:1px solid var(--border);
+  min-height:0;display:flex;flex-direction:column;
+}
+.rail-header{
+  padding:calc(16*var(--u)) calc(22*var(--u)) calc(12*var(--u));
+  border-bottom:1px solid rgba(255,255,255,0.06);display:flex;justify-content:space-between;align-items:center;
+}
+.rail-header h3{font-size:calc(11*var(--u));letter-spacing:0.14em;color:var(--gold);text-transform:uppercase}
+.rail-counter{font-size:calc(10*var(--u));color:var(--text-dim);letter-spacing:0.08em}
+
+.rail-content{padding:calc(16*var(--u)) calc(22*var(--u));flex:1;display:flex;flex-direction:column;gap:calc(16*var(--u))}
+
+/* Active figure detail hero card with interactive loupe */
+.card-hero{
+  background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;
+  box-shadow:0 8px 24px rgba(0,0,0,0.45);
+}
+.card-hero-img-wrap{
+  position:relative;height:calc(220*var(--u));background:#071A18;overflow:hidden;cursor:zoom-in;user-select:none;
+}
+.card-hero-img-wrap img{
+  width:100%;height:100%;object-fit:cover;object-position:center top;transition:transform .3s;display:block;
+}
+.card-hero-img-wrap:hover img{transform:scale(1.02)}
+
+/* Interactive Magnifying Loupe on Card */
+.card-hero-loupe{
+  position:absolute;width:130px;height:130px;border-radius:50%;
+  border:2.5px solid var(--gold);box-shadow:0 0 20px rgba(0,0,0,0.85),0 0 16px var(--gold-glow);
+  pointer-events:none;opacity:0;overflow:hidden;
+  background-repeat:no-repeat;z-index:20;
+  transition:opacity 0.15s ease-out;
+  transform:translate(-50%, -50%);
+}
+.card-hero-loupe.active{opacity:1}
+
+.card-hero-zoom-badge{
+  position:absolute;bottom:calc(10*var(--u));left:calc(12*var(--u));
+  background:rgba(7,26,24,0.88);backdrop-filter:blur(8px);border:1px solid var(--border);
+  padding:calc(4*var(--u)) calc(10*var(--u));border-radius:4px;font-size:calc(9*var(--u));
+  color:var(--gold-light);letter-spacing:0.12em;display:flex;align-items:center;gap:6px;
+  cursor:pointer;transition:all .2s;z-index:12;
+}
+.card-hero-zoom-badge:hover{background:var(--gold);color:#071A18;border-color:var(--gold)}
+.card-hero-fav{
+  position:absolute;top:calc(12*var(--u));right:calc(12*var(--u));z-index:12;
+  width:calc(32*var(--u));height:calc(32*var(--u));border-radius:50%;
+  background:rgba(7,26,24,0.7);backdrop-filter:blur(8px);border:1px solid var(--border);
+  display:flex;align-items:center;justify-content:center;color:#fff;transition:transform .2s,color .2s;
+}
+.card-hero-fav:hover{transform:scale(1.1)}
+.card-hero-fav[aria-pressed=true]{color:var(--gold);border-color:var(--gold)}
+.card-hero-fav[aria-pressed=true] svg{fill:var(--gold)}
+.card-hero-fav svg{width:calc(16*var(--u));height:calc(16*var(--u));fill:none;stroke:currentColor;stroke-width:1.6}
+
+.card-hero-body{padding:calc(16*var(--u))}
+.tag-chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:calc(10*var(--u))}
+.chip{font-size:calc(9*var(--u));padding:calc(3*var(--u)) calc(8*var(--u));border-radius:4px;border:1px solid var(--border);color:var(--gold-light);background:rgba(184,163,106,0.06)}
+.chip-scale{background:var(--gold);color:#071A18;font-weight:700;border:none}
+.card-hero-title{font-size:calc(14*var(--u));font-weight:700;line-height:1.35;color:#fff;margin-bottom:calc(6*var(--u))}
+.card-hero-sku{font-size:calc(9.5*var(--u));letter-spacing:0.12em;color:var(--gold);font-family:'Michroma',sans-serif}
+.card-hero-price-row{display:flex;justify-content:space-between;align-items:baseline;margin:calc(12*var(--u)) 0 calc(10*var(--u));padding-top:calc(10*var(--u));border-top:1px solid rgba(255,255,255,0.08)}
+.card-hero-price{font-size:calc(18*var(--u));font-weight:700;color:var(--gold-light)}
+.card-hero-desc{font-size:calc(10.5*var(--u));line-height:1.6;color:var(--text-dim);margin-bottom:calc(14*var(--u))}
+
+/* Multi-angle gallery strip */
+.gallery-section-title{
+  display:flex;justify-content:space-between;align-items:center;
+  font-size:calc(9.5*var(--u));letter-spacing:0.12em;color:var(--gold);text-transform:uppercase;margin-bottom:calc(8*var(--u));
+}
+.gallery-thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-bottom:calc(14*var(--u))}
+.thumb{
+  aspect-ratio:1;border-radius:6px;overflow:hidden;border:1.5px solid transparent;cursor:pointer;background:#051412;position:relative;
+  transition:border-color .2s,transform .15s;
+}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.thumb:hover{transform:scale(1.05);border-color:var(--gold-light)}
+.thumb.on{border-color:var(--gold);box-shadow:0 0 8px var(--gold-glow)}
+
+/* Action Buttons */
+.btn-add{
+  width:100%;padding:calc(12*var(--u)) calc(16*var(--u));background:var(--gold);color:#071A18;
+  font-weight:700;font-size:calc(11*var(--u));letter-spacing:0.12em;text-transform:uppercase;border-radius:6px;
+  display:flex;align-items:center;justify-content:center;gap:8px;transition:background .2s,transform .15s;box-shadow:0 4px 14px var(--gold-glow);
+}
+.btn-add:hover{background:var(--gold-light);transform:translateY(-1px)}
+.btn-zoom{
+  width:100%;margin-top:calc(8*var(--u));padding:calc(9*var(--u)) calc(14*var(--u));background:transparent;
+  border:1px solid var(--border);color:var(--gold-light);font-size:calc(10*var(--u));letter-spacing:0.1em;border-radius:6px;
+  transition:border-color .2s,background .2s,color .2s;display:flex;align-items:center;justify-content:center;gap:6px;
+}
+.btn-zoom:hover{border-color:var(--gold);background:rgba(184,163,106,0.1);color:#fff}
+
+/* Specs list */
+.specs-box{background:rgba(15,47,44,0.5);border:1px solid rgba(255,255,255,0.06);border-radius:8px;padding:calc(12*var(--u));font-size:calc(9.5*var(--u));color:var(--text-dim);line-height:1.7}
+.spec-row{display:flex;justify-content:space-between;padding:calc(3*var(--u)) 0;border-bottom:1px solid rgba(255,255,255,0.04)}
+.spec-row:last-child{border:none}
+.spec-label{color:var(--text-dimmer)}
+.spec-val{color:#fff;font-weight:500}
+
+/* ==============================================================
+   MACRO INSPECTION LIGHTBOX (ZOOM + PAN + GALLERY NEXT/PREV)
+   ============================================================== */
+.modal{
+  position:fixed;inset:0;z-index:99;background:rgba(4,16,14,0.96);backdrop-filter:blur(18px);
+  display:none;flex-direction:column;
+}
+.modal.open{display:flex}
+
+.modal-topbar{
+  padding:14px 28px;background:rgba(7,26,24,0.92);border-bottom:1px solid var(--border);
+  display:flex;justify-content:space-between;align-items:center;gap:16px;z-index:10;
+}
+.modal-info{display:flex;align-items:center;gap:12px;overflow:hidden}
+.modal-sku{font-size:11px;letter-spacing:0.14em;color:var(--gold);font-weight:700}
+.modal-divider{color:var(--text-dimmer)}
+.modal-title{font-size:14px;font-weight:600;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.modal-badge{
+  font-size:10px;padding:3px 8px;border-radius:4px;background:rgba(184,163,106,0.15);
+  border:1px solid var(--border);color:var(--gold-light);letter-spacing:0.12em;white-space:nowrap;
+}
+
+.modal-tools{display:flex;align-items:center;gap:10px}
+.zoom-controls{
+  display:inline-flex;align-items:center;background:rgba(15,47,44,0.85);border:1.5px solid var(--border);border-radius:6px;overflow:hidden;
+}
+.zoom-tool-btn{
+  padding:7px 14px;color:var(--gold-light);font-weight:700;font-size:15px;transition:all .18s;cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;user-select:none;
+}
+.zoom-tool-btn:hover{background:var(--gold);color:#071A18}
+.zoom-tool-btn:active{transform:scale(0.92)}
+.zoom-level-val{
+  padding:0 10px;font-size:11.5px;letter-spacing:0.1em;color:#fff;min-width:54px;text-align:center;font-weight:600;
+}
+
+.preset-pill{
+  display:inline-flex;gap:5px;
+}
+.preset-btn{
+  padding:7px 12px;border-radius:6px;border:1.5px solid var(--border);font-size:10px;
+  color:var(--text-dim);letter-spacing:0.1em;transition:all .18s;cursor:pointer;user-select:none;
+}
+.preset-btn:hover{border-color:var(--gold);color:#fff;background:rgba(184,163,106,0.18)}
+.preset-btn:active{transform:scale(0.95)}
+.preset-btn.on{border-color:var(--gold);color:#071A18;background:var(--gold);font-weight:700;box-shadow:0 0 10px var(--gold-glow)}
+
+.modal-close-btn{
+  padding:7px 16px;border-radius:6px;border:1.5px solid var(--border);background:rgba(184,163,106,0.1);
+  color:var(--gold-light);font-size:11px;letter-spacing:0.12em;transition:all .2s;cursor:pointer;font-weight:600;
+}
+.modal-close-btn:hover{background:var(--gold);color:#071A18;border-color:var(--gold)}
+
+/* Main Viewer Stage */
+.modal-viewport{
+  position:relative;flex:1;min-height:0;overflow:hidden;display:flex;align-items:center;justify-content:center;
+  user-select:none;-webkit-user-select:none;touch-action:none;
+}
+.modal-img-container{
+  position:relative;width:100%;height:100%;display:flex;align-items:center;justify-content:center;
+  cursor:zoom-in;will-change:transform;
+}
+.modal-img-container.is-zoomed{cursor:grab}
+.modal-img-container.is-dragging{cursor:grabbing}
+.modal-img-container img{
+  max-width:88vw;max-height:68vh;object-fit:contain;border-radius:8px;
+  border:1.5px solid var(--border);box-shadow:0 20px 60px rgba(0,0,0,0.85);
+  transform-origin:50% 50%;transition:transform 0.12s ease-out;pointer-events:auto;
+}
+
+/* Floating Zoom HUD Indicator */
+.zoom-indicator-hud{
+  position:absolute;top:20px;left:50%;transform:translateX(-50%);z-index:22;
+  padding:6px 16px;border-radius:20px;background:rgba(7,26,24,0.92);backdrop-filter:blur(10px);
+  border:1.5px solid var(--gold);color:var(--gold-light);font-size:11px;letter-spacing:0.14em;
+  opacity:0;pointer-events:none;transition:opacity 0.22s,transform 0.22s;box-shadow:0 0 16px var(--gold-glow);
+}
+.zoom-indicator-hud.visible{
+  opacity:1;transform:translateX(-50%) translateY(4px);
+}
+
+/* Nav arrows inside lightbox */
+.lightbox-nav{
+  position:absolute;top:50%;transform:translateY(-50%);z-index:15;
+  width:52px;height:52px;border-radius:50%;background:rgba(7,26,24,0.85);
+  border:1.5px solid var(--border);color:var(--gold-light);backdrop-filter:blur(10px);
+  display:flex;align-items:center;justify-content:center;transition:all .2s;cursor:pointer;
+}
+.lightbox-nav:hover{
+  background:rgba(15,47,44,0.95);border-color:var(--gold);color:#fff;
+  transform:translateY(-50%) scale(1.1);box-shadow:0 0 24px var(--gold-glow);
+}
+.lightbox-nav svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2.2}
+.lightbox-nav-prev{left:24px}
+.lightbox-nav-next{right:24px}
+
+/* Hint overlay */
+.lightbox-hint{
+  position:absolute;bottom:14px;left:50%;transform:translateX(-50%);z-index:12;
+  padding:6px 16px;border-radius:20px;background:rgba(7,26,24,0.85);backdrop-filter:blur(8px);
+  border:1px solid rgba(255,255,255,0.1);font-size:10px;letter-spacing:0.12em;color:var(--text-dim);
+  pointer-events:none;white-space:nowrap;
+}
+
+/* Bottom Filmstrip */
+.modal-filmstrip-bar{
+  padding:10px 24px 14px;background:rgba(7,26,24,0.92);border-top:1px solid var(--border);
+  display:flex;justify-content:center;align-items:center;z-index:10;
+}
+.modal-filmstrip{
+  display:flex;gap:8px;overflow-x:auto;max-width:90vw;padding:4px 0;scrollbar-width:thin;
+}
+.filmstrip-thumb{
+  width:56px;height:56px;border-radius:6px;overflow:hidden;flex-shrink:0;cursor:pointer;
+  border:2px solid transparent;background:#051412;opacity:0.6;transition:all .2s;
+}
+.filmstrip-thumb:hover{opacity:1;transform:scale(1.05);border-color:var(--gold-light)}
+.filmstrip-thumb.on{opacity:1;border-color:var(--gold);box-shadow:0 0 10px var(--gold-glow)}
+.filmstrip-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+
+/* LOADING OVERLAY */
+.wait{position:fixed;inset:0;z-index:90;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;transition:opacity .5s;pointer-events:none}
+.wait.gone{opacity:0}
+.spinner{width:36px;height:36px;border:2.5px solid rgba(184,163,106,0.2);border-top-color:var(--gold);border-radius:50%;animation:spin 0.8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.wait-text{font-size:11px;letter-spacing:0.2em;color:var(--gold);text-transform:uppercase}
+
+/* RESPONSIVE (MOBILE <= 860px) */
+@media (max-width:860px){
+  :root{--u:1px}
+  header{padding:10px 14px}
+  .r1{grid-template-columns:auto 1fr;gap:10px}
+  .tabs,.acct a:not(:last-child){display:none}
+  .brand{font-size:15px}
+  .brand-sub{font-size:8.5px}
+  main{grid-template-columns:1fr;grid-template-rows:1fr 240px}
+  .stage{cursor:auto}.m{cursor:auto}.ring{display:none}
+  .stage-arrow{width:36px;height:36px}
+  .stage-arrow-prev{left:10px}.stage-arrow-next{right:10px}
+  .intro{left:14px;top:14px;width:calc(100% - 28px)}
+  .intro-brand-title{font-size:18px;white-space:normal}
+  .intro-sub-line{font-size:9.5px;letter-spacing:0.16em}
+  .intro p,.badge-chất{display:none}
+  .tag{left:14px;bottom:12px}
+  .look{font-size:13px;line-height:22px;letter-spacing:0.08em}
+  .win,.roll b{height:22px;line-height:22px}
+  .shop{font-size:9.5px}
+  
+  .rail{border-left:none;border-top:1px solid var(--border)}
+  .rail-header{padding:8px 14px 4px}
+  .rail-content{padding:8px 14px 10px;display:flex;align-items:stretch}
+  .card-hero{width:100%;height:100%;display:flex;min-width:0}
+  .card-hero-img-wrap{width:115px;height:100%;flex-shrink:0}
+  .card-hero-body{flex:1;padding:8px 12px;display:flex;flex-direction:column;justify-content:space-between;min-width:0;overflow:hidden}
+  .tag-chips{margin-bottom:2px;gap:4px}
+  .chip{font-size:8px;padding:2px 6px}
+  .card-hero-title{font-size:12px;line-height:1.25;margin-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .card-hero-sku{font-size:8.5px}
+  .card-hero-price-row{margin:2px 0;padding-top:2px}
+  .card-hero-price{font-size:15px}
+  .btn-add{padding:8px 10px;font-size:9.5px;letter-spacing:0.08em;margin-top:auto}
+  .btn-zoom{display:none}
+  .gallery-section-title,.gallery-thumbs,.card-hero-desc,.specs-box{display:none}
+
+  /* Modal responsive (Touch optimized) */
+  .modal-topbar{padding:10px 14px;display:flex;flex-direction:column;gap:8px}
+  .modal-info{width:100%;display:flex;justify-content:space-between;align-items:center;gap:6px}
+  .modal-sku{font-size:10px;white-space:nowrap}
+  .modal-divider{display:none}
+  .modal-title{font-size:11.5px;max-width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .modal-badge{font-size:9px;padding:2px 6px;white-space:nowrap}
+  .modal-tools{width:100%;display:flex;justify-content:space-between;align-items:center;gap:6px}
+  .zoom-controls{height:30px;display:inline-flex;align-items:center}
+  .zoom-tool-btn{width:26px;height:100%;padding:0;font-size:13px;display:flex;align-items:center;justify-content:center}
+  .zoom-level-val{min-width:44px;padding:0 2px;font-size:10px;text-align:center}
+  .preset-pill{display:flex;gap:4px}
+  .preset-btn{padding:5px 8px;font-size:9px}
+  #preset-4x, #preset-reset{display:none}
+  .modal-close-btn{padding:5px 12px;font-size:10px;white-space:nowrap}
+  
+  .lightbox-nav{width:38px;height:38px}
+  .lightbox-nav svg{width:20px;height:20px}
+  .lightbox-nav-prev{left:8px}.lightbox-nav-next{right:8px}
+  .modal-img-container img{max-width:96vw;max-height:58vh}
+  .lightbox-hint{font-size:8.5px;padding:4px 12px;letter-spacing:0.06em;max-width:92vw;overflow:hidden;text-overflow:ellipsis}
+  .filmstrip-thumb{width:44px;height:44px}
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="r1">
+      <div class="brand-group">
+        <a class="brand michroma" href="#" aria-label="GRE•911">GRE<span>•</span>911</a>
+        <span class="brand-sub michroma">C102 FIGURES</span>
+      </div>
+      <nav class="tabs michroma" aria-label="Bộ sưu tập">
+        <a class="on" href="#" data-cat="all">ALL FIGURES</a>
+        <a href="#" data-cat="street">STREETWEAR</a>
+        <a href="#" data-cat="racing">MOTORSPORT</a>
+        <a href="#" data-cat="japanese">JAPANESE</a>
+        <a href="#" data-cat="workers">INDUSTRIAL</a>
+      </nav>
+      <div class="acct michroma">
+        <a href="#" aria-label="Tìm kiếm"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></a>
+        <a href="#" id="fav-btn" aria-label="Bộ sưu tập đã lưu"><svg viewBox="0 0 24 24"><path d="M12 20S3.5 15 3.5 9A4.6 4.6 0 0 1 12 6.6 4.6 4.6 0 0 1 20.5 9C20.5 15 12 20 12 20Z"/></svg> <span id="fav-count">0</span></a>
+        <a href="#" aria-label="Giỏ hàng"><svg viewBox="0 0 24 24"><path d="M5 8h14l1 13H4Z"/><path d="M9 10V6a3 3 0 0 1 6 0v4"/></svg> <span class="cart-badge">CART (<span id="cart">0</span>)</span></a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="stage" id="stage" aria-label="Figure Runway 1:64. Kéo chuột, cuộn bánh xe hoặc dùng phím mũi tên để chuyển figure." tabindex="0">
+      <div class="line" id="line"></div>
+      
+      <!-- Nút điều hướng Next / Lùi trên Runway Stage -->
+      <button class="stage-arrow stage-arrow-prev" id="stage-arrow-prev" aria-label="Figure trước đó" title="Mẫu trước [←]">
+        <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <button class="stage-arrow stage-arrow-next" id="stage-arrow-next" aria-label="Figure tiếp theo" title="Mẫu kế tiếp [→]">
+        <svg viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
+
+      <!-- INTRO BLOCK: CHẤT 102 × GRE•911 phóng to, Figure 1:64 nhỏ lại -->
+      <div class="intro">
+        <h1 class="intro-brand-title michroma">
+          CHẤT 102 <span class="x-sep">×</span> GRE<span class="dot">•</span>911
+        </h1>
+        <div class="intro-sub-line michroma">
+          FIGURE RUNWAY // TỈ LỆ 1:64
+        </div>
+        <p>Bộ sưu tập nhân vật thu nhỏ tỉ lệ 1:64 được sơn phủ thủ công tinh xảo trên chất liệu Resin SLA cao cấp. Đầy đủ sắc thái từ văn hóa đường phố, giải đua xe cho đến sa bàn đời sống.</p>
+        <div class="badge-chất michroma">HAND-PAINTED • SCALE 1:64 • VIETNAM CRAFT</div>
+      </div>
+
+      <div class="tag">
+        <div class="look michroma" aria-live="polite">
+          <span class="tag-sku-title">SKU</span>
+          <span class="win"><span class="roll" id="roll"></span></span>
+        </div>
+        <a class="shop michroma" id="explore-btn" href="#">CHI TIẾT MẪU NÀY ➔</a>
+      </div>
+
+      <div class="ring" id="ring"></div>
+    </section>
+
+    <aside class="rail" id="rail" aria-label="Thông tin chi tiết figure">
+      <div class="rail-header">
+        <h3 class="michroma">SPECS & GALLERY</h3>
+        <span class="rail-counter michroma" id="rail-counter">01 / 06</span>
+      </div>
+      <div class="rail-content" id="rail-content"></div>
+    </aside>
+  </main>
+</div>
+
+<!-- ==============================================================
+     HIGH-RES MACRO GALLERY LIGHTBOX (ZOOM + PAN + NEXT / PREV)
+     ============================================================== -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="Hộp xem phóng to chi tiết figure 1:64">
+  <div class="modal-topbar">
+    <div class="modal-info">
+      <span class="modal-sku michroma" id="modal-sku">C102-SET-0018</span>
+      <span class="modal-divider">•</span>
+      <span class="modal-title" id="modal-title">Bộ Ngũ Đại Nhân Vật Streetwear</span>
+      <span class="modal-badge michroma" id="modal-photo-counter">ẢNH 01 / 11</span>
+    </div>
+
+    <div class="modal-tools">
+      <!-- Bộ điều khiển Zoom -->
+      <div class="zoom-controls">
+        <button class="zoom-tool-btn" id="zoom-out-btn" title="Thu nhỏ (−)" aria-label="Thu nhỏ (−)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/></svg>
+        </button>
+        <span class="zoom-level-val michroma" id="zoom-val-text">100%</span>
+        <button class="zoom-tool-btn" id="zoom-in-btn" title="Phóng to (+)" aria-label="Phóng to (+)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 5v14M5 12h14"/></svg>
+        </button>
+      </div>
+      <!-- Preset pills -->
+      <div class="preset-pill">
+        <button class="preset-btn michroma on" id="preset-1x">1X</button>
+        <button class="preset-btn michroma" id="preset-2x">2X</button>
+        <button class="preset-btn michroma" id="preset-3x">3X MACRO</button>
+        <button class="preset-btn michroma" id="preset-4x">4.5X</button>
+        <button class="preset-btn michroma" id="preset-reset" title="Đặt lại góc nhìn">↺ RESET</button>
+      </div>
+      <button class="modal-close-btn michroma" id="modal-close-btn" title="Đóng [ESC]">✕ ĐÓNG</button>
+    </div>
+  </div>
+
+  <!-- Vùng xem ảnh phóng to -->
+  <div class="modal-viewport" id="modal-viewport">
+    <div class="zoom-indicator-hud michroma" id="zoom-indicator-hud">ĐỘ PHÓNG ĐẠI: 100%</div>
+
+    <button class="lightbox-nav lightbox-nav-prev" id="lightbox-prev" aria-label="Ảnh trước đó" title="Ảnh trước [←]">
+      <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+    </button>
+
+    <div class="modal-img-container" id="modal-img-container">
+      <img id="modal-img" src="" alt="Figure Macro Detail" draggable="false">
+    </div>
+
+    <button class="lightbox-nav lightbox-nav-next" id="lightbox-next" aria-label="Ảnh kế tiếp" title="Ảnh tiếp theo [→]">
+      <svg viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
+    </button>
+
+    <div class="lightbox-hint michroma" id="lightbox-hint">
+      CLICK VÀO ẢNH ĐỂ ZOOM • CUỘN CHUỘT HOẶC KÉO ĐỂ SOI CHI TIẾT SƠN THỦ CÔNG
+    </div>
+  </div>
+
+  <!-- Thanh cuộn Filmstrip ảnh đa góc cạnh dưới -->
+  <div class="modal-filmstrip-bar">
+    <div class="modal-filmstrip" id="modal-filmstrip"></div>
+  </div>
+</div>
+
+<!-- LOADING OVERLAY -->
+<div class="wait" id="wait">
+  <div class="spinner"></div>
+  <div class="wait-text michroma">LOADING 1:64 RUNWAY...</div>
+</div>
+
+<script type="module">
+const FIGURES = [
+  {
+    id: "G018",
+    sku: "C102-SET-0018",
+    title: "Bộ Ngũ Đại Nhân Vật Streetwear",
+    theme: "Urban & Street Life",
+    brand: "Chất 102",
+    scale: "1:64",
+    material: "Resin Thủ Công Cao Cấp",
+    price: 295000,
+    priceFormatted: "295.000₫",
+    desc: "Tạo hình cách điệu Tây Du Ký phong cách đường phố hiện đại: Đường Tăng vest trắng lịch lãm, Tôn Ngộ Không nữ cá tính, Trư Bát Giới áo da, Sa Tăng uy dũng.",
+    cover: "figures/FIG-C102-018__G018__01.jpg",
+    gallery: [
+      "figures/FIG-C102-018__G018__01.jpg",
+      "figures/FIG-C102-018__G018__02.jpg",
+      "figures/FIG-C102-018__G018__03.jpg",
+      "figures/FIG-C102-018__G018__04.jpg",
+      "figures/FIG-C102-018__G018__05.jpg",
+      "figures/FIG-C102-018__G018__06.jpg",
+      "figures/FIG-C102-018__G018__07.jpg",
+      "figures/FIG-C102-018__G018__08.jpg",
+      "figures/FIG-C102-018__G018__09.jpg",
+      "figures/FIG-C102-018__G018__10.jpg",
+      "figures/FIG-C102-018__G018__11.jpg"
+    ]
+  },
+  {
+    id: "G011",
+    sku: "C102-SET-0011",
+    title: "Cặp Nữ Cổ Động Biker & Race Queens",
+    theme: "Motorsport & Racing",
+    brand: "OKGO",
+    scale: "1:64",
+    material: "Resin Thủ Công Cao Cấp",
+    price: 450000,
+    priceFormatted: "450.000₫",
+    desc: "Bộ đôi người mẫu đường đua trong trang phục áo khoác da biker, quần shorts camo, bốt da cao cổ và nón bảo hiểm thể thao năng động.",
+    cover: "figures/FIG-C102-011__G011__01.jpg",
+    gallery: [
+      "figures/FIG-C102-011__G011__01.jpg",
+      "figures/FIG-C102-011__G011__02.jpg",
+      "figures/FIG-C102-011__G011__03.jpg",
+      "figures/FIG-C102-011__G011__04.jpg",
+      "figures/FIG-C102-011__G011__05.jpg"
+    ]
+  },
+  {
+    id: "G007",
+    sku: "C102-FIG-0007",
+    title: "Nhân Vật Nữ Firefly Phố Nhật",
+    theme: "Japanese & Cultural",
+    brand: "Chất 102",
+    scale: "1:64",
+    material: "Resin Thủ Công Cao Cấp",
+    price: 290000,
+    priceFormatted: "290.000₫",
+    desc: "Nhân vật nữ phong cách anime với mái tóc xanh bạc hà, váy xếp ly trắng bồng bềnh, hoàn hảo cho sa bàn phố xá Nhật Bản thu nhỏ.",
+    cover: "figures/FIG-C102-007__G007__01.jpg",
+    gallery: [
+      "figures/FIG-C102-007__G007__01.jpg",
+      "figures/FIG-C102-007__G007__02.jpg",
+      "figures/FIG-C102-007__G007__03.jpg",
+      "figures/FIG-C102-007__G007__04.jpg"
+    ]
+  },
+  {
+    id: "G049",
+    sku: "C102-FIG-0049",
+    title: "Cặp Lướt Sóng Coastal Surfers",
+    theme: "Lifestyle & Leisure",
+    brand: "OKGO",
+    scale: "1:64",
+    material: "Resin Thủ Công Cao Cấp",
+    price: 500000,
+    priceFormatted: "500.000₫",
+    desc: "Hai nhân vật mang ván lướt sóng họa tiết hoàng hôn và sóng biển vẽ tay thủ công tinh xảo, tạo dáng phóng khoáng mùa hè nhiệt đới.",
+    cover: "figures/FIG-C102-049__G049__01.jpg",
+    gallery: [
+      "figures/FIG-C102-049__G049__01.jpg",
+      "figures/FIG-C102-049__G049__02.jpg",
+      "figures/FIG-C102-049__G049__03.jpg"
+    ]
+  },
+  {
+    id: "G022",
+    sku: "C102-SET-0022",
+    title: "Quý Cô & Xe Mô Tô Orange Moto",
+    theme: "Lifestyle & Leisure",
+    brand: "Chất 102",
+    scale: "1:64",
+    material: "Resin Thủ Công Cao Cấp",
+    price: 450000,
+    priceFormatted: "450.000₫",
+    desc: "Bộ đôi nhân vật nữ văn phòng hiện đại với kính gọng vàng, váy bút chì tạo dáng tự tin bên hai chiếc mô tô naked bike màu cam bắt mắt.",
+    cover: "figures/FIG-C102-022__G022__01.jpg",
+    gallery: [
+      "figures/FIG-C102-022__G022__01.jpg",
+      "figures/FIG-C102-022__G022__02.jpg",
+      "figures/FIG-C102-022__G022__03.jpg",
+      "figures/FIG-C102-022__G022__04.jpg",
+      "figures/FIG-C102-022__G022__05.jpg"
+    ]
+  },
+  {
+    id: "G100",
+    sku: "C102-SET-0100",
+    title: "Nhân Viên Kho & Xe Nâng Turret Truck",
+    theme: "Industrial & Workers",
+    brand: "Chất 102",
+    scale: "1:64",
+    material: "Resin Thủ Công Cao Cấp",
+    price: 800000,
+    priceFormatted: "800.000₫",
+    desc: "Figure nhân viên vận hành cùng xe vận chuyển pallet màu vàng kiểu chợ cá Tsukiji / kho hàng logistics sa bàn Nhật Bản tỉ lệ 1:64.",
+    cover: "figures/FIG-C102-100__G100__01.jpg",
+    gallery: [
+      "figures/FIG-C102-100__G100__01.jpg",
+      "figures/FIG-C102-100__G100__02.jpg",
+      "figures/FIG-C102-100__G100__03.jpg"
+    ]
+  }
+];
+
+// DEPTH STOPS: d = -1 (leaving) to d = 5 (hazy distance)
+const KX = [1.22, 0.76, 0.51, 0.35, 0.23, 0.14, 0.08];
+const KF = [1.14, 0.90, 0.79, 0.72, 0.66, 0.62, 0.59];
+const KH = [1.20, 0.85, 0.59, 0.44, 0.34, 0.26, 0.19];
+const KB = [0, 0, 1.2, 3.5, 7.5, 11, 16];
+const KO = [1, 1, 1, 1, 0.88, 0.52, 0];
+
+const N = FIGURES.length;
+const $ = id => document.getElementById(id);
+const stage = $('stage'), line = $('line'), ring = $('ring'), roll = $('roll');
+const railContent = $('rail-content'), railCounter = $('rail-counter');
+
+const wrap = (x, n) => ((x % n) + n) % n;
+const clamp = (x, a, b) => Math.min(b, Math.max(a, x));
+
+// Build rolling SKU in bottom tag (chỗ //001 dùng mã SKU)
+for (let i = 0; i <= N; i++) {
+  const b = document.createElement('b');
+  const fig = FIGURES[i % N];
+  b.textContent = '// ' + fig.sku;
+  roll.append(b);
+}
+
+// Build stage plinths
+const people = FIGURES.map((fig, i) => {
+  const e = document.createElement('div');
+  e.className = 'm';
+  e.dataset.i = i;
+  e.innerHTML = `
+    <div class="m-inner">
+      <div class="m-pedestal">
+        <div class="m-header michroma">
+          <span>SCALE 1:64</span>
+          <span>${fig.sku}</span>
+        </div>
+        <div class="m-photo">
+          <img src="${fig.cover}" alt="${fig.title}" loading="lazy">
+        </div>
+        <div class="m-footer">
+          <span class="m-name">${fig.title}</span>
+          <span class="m-price michroma">${fig.priceFormatted}</span>
+        </div>
+      </div>
+    </div>
+  `;
+  line.append(e);
+  return { e, r: 0.72, f: '', o: '' };
+});
+
+let cart = 0;
+let savedSet = new Set();
+let currentActiveIdx = 0;
+let currentHeroThumb = 0;
+
+function updateRail(idx) {
+  currentActiveIdx = idx;
+  const fig = FIGURES[idx];
+  railCounter.textContent = `0${idx + 1} / 0${N}`;
+  const isFav = savedSet.has(fig.id);
+
+  railContent.innerHTML = `
+    <div class="card-hero">
+      <div class="card-hero-img-wrap" id="hero-zoom-trigger" title="Rê chuột để soi kính lúp • Bấm để mở thư viện Macro Zoom">
+        <img id="hero-img" src="${fig.gallery[currentHeroThumb] || fig.cover}" alt="${fig.title}">
+        <div class="card-hero-zoom-badge michroma" id="hero-badge-zoom" title="Bấm mở Macro Zoom">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M11 8v6M8 11h6"/></svg>
+          MACRO ZOOM
+        </div>
+        <button class="card-hero-fav" id="hero-fav" aria-pressed="${isFav}" aria-label="Lưu mẫu này">
+          <svg viewBox="0 0 24 24"><path d="M12 20S3.5 15 3.5 9A4.6 4.6 0 0 1 12 6.6 4.6 4.6 0 0 1 20.5 9C20.5 15 12 20 12 20Z"/></svg>
+        </button>
+      </div>
+      <div class="card-hero-body">
+        <div class="tag-chips">
+          <span class="chip chip-scale michroma">1:64</span>
+          <span class="chip michroma">${fig.brand}</span>
+          <span class="chip">${fig.theme}</span>
+        </div>
+        <h4 class="card-hero-title">${fig.title}</h4>
+        <div class="card-hero-sku michroma">${fig.sku}</div>
+        <div class="card-hero-price-row">
+          <span class="card-hero-price michroma">${fig.priceFormatted}</span>
+          <span style="font-size:10px;color:var(--text-dimmer)">Giá niêm yết (VND)</span>
+        </div>
+        <p class="card-hero-desc">${fig.desc}</p>
+        
+        <div class="gallery-section-title michroma">
+          <span>GÓC CHỤP THỰC TẾ (${fig.gallery.length} ẢNH)</span>
+          <span style="font-size:8.5px;color:var(--gold-light)">CLICK ĐỂ XEM</span>
+        </div>
+        <div class="gallery-thumbs" id="thumbs-container"></div>
+
+        <button class="btn-add michroma" id="add-to-cart">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 5v14M5 12h14"/></svg>
+          THÊM VÀO BỘ SƯU TẬP
+        </button>
+        <button class="btn-zoom michroma" id="btn-zoom-action">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M11 8v6M8 11h6"/></svg>
+          SOI CHI TIẾT SƠN THỦ CÔNG & GALLERY
+        </button>
+      </div>
+    </div>
+
+    <div class="specs-box">
+      <div class="spec-row"><span class="spec-label">Mã sản phẩm:</span><span class="spec-val michroma">${fig.sku}</span></div>
+      <div class="spec-row"><span class="spec-label">Tỉ lệ mô hình:</span><span class="spec-val">1:64 (~2.8 cm)</span></div>
+      <div class="spec-row"><span class="spec-label">Chất liệu:</span><span class="spec-val">Resin SLA siêu mịn</span></div>
+      <div class="spec-row"><span class="spec-label">Kỹ thuật sơn:</span><span class="spec-val">Hand-painted chi tiết cao</span></div>
+      <div class="spec-row"><span class="spec-label">Nhà chế tác:</span><span class="spec-val">${fig.brand} (Made in VN)</span></div>
+      <div class="spec-row"><span class="spec-label">Độ tương thích:</span><span class="spec-val">Sa bàn diorama 1:64</span></div>
+    </div>
+  `;
+
+  // Interactive Magnifier Loupe on Hero Card
+  const heroWrap = $('hero-zoom-trigger');
+  const heroImg = $('hero-img');
+  const heroLoupe = document.createElement('div');
+  heroLoupe.className = 'card-hero-loupe';
+  heroWrap.appendChild(heroLoupe);
+
+  heroWrap.addEventListener('pointerenter', () => {
+    heroLoupe.style.backgroundImage = `url("${heroImg.src}")`;
+    heroLoupe.classList.add('active');
+  });
+  heroWrap.addEventListener('pointerleave', () => {
+    heroLoupe.classList.remove('active');
+  });
+  heroWrap.addEventListener('pointermove', (e) => {
+    const rect = heroWrap.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    heroLoupe.style.left = `${x}px`;
+    heroLoupe.style.top = `${y}px`;
+    
+    const zoomFactor = 2.6;
+    const bgW = rect.width * zoomFactor;
+    const bgH = rect.height * zoomFactor;
+    const bgX = -(x * zoomFactor - 65);
+    const bgY = -(y * zoomFactor - 65);
+    heroLoupe.style.backgroundSize = `${bgW}px ${bgH}px`;
+    heroLoupe.style.backgroundPosition = `${bgX}px ${bgY}px`;
+  });
+
+  // Render multi-angle thumbnails in side rail
+  const thumbsWrap = $('thumbs-container');
+  fig.gallery.forEach((gSrc, gIdx) => {
+    const t = document.createElement('div');
+    t.className = 'thumb' + (gIdx === currentHeroThumb ? ' on' : '');
+    t.innerHTML = `<img src="${gSrc}" alt="Góc ${gIdx + 1}" loading="lazy">`;
+    t.addEventListener('click', () => {
+      currentHeroThumb = gIdx;
+      $('hero-img').src = gSrc;
+      heroLoupe.style.backgroundImage = `url("${gSrc}")`;
+      thumbsWrap.querySelectorAll('.thumb').forEach(el => el.classList.remove('on'));
+      t.classList.add('on');
+    });
+    thumbsWrap.append(t);
+  });
+
+  // Action listeners
+  $('hero-fav').addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (savedSet.has(fig.id)) savedSet.delete(fig.id);
+    else savedSet.add(fig.id);
+    $('hero-fav').setAttribute('aria-pressed', savedSet.has(fig.id));
+    $('fav-count').textContent = savedSet.size;
+  });
+
+  $('add-to-cart').addEventListener('click', (e) => {
+    e.stopPropagation();
+    cart++;
+    $('cart').textContent = cart;
+    const btn = $('add-to-cart');
+    const orig = btn.innerHTML;
+    btn.innerHTML = `✓ ĐÃ THÊM (${cart})`;
+    btn.style.background = 'var(--gold-light)';
+    setTimeout(() => {
+      btn.innerHTML = orig;
+      btn.style.background = 'var(--gold)';
+    }, 1200);
+  });
+
+  $('hero-zoom-trigger').addEventListener('click', () => openGalleryModal(currentActiveIdx, currentHeroThumb));
+  $('btn-zoom-action').addEventListener('click', () => openGalleryModal(currentActiveIdx, currentHeroThumb));
+}
+
+/* ==============================================================
+   LIGHTBOX GALLERY & MACRO ZOOM/PAN CONTROLS
+   ============================================================== */
+const modal = $('modal');
+const modalImg = $('modal-img');
+const modalImgContainer = $('modal-img-container');
+const modalTitle = $('modal-title');
+const modalSku = $('modal-sku');
+const modalPhotoCounter = $('modal-photo-counter');
+const modalFilmstrip = $('modal-filmstrip');
+const zoomValText = $('zoom-val-text');
+const zoomHud = $('zoom-indicator-hud');
+
+let modalFigIdx = 0;
+let modalPhotoIdx = 0;
+let zoom = 1.0;
+let panX = 0, panY = 0;
+let isDragging = false;
+let startX = 0, startY = 0;
+let hudTimer = null;
+
+function showZoomHud(text) {
+  if (!zoomHud) return;
+  zoomHud.textContent = text;
+  zoomHud.classList.add('visible');
+  clearTimeout(hudTimer);
+  hudTimer = setTimeout(() => zoomHud.classList.remove('visible'), 1300);
+}
+
+function applyTransform() {
+  modalImg.style.transform = `translate(${panX}px, ${panY}px) scale(${zoom})`;
+  zoomValText.textContent = `${Math.round(zoom * 100)}%`;
+  
+  // Highlight active preset
+  document.querySelectorAll('.preset-btn').forEach(btn => btn.classList.remove('on'));
+  if (zoom <= 1.05) {
+    modalImgContainer.classList.remove('is-zoomed');
+    $('preset-1x').classList.add('on');
+    panX = 0;
+    panY = 0;
+  } else {
+    modalImgContainer.classList.add('is-zoomed');
+    if (Math.abs(zoom - 2.0) < 0.25) $('preset-2x').classList.add('on');
+    else if (Math.abs(zoom - 3.0) < 0.35) $('preset-3x').classList.add('on');
+    else if (zoom > 3.8) $('preset-4x').classList.add('on');
+  }
+}
+
+function setZoom(newZoom, centerX = 0, centerY = 0, notify = true) {
+  const prevZoom = zoom;
+  zoom = clamp(newZoom, 1.0, 4.5);
+  
+  if (zoom <= 1.02) {
+    zoom = 1.0;
+    panX = 0;
+    panY = 0;
+  } else if (prevZoom !== zoom) {
+    if (centerX === 0 && centerY === 0 && prevZoom === 1.0) {
+      panY = -35 * (zoom - 1);
+    } else {
+      panX -= centerX * (zoom - prevZoom) * 0.45;
+      panY -= centerY * (zoom - prevZoom) * 0.45;
+    }
+  }
+  
+  const maxPanX = window.innerWidth * (zoom - 1) * 0.48;
+  const maxPanY = window.innerHeight * (zoom - 1) * 0.48;
+  panX = clamp(panX, -maxPanX, maxPanX);
+  panY = clamp(panY, -maxPanY, maxPanY);
+
+  applyTransform();
+  if (notify) {
+    showZoomHud(`ĐỘ PHÓNG ĐẠI: ${Math.round(zoom * 100)}%`);
+  }
+}
+
+function openGalleryModal(figIdx, photoIdx = 0) {
+  modalFigIdx = figIdx;
+  modalPhotoIdx = photoIdx;
+  zoom = 1.0;
+  panX = 0;
+  panY = 0;
+  renderModalContent();
+  modal.classList.add('open');
+  showZoomHud(`BẤM VÀO ẢNH HOẶC NÚT (+) ĐỂ ZOOM`);
+}
+
+function closeGalleryModal() {
+  modal.classList.remove('open');
+  zoom = 1.0;
+  panX = 0;
+  panY = 0;
+  applyTransform();
+}
+
+function renderModalContent() {
+  const fig = FIGURES[modalFigIdx];
+  modalTitle.textContent = fig.title;
+  modalSku.textContent = fig.sku;
+  modalPhotoCounter.textContent = `ẢNH ${String(modalPhotoIdx + 1).padStart(2, '0')} / ${String(fig.gallery.length).padStart(2, '0')}`;
+  
+  modalImg.src = fig.gallery[modalPhotoIdx] || fig.cover;
+  
+  // Render filmstrip thumbnails
+  modalFilmstrip.innerHTML = '';
+  fig.gallery.forEach((src, idx) => {
+    const t = document.createElement('div');
+    t.className = 'filmstrip-thumb' + (idx === modalPhotoIdx ? ' on' : '');
+    t.innerHTML = `<img src="${src}" alt="Ảnh ${idx + 1}">`;
+    t.addEventListener('click', () => {
+      modalPhotoIdx = idx;
+      zoom = 1.0;
+      panX = 0;
+      panY = 0;
+      renderModalContent();
+      applyTransform();
+    });
+    modalFilmstrip.append(t);
+  });
+
+  const activeThumb = modalFilmstrip.children[modalPhotoIdx];
+  if (activeThumb) {
+    activeThumb.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  }
+
+  applyTransform();
+}
+
+function nextGalleryPhoto() {
+  const fig = FIGURES[modalFigIdx];
+  modalPhotoIdx = (modalPhotoIdx + 1) % fig.gallery.length;
+  zoom = 1.0;
+  panX = 0;
+  panY = 0;
+  renderModalContent();
+}
+
+function prevGalleryPhoto() {
+  const fig = FIGURES[modalFigIdx];
+  modalPhotoIdx = (modalPhotoIdx - 1 + fig.gallery.length) % fig.gallery.length;
+  zoom = 1.0;
+  panX = 0;
+  panY = 0;
+  renderModalContent();
+}
+
+// Next / Prev buttons in modal
+$('lightbox-next').addEventListener('click', e => { e.stopPropagation(); nextGalleryPhoto(); });
+$('lightbox-prev').addEventListener('click', e => { e.stopPropagation(); prevGalleryPhoto(); });
+
+// Zoom control buttons (Direct tactile click)
+$('zoom-in-btn').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(zoom + 0.5);
+});
+$('zoom-out-btn').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(zoom - 0.5);
+});
+$('preset-1x').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(1.0);
+});
+$('preset-2x').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(2.0);
+});
+$('preset-3x').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(3.0);
+});
+$('preset-4x').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(4.5);
+});
+$('preset-reset').addEventListener('click', (e) => {
+  e.stopPropagation();
+  setZoom(1.0);
+});
+$('modal-close-btn').addEventListener('click', closeGalleryModal);
+
+// Mouse wheel zoom in modal (centered at cursor)
+$('modal-viewport').addEventListener('wheel', e => {
+  e.preventDefault();
+  const rect = modalImg.getBoundingClientRect();
+  const cx = e.clientX - (rect.left + rect.width / 2);
+  const cy = e.clientY - (rect.top + rect.height / 2);
+  const delta = e.deltaY < 0 ? 0.35 : -0.35;
+  setZoom(zoom + delta, cx, cy);
+}, { passive: false });
+
+// Interactive Click-to-Zoom & Drag-to-Pan on image container
+let pointerDownPos = { x: 0, y: 0 };
+let pointerDownTime = 0;
+let hasDragged = false;
+
+modalImgContainer.addEventListener('pointerdown', e => {
+  pointerDownPos = { x: e.clientX, y: e.clientY };
+  pointerDownTime = Date.now();
+  hasDragged = false;
+
+  if (zoom > 1.02) {
+    isDragging = true;
+    startX = e.clientX - panX;
+    startY = e.clientY - panY;
+    modalImgContainer.classList.add('is-dragging');
+    try { modalImgContainer.setPointerCapture(e.pointerId); } catch(err) {}
+  }
+});
+
+modalImgContainer.addEventListener('pointermove', e => {
+  const dist = Math.hypot(e.clientX - pointerDownPos.x, e.clientY - pointerDownPos.y);
+  if (dist > 6) hasDragged = true;
+
+  if (!isDragging) return;
+  panX = e.clientX - startX;
+  panY = e.clientY - startY;
+  
+  const maxPanX = window.innerWidth * (zoom - 1) * 0.48;
+  const maxPanY = window.innerHeight * (zoom - 1) * 0.48;
+  panX = clamp(panX, -maxPanX, maxPanX);
+  panY = clamp(panY, -maxPanY, maxPanY);
+
+  applyTransform();
+});
+
+const endPan = e => {
+  if (isDragging) {
+    isDragging = false;
+    modalImgContainer.classList.remove('is-dragging');
+  }
+
+  const elapsed = Date.now() - pointerDownTime;
+  // Quick click / tap without dragging: TOGGLE ZOOM
+  if (!hasDragged && elapsed < 300) {
+    const rect = modalImg.getBoundingClientRect();
+    const cx = e.clientX - (rect.left + rect.width / 2);
+    const cy = e.clientY - (rect.top + rect.height / 2);
+    
+    if (zoom <= 1.1) {
+      setZoom(2.5, cx, cy);
+    } else {
+      setZoom(1.0);
+    }
+  }
+};
+modalImgContainer.addEventListener('pointerup', endPan);
+modalImgContainer.addEventListener('pointercancel', endPan);
+
+// Mobile Touch Gestures: Swipe between photos + Pinch-to-Zoom
+let touchStartX = 0;
+let touchStartY = 0;
+let initialPinchDist = 0;
+let initialPinchZoom = 1.0;
+
+modalImgContainer.addEventListener('touchstart', e => {
+  if (e.touches.length === 1) {
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+  } else if (e.touches.length === 2) {
+    initialPinchDist = Math.hypot(
+      e.touches[0].clientX - e.touches[1].clientX,
+      e.touches[0].clientY - e.touches[1].clientY
+    );
+    initialPinchZoom = zoom;
+  }
+}, { passive: true });
+
+modalImgContainer.addEventListener('touchmove', e => {
+  if (e.touches.length === 2 && initialPinchDist > 0) {
+    const currentDist = Math.hypot(
+      e.touches[0].clientX - e.touches[1].clientX,
+      e.touches[0].clientY - e.touches[1].clientY
+    );
+    const scale = currentDist / initialPinchDist;
+    setZoom(initialPinchZoom * scale, 0, 0, false);
+  }
+}, { passive: true });
+
+modalImgContainer.addEventListener('touchend', e => {
+  if (e.touches.length < 2) {
+    initialPinchDist = 0;
+  }
+  if (e.changedTouches.length === 1 && zoom <= 1.05) {
+    const diffX = e.changedTouches[0].clientX - touchStartX;
+    const diffY = e.changedTouches[0].clientY - touchStartY;
+    if (Math.abs(diffX) > 40 && Math.abs(diffX) > Math.abs(diffY)) {
+      if (diffX < 0) nextGalleryPhoto();
+      else prevGalleryPhoto();
+    }
+  }
+}, { passive: true });
+
+// Keyboard shortcuts
+window.addEventListener('keydown', e => {
+  if (modal.classList.contains('open')) {
+    if (e.key === 'Escape') closeGalleryModal();
+    else if (e.key === 'ArrowRight') nextGalleryPhoto();
+    else if (e.key === 'ArrowLeft') prevGalleryPhoto();
+    else if (e.key === '+' || e.key === '=') setZoom(zoom + 0.4);
+    else if (e.key === '-' || e.key === '_') setZoom(zoom - 0.4);
+    else if (e.key === '0') setZoom(1.0);
+  } else {
+    if (['ArrowRight', 'ArrowDown'].includes(e.key)) {
+      e.preventDefault();
+      target = Math.round(target) + 1;
+    } else if (['ArrowLeft', 'ArrowUp'].includes(e.key)) {
+      e.preventDefault();
+      target = Math.round(target) - 1;
+    }
+  }
+});
+
+// STAGE ARROWS (Next / Lùi figure trên Runway)
+$('stage-arrow-prev').addEventListener('click', e => {
+  e.stopPropagation();
+  target = Math.round(target) - 1;
+});
+$('stage-arrow-next').addEventListener('click', e => {
+  e.stopPropagation();
+  target = Math.round(target) + 1;
+});
+
+$('explore-btn').addEventListener('click', e => {
+  e.preventDefault();
+  openGalleryModal(currentActiveIdx, 0);
+});
+
+/* ==============================================================
+   RUNWAY DEPTH MATH & PHYSICS LOOP
+   ============================================================== */
+let W = 0, H = 0, base = 0, dirty = true, p = 0, target = 0, last = 0;
+
+function size() {
+  W = stage.clientWidth;
+  H = stage.clientHeight;
+  base = H * 1.05;
+  people.forEach(m => {
+    m.e.style.width = (base * m.r * 0.72) + 'px';
+    m.e.style.height = (base * 0.72) + 'px';
+  });
+  dirty = true;
+}
+window.addEventListener('resize', size);
+
+function paint() {
+  people.forEach((m, i) => {
+    let d = wrap(i - p, N);
+    if (d > N - 1) d -= N;
+
+    const k = clamp(d + 1, 0, 6);
+    const a = Math.floor(k);
+    const b = Math.min(6, a + 1);
+    const t = k - a;
+    const mix = A => A[a] + (A[b] - A[a]) * t;
+
+    const h = mix(KH) * H;
+    const s = h / base;
+    const w = h * m.r * 0.72;
+    const x = mix(KX) * W - w / 2;
+    const y = mix(KF) * H - h;
+
+    m.e.style.transform = `translate3d(${x.toFixed(1)}px,${y.toFixed(1)}px,0) scale(${s.toFixed(4)})`;
+    const f = mix(KB) / s;
+    const fs = f < 0.2 ? 'none' : `blur(${f.toFixed(1)}px)`;
+    const o = mix(KO).toFixed(3);
+
+    if (fs !== m.f) { m.f = fs; m.e.style.filter = fs; }
+    if (o !== m.o) { m.o = o; m.e.style.opacity = o; }
+    m.e.style.zIndex = 100 - Math.round(d * 10);
+  });
+
+  const rollH = roll.firstChild ? roll.firstChild.offsetHeight : 36;
+  roll.style.transform = `translate3d(0, ${(-wrap(p, N) * rollH).toFixed(1)}px, 0)`;
+
+  // Update side rail if active front index changed
+  const frontIdx = wrap(Math.round(p), N);
+  if (frontIdx !== currentActiveIdx) {
+    currentHeroThumb = 0;
+    updateRail(frontIdx);
+  }
+}
+
+function frame(now) {
+  const dt = Math.min(50, now - last) || 16;
+  last = now;
+  const was = p;
+  p += (target - p) * (1 - Math.exp(-dt * 0.0075));
+  if (Math.abs(target - p) < 0.0004) p = target;
+  if (p !== was || dirty) {
+    dirty = false;
+    paint();
+  }
+  cx += (mx - cx) * 0.32;
+  cy += (my - cy) * 0.32;
+  ring.style.transform = `translate3d(${cx.toFixed(1)}px,${cy.toFixed(1)}px,0)`;
+}
+
+// POINTER & DRAG CONTROLS ON RUNWAY
+let mx = 0, my = 0, cx = 0, cy = 0, down = false, sx = 0, st = 0, moved = 0, wheelT = 0;
+const PULL = () => Math.max(160, W * 0.22);
+
+stage.addEventListener('pointerenter', e => { if (e.pointerType === 'mouse') ring.classList.add('show'); });
+stage.addEventListener('pointerleave', () => ring.classList.remove('show'));
+stage.addEventListener('pointermove', e => {
+  const r = stage.getBoundingClientRect();
+  mx = e.clientX - r.left;
+  my = e.clientY - r.top;
+  if (!down) return;
+  const dx = e.clientX - sx;
+  moved = Math.max(moved, Math.abs(dx));
+  target = st + dx / PULL();
+});
+
+stage.addEventListener('pointerdown', e => {
+  if (e.target.closest('a') || e.target.closest('button')) return;
+  down = true;
+  sx = e.clientX;
+  st = target;
+  moved = 0;
+  stage.setPointerCapture(e.pointerId);
+  ring.classList.add('drag');
+});
+
+function release(e) {
+  if (!down) return;
+  down = false;
+  ring.classList.remove('drag');
+  if (moved < 6) {
+    const hit = document.elementsFromPoint(e.clientX, e.clientY).find(x => x.classList && x.classList.contains('m'));
+    if (hit) {
+      let d = wrap(+hit.dataset.i - target, N);
+      d = Math.round(d);
+      if (d > 0 && d < N) target = Math.round(target) + d;
+    }
+  } else {
+    target = Math.round(target);
+  }
+}
+stage.addEventListener('pointerup', release);
+stage.addEventListener('pointercancel', release);
+
+stage.addEventListener('wheel', e => {
+  e.preventDefault();
+  target += clamp(e.deltaY + e.deltaX, -120, 120) / 400;
+  clearTimeout(wheelT);
+  wheelT = setTimeout(() => { target = Math.round(target); }, 150);
+}, { passive: false });
+
+function loop(t) {
+  frame(t);
+  requestAnimationFrame(loop);
+}
+
+// Preload first covers & fonts
+updateRail(0);
+size();
+paint();
+
+const preloadImgs = FIGURES.map(f => {
+  const img = new Image();
+  img.src = f.cover;
+  return img.decode().catch(() => {});
+});
+
+Promise.all(preloadImgs).then(() => document.fonts.ready).then(() => {
+  size();
+  paint();
+  $('wait').classList.add('gone');
+});
+
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>
