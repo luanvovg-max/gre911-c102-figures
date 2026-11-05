@@ -486,6 +486,108 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
   .lightbox-hint{font-size:8.5px;padding:4px 12px;letter-spacing:0.06em;max-width:92vw;overflow:hidden;text-overflow:ellipsis}
   .filmstrip-thumb{width:44px;height:44px}
 }
+
+/* Search Trigger in Header */
+.search-trigger-link{
+  display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:6px;
+  background:rgba(15,47,44,0.6);border:1px solid rgba(184,163,106,0.3);color:var(--gold-light)!important;
+  font-size:10px;letter-spacing:0.08em;transition:all .18s;
+}
+.search-trigger-link:hover{
+  background:rgba(184,163,106,0.18);border-color:var(--gold);color:#fff!important;
+}
+.search-label-text{display:inline}
+@media (max-width: 680px){ .search-label-text{display:none} }
+
+/* ==============================================================
+   QUICK SKU PICKER & SEARCH MODAL
+   ============================================================== */
+.search-modal{
+  position:fixed;inset:0;z-index:98;background:rgba(4,16,14,0.92);backdrop-filter:blur(18px);
+  display:none;align-items:center;justify-content:center;padding:24px;
+}
+.search-modal.open{display:flex}
+.search-box{
+  width:100%;max-width:960px;max-height:86vh;background:#09211E;border:1px solid var(--border-gold);
+  border-radius:12px;box-shadow:0 24px 64px rgba(0,0,0,0.85), 0 0 32px var(--gold-glow);
+  display:flex;flex-direction:column;overflow:hidden;animation:searchPop .2s cubic-bezier(0.16,1,0.3,1);
+}
+@keyframes searchPop{from{opacity:0;transform:scale(0.96) translateY(-10px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+.search-header{
+  padding:16px 20px;border-bottom:1px solid rgba(255,255,255,0.08);background:rgba(7,26,24,0.95);
+  display:flex;align-items:center;gap:14px;
+}
+.search-input-wrap{
+  flex:1;position:relative;display:flex;align-items:center;background:#061816;border:1px solid rgba(184,163,106,0.4);
+  border-radius:8px;padding:0 14px;transition:border-color .2s;
+}
+.search-input-wrap:focus-within{border-color:var(--gold);box-shadow:0 0 14px var(--gold-glow)}
+.search-input-wrap svg{color:var(--gold);flex-shrink:0}
+.search-input{
+  width:100%;height:44px;background:transparent;border:none;outline:none;
+  padding:0 10px;font-size:14px;color:#fff;font-family:'Be Vietnam Pro',sans-serif;
+}
+.search-input::placeholder{color:var(--text-dimmer);font-size:12px}
+.search-clear-btn{
+  background:none;border:none;color:var(--text-dimmer);font-size:14px;cursor:pointer;padding:4px;
+  display:none;line-height:1;
+}
+.search-clear-btn.show{display:block}
+.search-clear-btn:hover{color:#fff}
+.search-close-btn{
+  background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.12);color:var(--text-dim);
+  font-size:10px;padding:10px 16px;border-radius:6px;cursor:pointer;white-space:nowrap;letter-spacing:0.08em;
+  transition:all .18s;
+}
+.search-close-btn:hover{background:rgba(255,255,255,0.1);color:#fff;border-color:rgba(255,255,255,0.3)}
+
+.search-filters{
+  display:flex;align-items:center;gap:8px;padding:12px 20px;background:rgba(7,26,24,0.5);
+  border-bottom:1px solid rgba(255,255,255,0.05);overflow-x:auto;scrollbar-width:none;
+}
+.search-filters::-webkit-scrollbar{display:none}
+.search-filter-chip{
+  background:rgba(15,47,44,0.6);border:1px solid rgba(255,255,255,0.08);color:var(--text-dim);
+  font-size:9.5px;padding:6px 12px;border-radius:6px;cursor:pointer;white-space:nowrap;letter-spacing:0.06em;
+  transition:all .15s;
+}
+.search-filter-chip:hover{color:#fff;border-color:rgba(184,163,106,0.4)}
+.search-filter-chip.on{background:var(--gold);color:#071A18;font-weight:700;border-color:var(--gold)}
+
+.search-meta-bar{
+  display:flex;justify-content:space-between;align-items:center;padding:8px 20px;
+  font-size:10px;color:var(--text-dimmer);background:rgba(4,16,14,0.4);border-bottom:1px solid rgba(255,255,255,0.03);
+}
+.search-stats{color:var(--gold-light);font-size:10px}
+.search-hint{font-size:9.5px}
+
+.search-grid-scroll{flex:1;overflow-y:auto;padding:16px 20px}
+.search-grid{
+  display:grid;grid-template-columns:repeat(auto-fill, minmax(210px, 1fr));gap:12px;
+}
+.search-card{
+  background:#0B2825;border:1px solid rgba(255,255,255,0.06);border-radius:8px;padding:10px;
+  display:flex;gap:12px;cursor:pointer;transition:all .18s;text-align:left;
+}
+.search-card:hover{
+  background:#0F3531;border-color:var(--gold);transform:translateY(-2px);
+  box-shadow:0 8px 20px rgba(0,0,0,0.5), 0 0 12px var(--gold-glow);
+}
+.search-card img{
+  width:64px;height:64px;object-fit:cover;border-radius:6px;background:#051413;border:1px solid rgba(255,255,255,0.05);
+  flex-shrink:0;
+}
+.search-card-info{display:flex;flex-direction:column;justify-content:center;overflow:hidden;flex:1}
+.search-card-sku{font-size:9.5px;color:var(--gold);font-weight:700;letter-spacing:0.08em}
+.search-card-title{
+  font-size:11.5px;color:#fff;font-weight:600;line-height:1.35;margin:2px 0 4px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.search-card-meta{display:flex;justify-content:space-between;align-items:center;gap:6px}
+.search-brand-tag{font-size:8.5px;color:var(--text-dimmer);text-transform:uppercase;letter-spacing:0.05em}
+.search-card-price{font-size:10.5px;color:var(--gold-light);font-weight:700}
+
 </style>
 </head>
 <body>
@@ -496,15 +598,17 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
         <a class="brand michroma" href="#" aria-label="GRE•911">GRE<span>•</span>911</a>
         <span class="brand-sub michroma">C102 FIGURES</span>
       </div>
-      <nav class="tabs michroma" aria-label="Bộ sưu tập">
-        <a class="on" href="#" data-cat="all">ALL FIGURES</a>
-        <a href="#" data-cat="street">STREETWEAR</a>
-        <a href="#" data-cat="racing">MOTORSPORT</a>
-        <a href="#" data-cat="japanese">JAPANESE</a>
-        <a href="#" data-cat="workers">INDUSTRIAL</a>
+      <nav class="tabs michroma" id="nav-tabs" aria-label="Bộ sưu tập 100 mẫu">
+        <a class="on" href="#" data-cat="all">ALL (100)</a>
+        <a href="#" data-cat="Chất 102">CHẤT 102</a>
+        <a href="#" data-cat="OKGO">OKGO</a>
+        <a href="#" data-cat="Junix">JUNIX</a>
+        <a href="#" data-cat="Urban & Street Life">STREETWEAR</a>
+        <a href="#" data-cat="Lifestyle & Leisure">LIFESTYLE</a>
+        <a href="#" data-cat="Motorsport & Racing">MOTORSPORT</a>
       </nav>
       <div class="acct michroma">
-        <a href="#" aria-label="Tìm kiếm"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></a>
+        <a href="#" id="search-btn" class="search-trigger-link" aria-label="Tìm kiếm SKU"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg> <span class="search-label-text">TÌM SKU</span></a><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></a>
         <a href="#" id="fav-btn" aria-label="Bộ sưu tập đã lưu"><svg viewBox="0 0 24 24"><path d="M12 20S3.5 15 3.5 9A4.6 4.6 0 0 1 12 6.6 4.6 4.6 0 0 1 20.5 9C20.5 15 12 20 12 20Z"/></svg> <span id="fav-count">0</span></a>
         <a href="#" aria-label="Giỏ hàng"><svg viewBox="0 0 24 24"><path d="M5 8h14l1 13H4Z"/><path d="M9 10V6a3 3 0 0 1 6 0v4"/></svg> <span class="cart-badge">CART (<span id="cart">0</span>)</span></a>
       </div>
@@ -549,7 +653,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
     <aside class="rail" id="rail" aria-label="Thông tin chi tiết figure">
       <div class="rail-header">
         <h3 class="michroma">SPECS & GALLERY</h3>
-        <span class="rail-counter michroma" id="rail-counter">01 / 06</span>
+        <span class="rail-counter michroma" id="rail-counter">01 / 100</span>
       </div>
       <div class="rail-content" id="rail-content"></div>
     </aside>
@@ -625,129 +729,8 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 </div>
 
 <script type="module">
-const FIGURES = [
-  {
-    id: "G018",
-    sku: "C102-SET-0018",
-    title: "Bộ Ngũ Đại Nhân Vật Streetwear",
-    theme: "Urban & Street Life",
-    brand: "Chất 102",
-    scale: "1:64",
-    material: "Resin SLA",
-    price: 295000,
-    priceFormatted: "295.000₫",
-    desc: "Tạo hình cách điệu Tây Du Ký phong cách đường phố hiện đại: Đường Tăng vest trắng lịch lãm, Tôn Ngộ Không nữ cá tính, Trư Bát Giới áo da, Sa Tăng uy dũng.",
-    cover: "figures/FIG-C102-018__G018__01.jpg",
-    gallery: [
-      "figures/FIG-C102-018__G018__01.jpg",
-      "figures/FIG-C102-018__G018__02.jpg",
-      "figures/FIG-C102-018__G018__03.jpg",
-      "figures/FIG-C102-018__G018__04.jpg",
-      "figures/FIG-C102-018__G018__05.jpg",
-      "figures/FIG-C102-018__G018__06.jpg",
-      "figures/FIG-C102-018__G018__07.jpg",
-      "figures/FIG-C102-018__G018__08.jpg",
-      "figures/FIG-C102-018__G018__09.jpg",
-      "figures/FIG-C102-018__G018__10.jpg",
-      "figures/FIG-C102-018__G018__11.jpg"
-    ]
-  },
-  {
-    id: "G011",
-    sku: "C102-SET-0011",
-    title: "Cặp Nữ Cổ Động Biker & Race Queens",
-    theme: "Motorsport & Racing",
-    brand: "OKGO",
-    scale: "1:64",
-    material: "Resin SLA",
-    price: 450000,
-    priceFormatted: "450.000₫",
-    desc: "Bộ đôi người mẫu đường đua trong trang phục áo khoác da biker, quần shorts camo, bốt da cao cổ và nón bảo hiểm thể thao năng động.",
-    cover: "figures/FIG-C102-011__G011__01.jpg",
-    gallery: [
-      "figures/FIG-C102-011__G011__01.jpg",
-      "figures/FIG-C102-011__G011__02.jpg",
-      "figures/FIG-C102-011__G011__03.jpg",
-      "figures/FIG-C102-011__G011__04.jpg",
-      "figures/FIG-C102-011__G011__05.jpg"
-    ]
-  },
-  {
-    id: "G007",
-    sku: "C102-FIG-0007",
-    title: "Nhân Vật Nữ Firefly Phố Nhật",
-    theme: "Japanese & Cultural",
-    brand: "Chất 102",
-    scale: "1:64",
-    material: "Resin SLA",
-    price: 290000,
-    priceFormatted: "290.000₫",
-    desc: "Nhân vật nữ phong cách anime với mái tóc xanh bạc hà, váy xếp ly trắng bồng bềnh, hoàn hảo cho sa bàn phố xá Nhật Bản thu nhỏ.",
-    cover: "figures/FIG-C102-007__G007__01.jpg",
-    gallery: [
-      "figures/FIG-C102-007__G007__01.jpg",
-      "figures/FIG-C102-007__G007__02.jpg",
-      "figures/FIG-C102-007__G007__03.jpg",
-      "figures/FIG-C102-007__G007__04.jpg"
-    ]
-  },
-  {
-    id: "G049",
-    sku: "C102-FIG-0049",
-    title: "Cặp Lướt Sóng Coastal Surfers",
-    theme: "Lifestyle & Leisure",
-    brand: "OKGO",
-    scale: "1:64",
-    material: "Resin SLA",
-    price: 500000,
-    priceFormatted: "500.000₫",
-    desc: "Hai nhân vật mang ván lướt sóng họa tiết hoàng hôn và sóng biển vẽ tay thủ công tinh xảo, tạo dáng phóng khoáng mùa hè nhiệt đới.",
-    cover: "figures/FIG-C102-049__G049__01.jpg",
-    gallery: [
-      "figures/FIG-C102-049__G049__01.jpg",
-      "figures/FIG-C102-049__G049__02.jpg",
-      "figures/FIG-C102-049__G049__03.jpg"
-    ]
-  },
-  {
-    id: "G022",
-    sku: "C102-SET-0022",
-    title: "Quý Cô & Xe Mô Tô Orange Moto",
-    theme: "Lifestyle & Leisure",
-    brand: "Chất 102",
-    scale: "1:64",
-    material: "Resin SLA",
-    price: 450000,
-    priceFormatted: "450.000₫",
-    desc: "Bộ đôi nhân vật nữ văn phòng hiện đại với kính gọng vàng, váy bút chì tạo dáng tự tin bên hai chiếc mô tô naked bike màu cam bắt mắt.",
-    cover: "figures/FIG-C102-022__G022__01.jpg",
-    gallery: [
-      "figures/FIG-C102-022__G022__01.jpg",
-      "figures/FIG-C102-022__G022__02.jpg",
-      "figures/FIG-C102-022__G022__03.jpg",
-      "figures/FIG-C102-022__G022__04.jpg",
-      "figures/FIG-C102-022__G022__05.jpg"
-    ]
-  },
-  {
-    id: "G100",
-    sku: "C102-SET-0100",
-    title: "Nhân Viên Kho & Xe Nâng Turret Truck",
-    theme: "Industrial & Workers",
-    brand: "Chất 102",
-    scale: "1:64",
-    material: "Resin SLA",
-    price: 800000,
-    priceFormatted: "800.000₫",
-    desc: "Figure nhân viên vận hành cùng xe vận chuyển pallet màu vàng kiểu chợ cá Tsukiji / kho hàng logistics sa bàn Nhật Bản tỉ lệ 1:64.",
-    cover: "figures/FIG-C102-100__G100__01.jpg",
-    gallery: [
-      "figures/FIG-C102-100__G100__01.jpg",
-      "figures/FIG-C102-100__G100__02.jpg",
-      "figures/FIG-C102-100__G100__03.jpg"
-    ]
-  }
-];
+import FIGURES from './src/figures-data.json';
+
 
 // DEPTH STOPS: d = -1 (leaving) to d = 5 (hazy distance)
 const KX = [1.22, 0.76, 0.51, 0.35, 0.23, 0.14, 0.08];
@@ -800,7 +783,7 @@ let currentHeroThumb = 0;
 function updateRail(idx) {
   currentActiveIdx = idx;
   const fig = FIGURES[idx];
-  railCounter.textContent = `0${idx + 1} / 0${N}`;
+  railCounter.textContent = `${String(idx + 1).padStart(2, '0')} / ${N}`;
   const isFav = savedSet.has(fig.id);
 
   railContent.innerHTML = `
@@ -1278,6 +1261,13 @@ function paint() {
     let d = wrap(i - p, N);
     if (d > N - 1) d -= N;
 
+    // High-performance frustum culling: only calculate and render visible items
+    if (d < -1.4 || d > 6.4) {
+      if (m.e.style.display !== 'none') m.e.style.display = 'none';
+      return;
+    }
+    if (m.e.style.display !== '') m.e.style.display = '';
+
     const k = clamp(d + 1, 0, 6);
     const a = Math.floor(k);
     const b = Math.min(6, a + 1);
@@ -1404,6 +1394,196 @@ Promise.all(preloadImgs).then(() => document.fonts.ready).then(() => {
 });
 
 requestAnimationFrame(loop);
+
+/* ==============================================================
+   IMAGEKIT OPTIMIZATIONS & HELPERS
+   ============================================================== */
+function getOptimizedImageUrl(url, width = 800, quality = 85) {
+  if (!url) return '';
+  if (url.includes('ik.imagekit.io')) {
+    const cleanUrl = url.split('?')[0];
+    return `${cleanUrl}?tr=w-${width},q-${quality},f-auto`;
+  }
+  return url;
+}
+
+/* ==============================================================
+   QUICK SKU SEARCH & JUMP PICKER
+   ============================================================== */
+const searchModal = $('search-modal');
+const searchInput = $('search-input');
+const searchGrid = $('search-grid');
+const searchStats = $('search-stats');
+const searchClearBtn = $('search-clear-btn');
+const searchCloseBtn = $('search-close-btn');
+const searchBtn = $('search-btn');
+
+let currentSearchBrand = 'all';
+
+function openSearchModal() {
+  searchModal.classList.add('open');
+  searchInput.focus();
+  renderSearchResults();
+}
+
+function closeSearchModal() {
+  searchModal.classList.remove('open');
+}
+
+function jumpToFigure(idx) {
+  const diff = idx - p;
+  if (Math.abs(diff) > 3) {
+    p = idx > p ? idx - 1.2 : idx + 1.2;
+  }
+  target = idx;
+  dirty = true;
+}
+
+function renderSearchResults() {
+  const query = (searchInput.value || '').trim().toLowerCase();
+  searchClearBtn.classList.toggle('show', query.length > 0);
+
+  const matched = [];
+  FIGURES.forEach((fig, idx) => {
+    const matchBrand = (currentSearchBrand === 'all') || (fig.brand.toLowerCase() === currentSearchBrand.toLowerCase());
+    if (!matchBrand) return;
+
+    if (!query) {
+      matched.push({ fig, idx });
+    } else {
+      const qInSku = fig.sku.toLowerCase().includes(query);
+      const qInTitle = fig.title.toLowerCase().includes(query);
+      const qInTheme = fig.theme.toLowerCase().includes(query);
+      const qInBrand = fig.brand.toLowerCase().includes(query);
+      if (qInSku || qInTitle || qInTheme || qInBrand) {
+        matched.push({ fig, idx });
+      }
+    }
+  });
+
+  searchStats.textContent = `HIỂN THỊ ${matched.length} / ${FIGURES.length} MẪU FIGURE`;
+
+  if (matched.length === 0) {
+    searchGrid.innerHTML = `
+      <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-dimmer)">
+        Không tìm thấy SKU hoặc tên phù hợp với "<b>${query}</b>"
+      </div>
+    `;
+    return;
+  }
+
+  searchGrid.innerHTML = matched.map(({ fig, idx }) => `
+    <div class="search-card" data-idx="${idx}">
+      <img src="${getOptimizedImageUrl(fig.cover, 140, 75)}" alt="${fig.title}" loading="lazy">
+      <div class="search-card-info">
+        <div class="search-card-sku michroma">${fig.sku}</div>
+        <div class="search-card-title">${fig.title}</div>
+        <div class="search-card-meta">
+          <span class="search-brand-tag">${fig.brand}</span>
+          <span class="search-card-price michroma">${fig.priceFormatted}</span>
+        </div>
+      </div>
+    </div>
+  `).join('');
+
+  searchGrid.querySelectorAll('.search-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const idx = +card.dataset.idx;
+      jumpToFigure(idx);
+      closeSearchModal();
+    });
+  });
+}
+
+if (searchBtn) searchBtn.addEventListener('click', e => { e.preventDefault(); openSearchModal(); });
+if (searchCloseBtn) searchCloseBtn.addEventListener('click', closeSearchModal);
+if (searchClearBtn) searchClearBtn.addEventListener('click', () => {
+  searchInput.value = '';
+  renderSearchResults();
+  searchInput.focus();
+});
+searchInput.addEventListener('input', renderSearchResults);
+
+searchModal.addEventListener('click', e => {
+  if (e.target === searchModal) closeSearchModal();
+});
+
+document.querySelectorAll('.search-filter-chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.search-filter-chip').forEach(c => c.classList.remove('on'));
+    chip.classList.add('on');
+    currentSearchBrand = chip.dataset.filter;
+    renderSearchResults();
+  });
+});
+
+// Category Nav tabs in header
+document.querySelectorAll('#nav-tabs a').forEach(tab => {
+  tab.addEventListener('click', e => {
+    e.preventDefault();
+    document.querySelectorAll('#nav-tabs a').forEach(t => t.classList.remove('on'));
+    tab.classList.add('on');
+    const cat = tab.dataset.cat;
+    if (cat === 'all') {
+      target = 0;
+      return;
+    }
+    const matchIdx = FIGURES.findIndex(f => 
+      f.brand.toLowerCase() === cat.toLowerCase() || 
+      f.theme.toLowerCase() === cat.toLowerCase()
+    );
+    if (matchIdx !== -1) {
+      jumpToFigure(matchIdx);
+    }
+  });
+});
+
+// Shortcut: press '/' or 'Ctrl+K' to search
+window.addEventListener('keydown', e => {
+  if ((e.key === '/' || (e.ctrlKey && e.key === 'k')) && !modal.classList.contains('open') && !searchModal.classList.contains('open')) {
+    e.preventDefault();
+    openSearchModal();
+  } else if (e.key === 'Escape' && searchModal.classList.contains('open')) {
+    closeSearchModal();
+  }
+});
+
 </script>
+
+<!-- ==============================================================
+     QUICK SKU PICKER & SEARCH MODAL (100 FIGURES)
+     ============================================================== -->
+<div class="search-modal" id="search-modal" role="dialog" aria-modal="true" aria-label="Tìm kiếm SKU và danh mục figure 1:64">
+  <div class="search-box">
+    <div class="search-header">
+      <div class="search-input-wrap">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
+        <input type="text" id="search-input" class="search-input" placeholder="Nhập mã SKU (0001, 0018, 0049...), tên nhân vật hoặc hãng..." autocomplete="off" spellcheck="false">
+        <button class="search-clear-btn" id="search-clear-btn" aria-label="Xóa nội dung tìm">✕</button>
+      </div>
+      <button class="search-close-btn michroma" id="search-close-btn">✕ ĐÓNG [ESC]</button>
+    </div>
+
+    <div class="search-filters">
+      <button class="search-filter-chip michroma on" data-filter="all">TẤT CẢ (100)</button>
+      <button class="search-filter-chip michroma" data-filter="Chất 102">CHẤT 102 (37)</button>
+      <button class="search-filter-chip michroma" data-filter="OKGO">OKGO (41)</button>
+      <button class="search-filter-chip michroma" data-filter="Junix">JUNIX (12)</button>
+      <button class="search-filter-chip michroma" data-filter="Liang Ge">LIANG GE (8)</button>
+      <button class="search-filter-chip michroma" data-filter="Urban & Street Life">STREETWEAR</button>
+      <button class="search-filter-chip michroma" data-filter="Lifestyle & Leisure">LIFESTYLE</button>
+    </div>
+
+    <div class="search-meta-bar">
+      <span class="search-stats michroma" id="search-stats">HIỂN THỊ 100 / 100 MẪU FIGURE</span>
+      <span class="search-hint">CLICK ĐỂ NHẢY TRỰC TIẾP TỚI MẪU TRÊN RUNWAY 3D</span>
+    </div>
+
+    <div class="search-grid-scroll">
+      <div class="search-grid" id="search-grid"></div>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>

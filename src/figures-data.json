@@ -1,17 +1,299 @@
 [
   {
+    "id": "G001",
+    "sku": "C102-FIG-0001",
+    "title": "Nhân viên cửa hàng mặc tạp dề xanh",
+    "theme": "Retail & Service",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 295000,
+    "priceFormatted": "295.000₫",
+    "desc": "Nhân viên cửa hàng mặc tạp dề xanh. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Chất 102, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-001__G001__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-001__G001__cover.jpg"
+    ]
+  },
+  {
+    "id": "G002",
+    "sku": "C102-SET-0002",
+    "title": "Nhóm nhân vật phố Nhật Bản",
+    "theme": "Japanese & Cultural",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhóm nhân vật phố Nhật Bản. Ảnh cảnh có nhiều figure; cần xác nhận số nhân vật trong đơn vị bán. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-002__G002__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-002__G002__cover.jpg"
+    ]
+  },
+  {
+    "id": "G003",
+    "sku": "C102-FIG-0003",
+    "title": "Nhân vật nữ ngồi bên xe hơi",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhân vật nữ ngồi bên xe hơi. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-003__G003__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-003__G003__cover.jpg"
+    ]
+  },
+  {
+    "id": "G004",
+    "sku": "C102-FIG-0004",
+    "title": "Nhân vật khu vực xe thể thao màu đỏ",
+    "theme": "Motorsport & Racing",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhân vật khu vực xe thể thao màu đỏ. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-004__G004__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-004__G004__cover.jpg"
+    ]
+  },
+  {
+    "id": "G005",
+    "sku": "C102-FIG-0005",
+    "title": "Nhân vật nữ ngồi bên đường phố",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 295000,
+    "priceFormatted": "295.000₫",
+    "desc": "Nhân vật nữ ngồi bên đường phố. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Chất 102, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-005__G005__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-005__G005__cover.jpg"
+    ]
+  },
+  {
+    "id": "G006",
+    "sku": "C102-SET-0006",
+    "title": "Nhân vật đi xe ba bánh mini",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 290000,
+    "priceFormatted": "290.000₫",
+    "desc": "Nhân vật đi xe ba bánh mini. Kiểm tra figure và xe có bán chung không. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-006__G006__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-006__G006__cover.jpg"
+    ]
+  },
+  {
+    "id": "G007",
+    "sku": "C102-FIG-0007",
+    "title": "Nhân Vật Nữ Firefly Phố Nhật",
+    "theme": "Japanese & Cultural",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 290000,
+    "priceFormatted": "290.000₫",
+    "desc": "Nhân vật nữ phong cách anime với mái tóc xanh bạc hà, váy xếp ly trắng bồng bềnh, hoàn hảo cho sa bàn phố xá Nhật Bản thu nhỏ.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-007__G007__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-007__G007__cover.jpg",
+      "figures/FIG-C102-007__G007__01.jpg",
+      "figures/FIG-C102-007__G007__02.jpg",
+      "figures/FIG-C102-007__G007__03.jpg",
+      "figures/FIG-C102-007__G007__04.jpg"
+    ]
+  },
+  {
+    "id": "G008",
+    "sku": "C102-SET-0008",
+    "title": "Cặp nhân vật đường phố trao đổi",
+    "theme": "Urban & Street Life",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 990000,
+    "priceFormatted": "990.000₫",
+    "desc": "Cặp nhân vật đường phố trao đổi. Giá báo theo cặp. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-008__G008__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-008__G008__cover.jpg"
+    ]
+  },
+  {
+    "id": "G009",
+    "sku": "C102-SET-0009",
+    "title": "Cặp nhân vật du lịch đội mũ rộng vành",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Cặp nhân vật du lịch đội mũ rộng vành. Ảnh hai nhân vật; giá figure. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-009__G009__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-009__G009__cover.jpg"
+    ]
+  },
+  {
+    "id": "G010",
+    "sku": "C102-SET-0010",
+    "title": "Cặp nhân vật nữ phong cách trẻ trung",
+    "theme": "Urban & Street Life",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Cặp nhân vật nữ phong cách trẻ trung. Ảnh hai nhân vật; giá figure. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-010__G010__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-010__G010__cover.jpg"
+    ]
+  },
+  {
+    "id": "G011",
+    "sku": "C102-SET-0011",
+    "title": "Cặp Nữ Cổ Động Biker & Race Queens",
+    "theme": "Motorsport & Racing",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Bộ đôi người mẫu đường đua trong trang phục áo khoác da biker, quần shorts camo, bốt da cao cổ và nón bảo hiểm thể thao năng động.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-011__G011__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-011__G011__cover.jpg",
+      "figures/FIG-C102-011__G011__01.jpg",
+      "figures/FIG-C102-011__G011__02.jpg",
+      "figures/FIG-C102-011__G011__03.jpg",
+      "figures/FIG-C102-011__G011__04.jpg",
+      "figures/FIG-C102-011__G011__05.jpg"
+    ]
+  },
+  {
+    "id": "G012",
+    "sku": "C102-SET-0012",
+    "title": "Học sinh nữ và nam mang cặp",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Học sinh nữ và nam mang cặp. Có 2 figure trên ảnh. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-012__G012__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-012__G012__cover.jpg"
+    ]
+  },
+  {
+    "id": "G013",
+    "sku": "C102-SET-0013",
+    "title": "Nhóm mẹ và bé trong phố nhỏ",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 590000,
+    "priceFormatted": "590.000₫",
+    "desc": "Nhóm mẹ và bé trong phố nhỏ. Giá theo set; ảnh bối cảnh chỉ để minh họa. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-013__G013__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-013__G013__cover.jpg"
+    ]
+  },
+  {
+    "id": "G014",
+    "sku": "C102-SET-0014",
+    "title": "Cặp nhân vật bên xe hơi đỏ",
+    "theme": "Urban & Street Life",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 390000,
+    "priceFormatted": "390.000₫",
+    "desc": "Cặp nhân vật bên xe hơi đỏ. Đơn vị bán chưa được xác minh. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-014__G014__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-014__G014__cover.jpg"
+    ]
+  },
+  {
+    "id": "G015",
+    "sku": "C102-SET-0015",
+    "title": "Nhóm nhân vật trẻ thời trang",
+    "theme": "Urban & Street Life",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhóm nhân vật trẻ thời trang. Chưa rõ giá theo người hay theo nhóm. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-015__G015__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-015__G015__cover.jpg"
+    ]
+  },
+  {
+    "id": "G016",
+    "sku": "C102-SET-0016",
+    "title": "Cặp nhân vật đồng phục xanh rêu",
+    "theme": "Service & Workers",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 295000,
+    "priceFormatted": "295.000₫",
+    "desc": "Cặp nhân vật đồng phục xanh rêu. Kiểm tra có bán lẻ từng figure. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-016__G016__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-016__G016__cover.jpg"
+    ]
+  },
+  {
+    "id": "G017",
+    "sku": "C102-SET-0017",
+    "title": "Hai nhân vật mang tạp dề lao động",
+    "theme": "Retail & Service",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật mang tạp dề lao động. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-017__G017__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-017__G017__cover.jpg"
+    ]
+  },
+  {
     "id": "G018",
     "sku": "C102-SET-0018",
     "title": "Bộ Ngũ Đại Nhân Vật Streetwear",
     "theme": "Urban & Street Life",
     "brand": "Chất 102",
     "scale": "1:64",
-    "material": "Resin Thủ Công Cao Cấp",
+    "material": "Resin SLA",
     "price": 295000,
     "priceFormatted": "295.000₫",
     "desc": "Tạo hình cách điệu Tây Du Ký phong cách đường phố hiện đại: Đường Tăng vest trắng lịch lãm, Tôn Ngộ Không nữ cá tính, Trư Bát Giới áo da, Sa Tăng uy dũng.",
-    "cover": "figures/FIG-C102-018__G018__01.jpg",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-018__G018__cover.jpg",
     "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-018__G018__cover.jpg",
       "figures/FIG-C102-018__G018__01.jpg",
       "figures/FIG-C102-018__G018__02.jpg",
       "figures/FIG-C102-018__G018__03.jpg",
@@ -26,75 +308,67 @@
     ]
   },
   {
-    "id": "G011",
-    "sku": "C102-SET-0011",
-    "title": "Cặp Nữ Cổ Động Biker & Race Queens",
-    "theme": "Motorsport & Racing",
+    "id": "G019",
+    "sku": "C102-FIG-0019",
+    "title": "Nhân vật nam đội mũ đứng tựa",
+    "theme": "Urban & Street Life",
+    "brand": "Aeris Shade",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 550000,
+    "priceFormatted": "550.000₫",
+    "desc": "Nhân vật nam đội mũ đứng tựa. Đối tác thông báo giới hạn toàn cầu 200 figure. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-019__G019__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-019__G019__cover.jpg"
+    ]
+  },
+  {
+    "id": "G020",
+    "sku": "C102-SET-0020",
+    "title": "Cặp nhân vật ngoài trời mặc tạp dề",
+    "theme": "Service & Workers",
     "brand": "OKGO",
     "scale": "1:64",
-    "material": "Resin Thủ Công Cao Cấp",
+    "material": "Resin SLA",
     "price": 450000,
     "priceFormatted": "450.000₫",
-    "desc": "Bộ đôi người mẫu đường đua trong trang phục áo khoác da biker, quần shorts camo, bốt da cao cổ và nón bảo hiểm thể thao.",
-    "cover": "figures/FIG-C102-011__G011__01.jpg",
+    "desc": "Cặp nhân vật ngoài trời mặc tạp dề. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-020__G020__cover.jpg",
     "gallery": [
-      "figures/FIG-C102-011__G011__01.jpg",
-      "figures/FIG-C102-011__G011__02.jpg",
-      "figures/FIG-C102-011__G011__03.jpg",
-      "figures/FIG-C102-011__G011__04.jpg",
-      "figures/FIG-C102-011__G011__05.jpg"
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-020__G020__cover.jpg"
     ]
   },
   {
-    "id": "G007",
-    "sku": "C102-FIG-0007",
-    "title": "Nhân Vật Nữ Firefly Phố Nhật",
-    "theme": "Japanese & Cultural",
-    "brand": "Chất 102",
-    "scale": "1:64",
-    "material": "Resin Thủ Công Cao Cấp",
-    "price": 290000,
-    "priceFormatted": "290.000₫",
-    "desc": "Nhân vật nữ phong cách anime với mái tóc xanh bạc hà, váy xếp ly trắng bồng bềnh, hoàn hảo cho sa bàn phố xá Nhật Bản.",
-    "cover": "figures/FIG-C102-007__G007__01.jpg",
-    "gallery": [
-      "figures/FIG-C102-007__G007__01.jpg",
-      "figures/FIG-C102-007__G007__02.jpg",
-      "figures/FIG-C102-007__G007__03.jpg",
-      "figures/FIG-C102-007__G007__04.jpg"
-    ]
-  },
-  {
-    "id": "G049",
-    "sku": "C102-FIG-0049",
-    "title": "Cặp Vận Động Viên Lướt Sóng Coastal Surfers",
+    "id": "G021",
+    "sku": "C102-SET-0021",
+    "title": "Cặp nhân vật chạy bộ đường phố",
     "theme": "Lifestyle & Leisure",
     "brand": "OKGO",
     "scale": "1:64",
-    "material": "Resin Thủ Công Cao Cấp",
-    "price": 500000,
-    "priceFormatted": "500.000₫",
-    "desc": "Hai nhân vật mang ván lướt sóng họa tiết hoàng hôn và sóng biển vẽ tay thủ công tinh xảo, tạo dáng phóng khoáng mùa hè.",
-    "cover": "figures/FIG-C102-049__G049__01.jpg",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Cặp nhân vật chạy bộ đường phố. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-021__G021__cover.jpg",
     "gallery": [
-      "figures/FIG-C102-049__G049__01.jpg",
-      "figures/FIG-C102-049__G049__02.jpg",
-      "figures/FIG-C102-049__G049__03.jpg"
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-021__G021__cover.jpg"
     ]
   },
   {
     "id": "G022",
     "sku": "C102-SET-0022",
-    "title": "Quý Cô & Xe Mô Tô Phân Khối Lớn Orange Moto",
+    "title": "Quý Cô & Xe Mô Tô Orange Moto",
     "theme": "Lifestyle & Leisure",
-    "brand": "Chất 102",
+    "brand": "Junix",
     "scale": "1:64",
-    "material": "Resin Thủ Công Cao Cấp",
+    "material": "Resin SLA",
     "price": 450000,
     "priceFormatted": "450.000₫",
-    "desc": "Bộ đôi nhân vật nữ văn phòng hiện đại với kính gọng vàng, váy bút chì tạo dáng tự tin bên hai chiếc mô tô naked bike màu cam.",
-    "cover": "figures/FIG-C102-022__G022__01.jpg",
+    "desc": "Bộ đôi nhân vật nữ văn phòng hiện đại với kính gọng vàng, váy bút chì tạo dáng tự tin bên hai chiếc mô tô naked bike màu cam bắt mắt.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-022__G022__cover.jpg",
     "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-022__G022__cover.jpg",
       "figures/FIG-C102-022__G022__01.jpg",
       "figures/FIG-C102-022__G022__02.jpg",
       "figures/FIG-C102-022__G022__03.jpg",
@@ -103,18 +377,1254 @@
     ]
   },
   {
+    "id": "G023",
+    "sku": "C102-SET-0023",
+    "title": "Cặp nhân vật nam trang phục thường ngày",
+    "theme": "Urban & Street Life",
+    "brand": "Anh Bing",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 1200000,
+    "priceFormatted": "1.200.000₫",
+    "desc": "Cặp nhân vật nam trang phục thường ngày. Đối tác báo số lượng giới hạn 64 cặp. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-023__G023__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-023__G023__cover.jpg"
+    ]
+  },
+  {
+    "id": "G024",
+    "sku": "C102-MSC-0024",
+    "title": "Linh vật gấu và khủng long mini",
+    "theme": "Special Characters",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 195000,
+    "priceFormatted": "195.000₫",
+    "desc": "Linh vật gấu và khủng long mini. Báo giá theo mascot, xác nhận từng mẫu. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-024__G024__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-024__G024__cover.jpg"
+    ]
+  },
+  {
+    "id": "G025",
+    "sku": "C102-FIG-0025",
+    "title": "Nhân vật nhỏ trang phục xanh đỏ",
+    "theme": "Special Characters",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 550000,
+    "priceFormatted": "550.000₫",
+    "desc": "Nhân vật nhỏ trang phục xanh đỏ. Đối tác thông báo giới hạn 30 bản. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-025__G025__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-025__G025__cover.jpg"
+    ]
+  },
+  {
+    "id": "G026",
+    "sku": "C102-SET-0026",
+    "title": "Nhân vật nữ dắt chó",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 600000,
+    "priceFormatted": "600.000₫",
+    "desc": "Nhân vật nữ dắt chó. Cần xác nhận chó có đi kèm. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-026__G026__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-026__G026__cover.jpg"
+    ]
+  },
+  {
+    "id": "G027",
+    "sku": "C102-FIG-0027",
+    "title": "Nhân vật nam ngồi thư giãn",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nam ngồi thư giãn. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-027__G027__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-027__G027__cover.jpg"
+    ]
+  },
+  {
+    "id": "G028",
+    "sku": "C102-FIG-0028",
+    "title": "Nhân vật nữ áo cam cầm máy ảnh",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nữ áo cam cầm máy ảnh. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-028__G028__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-028__G028__cover.jpg"
+    ]
+  },
+  {
+    "id": "G029",
+    "sku": "C102-SET-0029",
+    "title": "Nhân vật nữ mặc đồ đỏ cùng chó",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 600000,
+    "priceFormatted": "600.000₫",
+    "desc": "Nhân vật nữ mặc đồ đỏ cùng chó. Cần xác nhận phụ kiện chó đi kèm. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-029__G029__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-029__G029__cover.jpg"
+    ]
+  },
+  {
+    "id": "G030",
+    "sku": "C102-FIG-0030",
+    "title": "Nhân vật nữ tạo dáng thể thao",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 295000,
+    "priceFormatted": "295.000₫",
+    "desc": "Nhân vật nữ tạo dáng thể thao. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Chất 102, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-030__G030__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-030__G030__cover.jpg"
+    ]
+  },
+  {
+    "id": "G031",
+    "sku": "C102-FIG-0031",
+    "title": "Nhân vật nam trang phục ngụy trang",
+    "theme": "Urban & Street Life",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhân vật nam trang phục ngụy trang. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Liang Ge, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-031__G031__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-031__G031__cover.jpg"
+    ]
+  },
+  {
+    "id": "G032",
+    "sku": "C102-SET-0032",
+    "title": "Cặp nhân vật nữ mặc váy trắng",
+    "theme": "Japanese & Cultural",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Cặp nhân vật nữ mặc váy trắng. Ảnh hai mẫu trang phục. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-032__G032__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-032__G032__cover.jpg"
+    ]
+  },
+  {
+    "id": "G033",
+    "sku": "C102-SET-0033",
+    "title": "Cặp nhân vật nữ mang túi xách",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Cặp nhân vật nữ mang túi xách. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-033__G033__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-033__G033__cover.jpg"
+    ]
+  },
+  {
+    "id": "G034",
+    "sku": "C102-SET-0034",
+    "title": "Hai nhân vật nữ trang phục sọc",
+    "theme": "Urban & Street Life",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Hai nhân vật nữ trang phục sọc. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Liang Ge, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-034__G034__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-034__G034__cover.jpg"
+    ]
+  },
+  {
+    "id": "G035",
+    "sku": "C102-SET-0035",
+    "title": "Hai nhân vật nữ trang phục thể thao",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nữ trang phục thể thao. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-035__G035__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-035__G035__cover.jpg"
+    ]
+  },
+  {
+    "id": "G036",
+    "sku": "C102-SET-0036",
+    "title": "Cặp nhân vật nam ngồi nghỉ",
+    "theme": "Urban & Street Life",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Cặp nhân vật nam ngồi nghỉ. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Liang Ge, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-036__G036__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-036__G036__cover.jpg"
+    ]
+  },
+  {
+    "id": "G037",
+    "sku": "C102-SET-0037",
+    "title": "Hai nhân vật nữ quần jean xanh",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nữ quần jean xanh. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-037__G037__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-037__G037__cover.jpg"
+    ]
+  },
+  {
+    "id": "G038",
+    "sku": "C102-FIG-0038",
+    "title": "Nhân vật nữ đeo ba lô cúi người",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nữ đeo ba lô cúi người. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Liang Ge, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-038__G038__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-038__G038__cover.jpg"
+    ]
+  },
+  {
+    "id": "G039",
+    "sku": "C102-SET-0039",
+    "title": "Hai nhân vật ngồi bậc thềm",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật ngồi bậc thềm. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-039__G039__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-039__G039__cover.jpg"
+    ]
+  },
+  {
+    "id": "G040",
+    "sku": "C102-SET-0040",
+    "title": "Cặp nhân vật ngồi bên nhau",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Cặp nhân vật ngồi bên nhau. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-040__G040__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-040__G040__cover.jpg"
+    ]
+  },
+  {
+    "id": "G041",
+    "sku": "C102-FIG-0041",
+    "title": "Nhân vật nam nhân viên cửa hàng",
+    "theme": "Retail & Service",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nam nhân viên cửa hàng. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-041__G041__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-041__G041__cover.jpg"
+    ]
+  },
+  {
+    "id": "G042",
+    "sku": "C102-FIG-0042",
+    "title": "Nhân vật nữ áo trắng váy tối",
+    "theme": "Urban & Street Life",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nữ áo trắng váy tối. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Liang Ge, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-042__G042__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-042__G042__cover.jpg"
+    ]
+  },
+  {
+    "id": "G043",
+    "sku": "C102-SET-0043",
+    "title": "Cụm nhân vật phố Nhật và phụ kiện cầu thang",
+    "theme": "Japanese & Cultural",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Cụm nhân vật phố Nhật và phụ kiện cầu thang. Giá riêng Yan 250000 VND và cầu thang 150000 VND; cần tách sản phẩm. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-043__G043__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-043__G043__cover.jpg"
+    ]
+  },
+  {
+    "id": "G044",
+    "sku": "C102-SET-0044",
+    "title": "Nhóm nhân vật trước cửa tiệm phố Nhật",
+    "theme": "Japanese & Cultural",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 295000,
+    "priceFormatted": "295.000₫",
+    "desc": "Nhóm nhân vật trước cửa tiệm phố Nhật. Ảnh có nhiều figure; cần tách mẫu. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-044__G044__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-044__G044__cover.jpg"
+    ]
+  },
+  {
+    "id": "G045",
+    "sku": "C102-FIG-0045",
+    "title": "Nhân vật nữ trang phục thường ngày",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 550000,
+    "priceFormatted": "550.000₫",
+    "desc": "Nhân vật nữ trang phục thường ngày. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-045__G045__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-045__G045__cover.jpg"
+    ]
+  },
+  {
+    "id": "G046",
+    "sku": "C102-SET-0046",
+    "title": "Hai nhân vật nam đi dạo phố",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nam đi dạo phố. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-046__G046__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-046__G046__cover.jpg"
+    ]
+  },
+  {
+    "id": "G047",
+    "sku": "C102-SET-0047",
+    "title": "Hai nhân vật nữ áo khoác sắc màu",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nữ áo khoác sắc màu. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-047__G047__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-047__G047__cover.jpg"
+    ]
+  },
+  {
+    "id": "G048",
+    "sku": "C102-SET-0048",
+    "title": "Nhóm nhân vật áo thể thao đường phố",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhóm nhân vật áo thể thao đường phố. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-048__G048__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-048__G048__cover.jpg"
+    ]
+  },
+  {
+    "id": "G049",
+    "sku": "C102-FIG-0049",
+    "title": "Cặp Lướt Sóng Coastal Surfers",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Hai nhân vật mang ván lướt sóng họa tiết hoàng hôn và sóng biển vẽ tay thủ công tinh xảo, tạo dáng phóng khoáng mùa hè nhiệt đới.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-049__G049__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-049__G049__cover.jpg",
+      "figures/FIG-C102-049__G049__01.jpg",
+      "figures/FIG-C102-049__G049__02.jpg",
+      "figures/FIG-C102-049__G049__03.jpg"
+    ]
+  },
+  {
+    "id": "G050",
+    "sku": "C102-SET-0050",
+    "title": "Hai nhân vật trẻ đeo ba lô",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật trẻ đeo ba lô. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-050__G050__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-050__G050__cover.jpg"
+    ]
+  },
+  {
+    "id": "G051",
+    "sku": "C102-SET-0051",
+    "title": "Hai nhân vật nữ mang balo và túi",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Hai nhân vật nữ mang balo và túi. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-051__G051__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-051__G051__cover.jpg"
+    ]
+  },
+  {
+    "id": "G052",
+    "sku": "C102-SET-0052",
+    "title": "Hai nhân vật nam ngồi nghỉ ngoài trời",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Hai nhân vật nam ngồi nghỉ ngoài trời. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-052__G052__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-052__G052__cover.jpg"
+    ]
+  },
+  {
+    "id": "G053",
+    "sku": "C102-FIG-0053",
+    "title": "Nhân vật nữ váy trắng tạo dáng",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhân vật nữ váy trắng tạo dáng. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-053__G053__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-053__G053__cover.jpg"
+    ]
+  },
+  {
+    "id": "G054",
+    "sku": "C102-FIG-0054",
+    "title": "Nhân vật nữ mặc áo khoác tối",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhân vật nữ mặc áo khoác tối. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-054__G054__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-054__G054__cover.jpg"
+    ]
+  },
+  {
+    "id": "G055",
+    "sku": "C102-FIG-0055",
+    "title": "Nhân vật nữ áo trắng quần short",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nữ áo trắng quần short. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-055__G055__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-055__G055__cover.jpg"
+    ]
+  },
+  {
+    "id": "G056",
+    "sku": "C102-SET-0056",
+    "title": "Hai nhân vật nam đi du lịch",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nam đi du lịch. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-056__G056__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-056__G056__cover.jpg"
+    ]
+  },
+  {
+    "id": "G057",
+    "sku": "C102-SET-0057",
+    "title": "Nhân vật bé gái kéo xe đồ chơi",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 600000,
+    "priceFormatted": "600.000₫",
+    "desc": "Nhân vật bé gái kéo xe đồ chơi. Cần xác minh xe và đồ chơi đi kèm. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-057__G057__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-057__G057__cover.jpg"
+    ]
+  },
+  {
+    "id": "G058",
+    "sku": "C102-FIG-0058",
+    "title": "Nhân vật nam ngồi xổm bên vật dụng",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nam ngồi xổm bên vật dụng. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-058__G058__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-058__G058__cover.jpg"
+    ]
+  },
+  {
+    "id": "G059",
+    "sku": "C102-FIG-0059",
+    "title": "Nhân vật nam mặc áo khoác tối",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 400000,
+    "priceFormatted": "400.000₫",
+    "desc": "Nhân vật nam mặc áo khoác tối. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-059__G059__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-059__G059__cover.jpg"
+    ]
+  },
+  {
+    "id": "G060",
+    "sku": "C102-SET-0060",
+    "title": "Hai nhân vật nữ đi dạo phố",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nữ đi dạo phố. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-060__G060__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-060__G060__cover.jpg"
+    ]
+  },
+  {
+    "id": "G061",
+    "sku": "C102-SET-0061",
+    "title": "Nhóm ba nhân vật nam trang phục dài",
+    "theme": "Urban & Street Life",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhóm ba nhân vật nam trang phục dài. Giá ghép ảnh chưa chắc chắn. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-061__G061__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-061__G061__cover.jpg"
+    ]
+  },
+  {
+    "id": "G062",
+    "sku": "C102-FIG-0062",
+    "title": "Nhân vật đường phố đeo ba lô",
+    "theme": "Urban & Street Life",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Nhân vật đường phố đeo ba lô. Giá ghép ảnh chưa chắc chắn. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-062__G062__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-062__G062__cover.jpg"
+    ]
+  },
+  {
+    "id": "G063",
+    "sku": "C102-SET-0063",
+    "title": "Nhân vật ngồi nghỉ cạnh xe nhỏ",
+    "theme": "Urban & Street Life",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Nhân vật ngồi nghỉ cạnh xe nhỏ. Giá ghép ảnh chưa chắc chắn. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-063__G063__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-063__G063__cover.jpg"
+    ]
+  },
+  {
+    "id": "G064",
+    "sku": "C102-FIG-0064",
+    "title": "Nhân vật nam áo khoác dài",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nam áo khoác dài. Giá ghép ảnh chưa chắc chắn. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-064__G064__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-064__G064__cover.jpg"
+    ]
+  },
+  {
+    "id": "G065",
+    "sku": "C102-FIG-0065",
+    "title": "Nhân vật nam áo blouse dài",
+    "theme": "Service & Workers",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nam áo blouse dài. Giá ghép ảnh chưa chắc chắn. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-065__G065__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-065__G065__cover.jpg"
+    ]
+  },
+  {
+    "id": "G066",
+    "sku": "C102-SET-0066",
+    "title": "Nhóm nhân vật nữ váy đỏ",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật nữ váy đỏ. Zalo báo nam 400000 VND; nữ 450000 VND ở nhóm gần đây, không chắc ghép ảnh. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-066__G066__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-066__G066__cover.jpg"
+    ]
+  },
+  {
+    "id": "G067",
+    "sku": "C102-SET-0067",
+    "title": "Mẹ và bé ngồi thư giãn",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 850000,
+    "priceFormatted": "850.000₫",
+    "desc": "Mẹ và bé ngồi thư giãn. Giá theo set. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-067__G067__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-067__G067__cover.jpg"
+    ]
+  },
+  {
+    "id": "G068",
+    "sku": "C102-SET-0068",
+    "title": "Nhóm nhân vật đứng trước xe hơi",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật đứng trước xe hơi. Chưa đối chiếu được giá cụ thể. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-068__G068__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-068__G068__cover.jpg"
+    ]
+  },
+  {
+    "id": "G069",
+    "sku": "C102-SET-0069",
+    "title": "Nhóm nhân vật nữ trên phố",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật nữ trên phố. Chưa đối chiếu được giá cụ thể. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-069__G069__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-069__G069__cover.jpg"
+    ]
+  },
+  {
+    "id": "G070",
+    "sku": "C102-SET-0070",
+    "title": "Nhóm nhân vật quanh xe đua xanh",
+    "theme": "Motorsport & Racing",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật quanh xe đua xanh. Cần xác định figure bán riêng và xe chỉ minh họa. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-070__G070__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-070__G070__cover.jpg"
+    ]
+  },
+  {
+    "id": "G071",
+    "sku": "C102-SET-0071",
+    "title": "Nhóm nhân vật cạnh xe thể thao",
+    "theme": "Motorsport & Racing",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật cạnh xe thể thao. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-071__G071__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-071__G071__cover.jpg"
+    ]
+  },
+  {
+    "id": "G072",
+    "sku": "C102-SET-0072",
+    "title": "Nhân vật nữ đi xe mini",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật nữ đi xe mini. Cần xác định xe có nằm trong set. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-072__G072__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-072__G072__cover.jpg"
+    ]
+  },
+  {
+    "id": "G073",
+    "sku": "C102-SET-0073",
+    "title": "Nhóm nhân vật nghỉ bên mặt nước",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật nghỉ bên mặt nước. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-073__G073__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-073__G073__cover.jpg"
+    ]
+  },
+  {
+    "id": "G074",
+    "sku": "C102-SET-0074",
+    "title": "Nhân vật người lớn và xe nôi",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật người lớn và xe nôi. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-074__G074__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-074__G074__cover.jpg"
+    ]
+  },
+  {
+    "id": "G075",
+    "sku": "C102-FIG-0075",
+    "title": "Nhân vật nữ chạy mặc váy sáng",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật nữ chạy mặc váy sáng. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-075__G075__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-075__G075__cover.jpg"
+    ]
+  },
+  {
+    "id": "G076",
+    "sku": "C102-SET-0076",
+    "title": "Hai nhân vật nữ ngồi xổm",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Hai nhân vật nữ ngồi xổm. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-076__G076__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-076__G076__cover.jpg"
+    ]
+  },
+  {
+    "id": "G077",
+    "sku": "C102-SCN-0077",
+    "title": "Bối cảnh phố có nhóm nhân vật mini",
+    "theme": "Japanese & Cultural",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Bối cảnh phố có nhóm nhân vật mini. Không xác định là bán set hay ảnh minh họa. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-077__G077__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-077__G077__cover.jpg"
+    ]
+  },
+  {
+    "id": "G078",
+    "sku": "C102-SET-0078",
+    "title": "Nhân vật nghỉ trên ghế dài",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật nghỉ trên ghế dài. Cần kiểm tra ghế đi kèm. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-078__G078__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-078__G078__cover.jpg"
+    ]
+  },
+  {
+    "id": "G079",
+    "sku": "C102-SET-0079",
+    "title": "Xe đẩy thức ăn đường phố",
+    "theme": "Retail & Service",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Xe đẩy thức ăn đường phố. Có xe đẩy và figure; xác minh thành phần set. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-079__G079__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-079__G079__cover.jpg"
+    ]
+  },
+  {
+    "id": "G080",
+    "sku": "C102-SET-0080",
+    "title": "Nhân viên đứng sau quầy dịch vụ",
+    "theme": "Retail & Service",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân viên đứng sau quầy dịch vụ. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-080__G080__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-080__G080__cover.jpg"
+    ]
+  },
+  {
+    "id": "G081",
+    "sku": "C102-SET-0081",
+    "title": "Hai nhân vật nữ trang phục thể thao",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Hai nhân vật nữ trang phục thể thao. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-081__G081__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-081__G081__cover.jpg"
+    ]
+  },
+  {
+    "id": "G082",
+    "sku": "C102-SET-0082",
+    "title": "Hai nhân vật nam đứng cạnh xe trắng",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Hai nhân vật nam đứng cạnh xe trắng. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-082__G082__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-082__G082__cover.jpg"
+    ]
+  },
+  {
+    "id": "G083",
+    "sku": "C102-FIG-0083",
+    "title": "Nhân vật nam áo vàng đứng chờ",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật nam áo vàng đứng chờ. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-083__G083__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-083__G083__cover.jpg"
+    ]
+  },
+  {
+    "id": "G084",
+    "sku": "C102-FIG-0084",
+    "title": "Nhân vật nam áo blouse trắng",
+    "theme": "Service & Workers",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật nam áo blouse trắng. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-084__G084__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-084__G084__cover.jpg"
+    ]
+  },
+  {
+    "id": "G085",
+    "sku": "C102-FIG-0085",
+    "title": "Nhân vật nam áo khoác tối dài",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật nam áo khoác tối dài. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-085__G085__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-085__G085__cover.jpg"
+    ]
+  },
+  {
+    "id": "G086",
+    "sku": "C102-SET-0086",
+    "title": "Nhóm nhân vật lễ hội mùa đông",
+    "theme": "Seasonal & Festive",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhóm nhân vật lễ hội mùa đông. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-086__G086__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-086__G086__cover.jpg"
+    ]
+  },
+  {
+    "id": "G087",
+    "sku": "C102-SET-0087",
+    "title": "Nhân vật ông già Noel và phụ kiện",
+    "theme": "Seasonal & Festive",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Nhân vật ông già Noel và phụ kiện. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-087__G087__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-087__G087__cover.jpg"
+    ]
+  },
+  {
+    "id": "G088",
+    "sku": "C102-SCN-0088",
+    "title": "Bối cảnh cây thông Giáng sinh",
+    "theme": "Seasonal & Festive",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Bối cảnh cây thông Giáng sinh. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-088__G088__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-088__G088__cover.jpg"
+    ]
+  },
+  {
+    "id": "G089",
+    "sku": "C102-SET-0089",
+    "title": "Xe tuần lộc chở ông già Noel",
+    "theme": "Seasonal & Festive",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Xe tuần lộc chở ông già Noel. Chưa xác minh giá. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-089__G089__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-089__G089__cover.jpg"
+    ]
+  },
+  {
+    "id": "G090",
+    "sku": "C102-SET-0090",
+    "title": "Hai nhân vật lớn tuổi ngồi nghỉ",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật lớn tuổi ngồi nghỉ. Giá suy ra từ tin nhắn gần đó; cần xác nhận. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-090__G090__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-090__G090__cover.jpg"
+    ]
+  },
+  {
+    "id": "G091",
+    "sku": "C102-SET-0091",
+    "title": "Cặp nhân vật nam streetwear",
+    "theme": "Urban & Street Life",
+    "brand": "Liang Ge",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Cặp nhân vật nam streetwear. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Liang Ge, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-091__G091__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-091__G091__cover.jpg"
+    ]
+  },
+  {
+    "id": "G092",
+    "sku": "C102-FIG-0092",
+    "title": "Nhân vật nữ trang phục thể thao hồng",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Nhân vật nữ trang phục thể thao hồng. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Junix, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-092__G092__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-092__G092__cover.jpg"
+    ]
+  },
+  {
+    "id": "G093",
+    "sku": "C102-FIG-0093",
+    "title": "Nhân vật nam áo thể thao màu vàng",
+    "theme": "Lifestyle & Leisure",
+    "brand": "Junix",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 500000,
+    "priceFormatted": "500.000₫",
+    "desc": "Nhân vật nam áo thể thao màu vàng. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Junix, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-093__G093__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-093__G093__cover.jpg"
+    ]
+  },
+  {
+    "id": "G094",
+    "sku": "C102-FIG-0094",
+    "title": "Nhân vật nữ đồng phục thể thao",
+    "theme": "Lifestyle & Leisure",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Nhân vật nữ đồng phục thể thao. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-094__G094__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-094__G094__cover.jpg"
+    ]
+  },
+  {
+    "id": "G095",
+    "sku": "C102-SET-0095",
+    "title": "Hai nhân vật đeo ba lô, trang phục đô thị",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": null,
+    "priceFormatted": "Giá liên hệ",
+    "desc": "Hai nhân vật đeo ba lô, trang phục đô thị. Nam 400000 VND; nữ 450000 VND, cần tách SKU. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-095__G095__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-095__G095__cover.jpg"
+    ]
+  },
+  {
+    "id": "G096",
+    "sku": "C102-SET-0096",
+    "title": "Hai nhân vật ngồi trên bậc màu đỏ",
+    "theme": "Urban & Street Life",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 850000,
+    "priceFormatted": "850.000₫",
+    "desc": "Hai nhân vật ngồi trên bậc màu đỏ. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Chất 102, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-096__G096__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-096__G096__cover.jpg"
+    ]
+  },
+  {
+    "id": "G097",
+    "sku": "C102-SET-0097",
+    "title": "Hai nhân vật nữ trang phục jean",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 450000,
+    "priceFormatted": "450.000₫",
+    "desc": "Hai nhân vật nữ trang phục jean. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, thích hợp trang trí và ghép sa bàn diorama 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-097__G097__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-097__G097__cover.jpg"
+    ]
+  },
+  {
+    "id": "G098",
+    "sku": "C102-SET-0098",
+    "title": "Hai nhân vật đứng bên xe trắng",
+    "theme": "Urban & Street Life",
+    "brand": "OKGO",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 900000,
+    "priceFormatted": "900.000₫",
+    "desc": "Hai nhân vật đứng bên xe trắng. Cần xác nhận đơn vị bán. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-098__G098__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-098__G098__cover.jpg"
+    ]
+  },
+  {
+    "id": "G099",
+    "sku": "C102-SET-0099",
+    "title": "Nhân vật lái xe kart đỏ",
+    "theme": "Motorsport & Racing",
+    "brand": "Chất 102",
+    "scale": "1:64",
+    "material": "Resin SLA",
+    "price": 600000,
+    "priceFormatted": "600.000₫",
+    "desc": "Nhân vật lái xe kart đỏ. Xe có đi kèm figure; cần xác minh. Mô hình nhân vật tỉ lệ 1:64 sơn thủ công tinh xảo trên chất liệu Resin SLA cao cấp.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-099__G099__cover.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-099__G099__cover.jpg"
+    ]
+  },
+  {
     "id": "G100",
     "sku": "C102-SET-0100",
-    "title": "Nhân Viên Logistics & Xe Nâng Turret Truck",
+    "title": "Nhân Viên Kho & Xe Nâng Turret Truck",
     "theme": "Industrial & Workers",
     "brand": "Chất 102",
     "scale": "1:64",
-    "material": "Resin Thủ Công Cao Cấp",
+    "material": "Resin SLA",
     "price": 800000,
     "priceFormatted": "800.000₫",
-    "desc": "Figure nhân viên vận hành cùng xe vận chuyển pallet màu vàng kiểu chợ cá Tsukiji / kho hàng Nhật Bản tỉ lệ 1:64.",
-    "cover": "figures/FIG-C102-100__G100__01.jpg",
+    "desc": "Figure nhân viên vận hành cùng xe vận chuyển pallet màu vàng kiểu chợ cá Tsukiji / kho hàng logistics sa bàn Nhật Bản tỉ lệ 1:64.",
+    "cover": "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-100__G100__cover.jpg",
     "gallery": [
+      "https://ik.imagekit.io/gre911/GRE911/Partners/C102/Figures/Thumbnails/FIG-C102-100__G100__cover.jpg",
       "figures/FIG-C102-100__G100__01.jpg",
       "figures/FIG-C102-100__G100__02.jpg",
       "figures/FIG-C102-100__G100__03.jpg"
