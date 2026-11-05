@@ -37,9 +37,10 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 /* HEADER */
 header{position:relative;z-index:10;background:rgba(7,26,24,0.94);backdrop-filter:blur(14px);border-bottom:1px solid var(--border);padding:calc(15*var(--u)) calc(44*var(--u)) calc(13*var(--u))}
 .r1{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:calc(36*var(--u))}
-.brand-group{display:flex;align-items:baseline;gap:calc(12*var(--u))}
-.brand{font-size:calc(18*var(--u));font-weight:700;letter-spacing:0.18em;color:#fff}
-.brand span{color:var(--gold)}
+.brand-group{display:flex;align-items:center;gap:calc(12*var(--u))}
+.brand-logo-link{display:inline-flex;align-items:center;line-height:1;transition:opacity .2s}
+.brand-logo-link:hover{opacity:0.88}
+.header-logo-img{height:calc(20*var(--u));width:auto;display:block;aspect-ratio:432/59}
 .brand-sub{font-size:calc(9.5*var(--u));letter-spacing:0.16em;color:var(--gold);padding:calc(2*var(--u)) calc(8*var(--u));border:1px solid var(--border);border-radius:4px;background:rgba(184,163,106,0.08)}
 .tabs{display:flex;justify-content:center;gap:calc(32*var(--u));font-size:calc(11*var(--u));letter-spacing:0.12em;color:var(--text-dim)}
 .tabs a{transition:color .25s,border-color .25s;padding:calc(6*var(--u)) 0;border-bottom:2px solid transparent}
@@ -145,12 +146,12 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 .intro{position:absolute;z-index:6;left:calc(44*var(--u));top:calc(36*var(--u));max-width:calc(380*var(--u));pointer-events:none}
 /* Tiêu đề chính: CHẤT 102 × GRE•911 phóng to nổi bật */
 .intro-brand-title{
-  font-weight:700;font-size:calc(25*var(--u));line-height:1.15;letter-spacing:0.08em;color:#fff;
-  display:flex;align-items:center;gap:calc(10*var(--u));text-transform:uppercase;white-space:nowrap;
+  font-weight:700;font-size:calc(24*var(--u));line-height:1.2;letter-spacing:0.06em;color:#fff;
+  display:inline-flex;align-items:center;gap:calc(12*var(--u));text-transform:uppercase;white-space:nowrap;
   text-shadow:0 4px 16px rgba(0,0,0,0.6);
 }
-.intro-brand-title .x-sep{color:var(--gold);font-weight:400;font-size:0.85em}
-.intro-brand-title .dot{color:var(--gold)}
+.intro-brand-title .x-sep{color:var(--gold);font-weight:400;font-size:0.9em;display:inline-flex;align-items:center}
+.intro-logo-img{height:calc(24*var(--u));width:auto;display:inline-block;vertical-align:middle;aspect-ratio:432/59;filter:drop-shadow(0 2px 10px rgba(0,0,0,0.5))}
 /* Dòng phụ: FIGURE RUNWAY 1:64 nhỏ lại, tinh tế */
 .intro-sub-line{
   display:flex;align-items:center;gap:calc(8*var(--u));
@@ -432,6 +433,8 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
   header{padding:10px 14px}
   .r1{grid-template-columns:auto 1fr;gap:10px}
   .tabs,.acct a:not(:last-child){display:none}
+  .brand-group{gap:8px}
+  .header-logo-img{height:16px}
   .brand{font-size:15px}
   .brand-sub{font-size:8.5px}
   main{grid-template-columns:1fr;grid-template-rows:1fr 240px}
@@ -439,7 +442,8 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
   .stage-arrow{width:36px;height:36px}
   .stage-arrow-prev{left:10px}.stage-arrow-next{right:10px}
   .intro{left:14px;top:14px;width:calc(100% - 28px)}
-  .intro-brand-title{font-size:18px;white-space:normal}
+  .intro-brand-title{font-size:17px;gap:8px;white-space:normal}
+  .intro-logo-img{height:18px}
   .intro-sub-line{font-size:9.5px;letter-spacing:0.16em}
   .intro p,.badge-chất{display:none}
   .tag{left:14px;bottom:12px}
@@ -602,7 +606,9 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
   <header>
     <div class="r1">
       <div class="brand-group">
-        <a class="brand michroma" href="#" aria-label="GRE•911">GRE<span>•</span>911</a>
+        <a class="brand-logo-link" href="#" aria-label="GRE•911">
+          <img src="brand/gre911-logo.png" alt="GRE•911" class="header-logo-img" width="146" height="20">
+        </a>
         <span class="brand-sub michroma">C102 FIGURES</span>
       </div>
       <nav class="tabs michroma" id="nav-tabs" aria-label="Bộ sưu tập 100 mẫu">
@@ -638,7 +644,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
       <!-- INTRO BLOCK: CHẤT 102 × GRE•911 phóng to, Figure 1:64 nhỏ lại -->
       <div class="intro">
         <h1 class="intro-brand-title michroma">
-          CHẤT 102 <span class="x-sep">×</span> GRE<span class="dot">•</span>911
+          CHẤT 102 <span class="x-sep">×</span> <img src="brand/gre911-logo.png" alt="GRE•911" class="intro-logo-img" width="175" height="24">
         </h1>
         <div class="intro-sub-line michroma">
           FIGURE RUNWAY // TỈ LỆ 1:64
