@@ -1,7 +1,7 @@
 [
   {
     "id": "G001",
-    "sku": "C102-FIG-0001",
+    "sku": "FIG-C102-001",
     "title": "Nhân viên cửa hàng mặc tạp dề xanh",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "Chất 102",
@@ -25,7 +25,7 @@
   },
   {
     "id": "G002",
-    "sku": "C102-SET-0002",
+    "sku": "FIG-C102-002",
     "title": "Nhóm nhân vật phố Nhật Bản",
     "theme": "Văn hóa Phố Nhật",
     "brand": "OKGO",
@@ -50,7 +50,7 @@
   },
   {
     "id": "G003",
-    "sku": "C102-FIG-0003",
+    "sku": "FIG-C102-003",
     "title": "Nhân vật nữ ngồi bên xe hơi",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -72,7 +72,7 @@
   },
   {
     "id": "G004",
-    "sku": "C102-FIG-0004",
+    "sku": "FIG-C102-004",
     "title": "Nhân vật khu vực xe thể thao màu đỏ",
     "theme": "Đường đua & Tốc độ",
     "brand": "OKGO",
@@ -94,7 +94,7 @@
   },
   {
     "id": "G005",
-    "sku": "C102-FIG-0005",
+    "sku": "FIG-C102-005",
     "title": "Nhân vật nữ ngồi bên đường phố",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -118,7 +118,7 @@
   },
   {
     "id": "G006",
-    "sku": "C102-SET-0006",
+    "sku": "FIG-C102-006",
     "title": "Nhân vật đi xe ba bánh mini",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -140,7 +140,7 @@
   },
   {
     "id": "G007",
-    "sku": "C102-FIG-0007",
+    "sku": "FIG-C102-007",
     "title": "Nhân Vật Nữ Firefly Phố Nhật",
     "theme": "Văn hóa Phố Nhật",
     "brand": "Chất 102",
@@ -163,7 +163,7 @@
   },
   {
     "id": "G008",
-    "sku": "C102-SET-0008",
+    "sku": "FIG-C102-008",
     "title": "Cặp nhân vật đường phố trao đổi",
     "theme": "Đô thị & Đường phố",
     "brand": "Junix",
@@ -188,7 +188,7 @@
   },
   {
     "id": "G009",
-    "sku": "C102-SET-0009",
+    "sku": "FIG-C102-009",
     "title": "Cặp nhân vật du lịch đội mũ rộng vành",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -210,7 +210,7 @@
   },
   {
     "id": "G010",
-    "sku": "C102-SET-0010",
+    "sku": "FIG-C102-010",
     "title": "Cặp nhân vật nữ phong cách trẻ trung",
     "theme": "Đô thị & Đường phố",
     "brand": "Junix",
@@ -234,7 +234,7 @@
   },
   {
     "id": "G011",
-    "sku": "C102-SET-0011",
+    "sku": "FIG-C102-011",
     "title": "Cặp Nữ Cổ Động Biker & Race Queens",
     "theme": "Đường đua & Tốc độ",
     "brand": "Junix",
@@ -258,7 +258,7 @@
   },
   {
     "id": "G012",
-    "sku": "C102-SET-0012",
+    "sku": "FIG-C102-012",
     "title": "Học sinh nữ và nam mang cặp",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -280,7 +280,7 @@
   },
   {
     "id": "G013",
-    "sku": "C102-SET-0013",
+    "sku": "FIG-C102-013",
     "title": "Nhóm mẹ và bé trong phố nhỏ",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -304,7 +304,7 @@
   },
   {
     "id": "G014",
-    "sku": "C102-SET-0014",
+    "sku": "FIG-C102-014",
     "title": "Cặp nhân vật bên xe hơi đỏ",
     "theme": "Đô thị & Đường phố",
     "brand": "Junix",
@@ -325,7 +325,7 @@
   },
   {
     "id": "G015",
-    "sku": "C102-SET-0015",
+    "sku": "FIG-C102-015",
     "title": "Nhóm nhân vật trẻ thời trang",
     "theme": "Đô thị & Đường phố",
     "brand": "Junix",
@@ -347,7 +347,7 @@
   },
   {
     "id": "G016",
-    "sku": "C102-SET-0016",
+    "sku": "FIG-C102-016",
     "title": "Cặp nhân vật đồng phục xanh rêu",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "Chất 102",
@@ -369,7 +369,7 @@
   },
   {
     "id": "G017",
-    "sku": "C102-SET-0017",
+    "sku": "FIG-C102-017",
     "title": "Hai nhân vật mang tạp dề lao động",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "OKGO",
@@ -393,7 +393,7 @@
   },
   {
     "id": "G018",
-    "sku": "C102-SET-0018",
+    "sku": "FIG-C102-018",
     "title": "Bộ Ngũ Đại Nhân Vật Streetwear",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -423,7 +423,7 @@
   },
   {
     "id": "G019",
-    "sku": "C102-FIG-0019",
+    "sku": "FIG-C102-019",
     "title": "Nhân vật nam đội mũ đứng tựa",
     "theme": "Đô thị & Đường phố",
     "brand": "Aeris Shade",
@@ -446,7 +446,7 @@
   },
   {
     "id": "G020",
-    "sku": "C102-SET-0020",
+    "sku": "FIG-C102-020",
     "title": "Cặp nhân vật ngoài trời mặc tạp dề",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "OKGO",
@@ -471,7 +471,7 @@
   },
   {
     "id": "G021",
-    "sku": "C102-SET-0021",
+    "sku": "FIG-C102-021",
     "title": "Cặp nhân vật chạy bộ đường phố",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -495,7 +495,7 @@
   },
   {
     "id": "G022",
-    "sku": "C102-SET-0022",
+    "sku": "FIG-C102-022",
     "title": "Quý Cô & Xe Mô Tô Orange Moto",
     "theme": "Đường đua & Tốc độ",
     "brand": "Junix",
@@ -519,7 +519,7 @@
   },
   {
     "id": "G023",
-    "sku": "C102-SET-0023",
+    "sku": "FIG-C102-023",
     "title": "Cặp nhân vật nam trang phục thường ngày",
     "theme": "Đô thị & Đường phố",
     "brand": "Anh Bing",
@@ -545,7 +545,7 @@
   },
   {
     "id": "G024",
-    "sku": "C102-MSC-0024",
+    "sku": "FIG-C102-024",
     "title": "Linh vật gấu và khủng long mini",
     "theme": "Nhân vật đặc biệt",
     "brand": "Chất 102",
@@ -571,7 +571,7 @@
   },
   {
     "id": "G025",
-    "sku": "C102-FIG-0025",
+    "sku": "FIG-C102-025",
     "title": "Nhân vật nhỏ trang phục xanh đỏ",
     "theme": "Nhân vật đặc biệt",
     "brand": "Junix",
@@ -594,7 +594,7 @@
   },
   {
     "id": "G026",
-    "sku": "C102-SET-0026",
+    "sku": "FIG-C102-026",
     "title": "Nhân vật nữ dắt chó",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -615,7 +615,7 @@
   },
   {
     "id": "G027",
-    "sku": "C102-FIG-0027",
+    "sku": "FIG-C102-027",
     "title": "Nhân vật nam ngồi thư giãn",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -636,7 +636,7 @@
   },
   {
     "id": "G028",
-    "sku": "C102-FIG-0028",
+    "sku": "FIG-C102-028",
     "title": "Nhân vật nữ áo cam cầm máy ảnh",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -657,7 +657,7 @@
   },
   {
     "id": "G029",
-    "sku": "C102-SET-0029",
+    "sku": "FIG-C102-029",
     "title": "Nhân vật nữ mặc đồ đỏ cùng chó",
     "theme": "Đời sống & Thư giãn",
     "brand": "Junix",
@@ -679,7 +679,7 @@
   },
   {
     "id": "G030",
-    "sku": "C102-FIG-0030",
+    "sku": "FIG-C102-030",
     "title": "Nhân vật nữ tạo dáng thể thao",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -701,7 +701,7 @@
   },
   {
     "id": "G031",
-    "sku": "C102-FIG-0031",
+    "sku": "FIG-C102-031",
     "title": "Nhân vật nam trang phục ngụy trang",
     "theme": "Đô thị & Đường phố",
     "brand": "Liang Ge",
@@ -722,7 +722,7 @@
   },
   {
     "id": "G032",
-    "sku": "C102-SET-0032",
+    "sku": "FIG-C102-032",
     "title": "Cặp nhân vật nữ mặc váy trắng",
     "theme": "Văn hóa Phố Nhật",
     "brand": "Liang Ge",
@@ -746,7 +746,7 @@
   },
   {
     "id": "G033",
-    "sku": "C102-SET-0033",
+    "sku": "FIG-C102-033",
     "title": "Cặp nhân vật nữ mang túi xách",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -768,7 +768,7 @@
   },
   {
     "id": "G034",
-    "sku": "C102-SET-0034",
+    "sku": "FIG-C102-034",
     "title": "Hai nhân vật nữ trang phục sọc",
     "theme": "Đô thị & Đường phố",
     "brand": "Liang Ge",
@@ -792,7 +792,7 @@
   },
   {
     "id": "G035",
-    "sku": "C102-SET-0035",
+    "sku": "FIG-C102-035",
     "title": "Hai nhân vật nữ trang phục thể thao",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -816,7 +816,7 @@
   },
   {
     "id": "G036",
-    "sku": "C102-SET-0036",
+    "sku": "FIG-C102-036",
     "title": "Cặp nhân vật nam ngồi nghỉ",
     "theme": "Đô thị & Đường phố",
     "brand": "Liang Ge",
@@ -838,7 +838,7 @@
   },
   {
     "id": "G037",
-    "sku": "C102-SET-0037",
+    "sku": "FIG-C102-037",
     "title": "Hai nhân vật nữ quần jean xanh",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -860,7 +860,7 @@
   },
   {
     "id": "G038",
-    "sku": "C102-FIG-0038",
+    "sku": "FIG-C102-038",
     "title": "Nhân vật nữ đeo ba lô cúi người",
     "theme": "Đời sống & Thư giãn",
     "brand": "Liang Ge",
@@ -882,7 +882,7 @@
   },
   {
     "id": "G039",
-    "sku": "C102-SET-0039",
+    "sku": "FIG-C102-039",
     "title": "Hai nhân vật ngồi bậc thềm",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -906,7 +906,7 @@
   },
   {
     "id": "G040",
-    "sku": "C102-SET-0040",
+    "sku": "FIG-C102-040",
     "title": "Cặp nhân vật ngồi bên nhau",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -930,7 +930,7 @@
   },
   {
     "id": "G041",
-    "sku": "C102-FIG-0041",
+    "sku": "FIG-C102-041",
     "title": "Nhân vật nam nhân viên cửa hàng",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "OKGO",
@@ -952,7 +952,7 @@
   },
   {
     "id": "G042",
-    "sku": "C102-FIG-0042",
+    "sku": "FIG-C102-042",
     "title": "Nhân vật nữ áo trắng váy tối",
     "theme": "Đô thị & Đường phố",
     "brand": "Liang Ge",
@@ -974,7 +974,7 @@
   },
   {
     "id": "G043",
-    "sku": "C102-SET-0043",
+    "sku": "FIG-C102-043",
     "title": "Cụm nhân vật phố Nhật và phụ kiện cầu thang",
     "theme": "Văn hóa Phố Nhật",
     "brand": "Chất 102",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "G044",
-    "sku": "C102-SET-0044",
+    "sku": "FIG-C102-044",
     "title": "Nhóm nhân vật trước cửa tiệm phố Nhật",
     "theme": "Văn hóa Phố Nhật",
     "brand": "Chất 102",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "G045",
-    "sku": "C102-FIG-0045",
+    "sku": "FIG-C102-045",
     "title": "Nhân vật nữ trang phục thường ngày",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1050,7 +1050,7 @@
   },
   {
     "id": "G046",
-    "sku": "C102-SET-0046",
+    "sku": "FIG-C102-046",
     "title": "Hai nhân vật nam đi dạo phố",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "G047",
-    "sku": "C102-SET-0047",
+    "sku": "FIG-C102-047",
     "title": "Hai nhân vật nữ áo khoác sắc màu",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": "G048",
-    "sku": "C102-SET-0048",
+    "sku": "FIG-C102-048",
     "title": "Nhóm nhân vật áo thể thao đường phố",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "G049",
-    "sku": "C102-FIG-0049",
+    "sku": "FIG-C102-049",
     "title": "Cặp Lướt Sóng Coastal Surfers",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1143,7 +1143,7 @@
   },
   {
     "id": "G050",
-    "sku": "C102-SET-0050",
+    "sku": "FIG-C102-050",
     "title": "Hai nhân vật trẻ đeo ba lô",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1164,7 +1164,7 @@
   },
   {
     "id": "G051",
-    "sku": "C102-SET-0051",
+    "sku": "FIG-C102-051",
     "title": "Hai nhân vật nữ mang balo và túi",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": "G052",
-    "sku": "C102-SET-0052",
+    "sku": "FIG-C102-052",
     "title": "Hai nhân vật nam ngồi nghỉ ngoài trời",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": "G053",
-    "sku": "C102-FIG-0053",
+    "sku": "FIG-C102-053",
     "title": "Nhân vật nữ váy trắng tạo dáng",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1231,7 +1231,7 @@
   },
   {
     "id": "G054",
-    "sku": "C102-FIG-0054",
+    "sku": "FIG-C102-054",
     "title": "Nhân vật nữ mặc áo khoác tối",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1252,7 +1252,7 @@
   },
   {
     "id": "G055",
-    "sku": "C102-FIG-0055",
+    "sku": "FIG-C102-055",
     "title": "Nhân vật nữ áo trắng quần short",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1274,7 +1274,7 @@
   },
   {
     "id": "G056",
-    "sku": "C102-SET-0056",
+    "sku": "FIG-C102-056",
     "title": "Hai nhân vật nam đi du lịch",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1298,7 +1298,7 @@
   },
   {
     "id": "G057",
-    "sku": "C102-SET-0057",
+    "sku": "FIG-C102-057",
     "title": "Nhân vật bé gái kéo xe đồ chơi",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -1320,7 +1320,7 @@
   },
   {
     "id": "G058",
-    "sku": "C102-FIG-0058",
+    "sku": "FIG-C102-058",
     "title": "Nhân vật nam ngồi xổm bên vật dụng",
     "theme": "Kho vận & Kỹ thuật",
     "brand": "OKGO",
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "G059",
-    "sku": "C102-FIG-0059",
+    "sku": "FIG-C102-059",
     "title": "Nhân vật nam mặc áo khoác tối",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1364,7 +1364,7 @@
   },
   {
     "id": "G060",
-    "sku": "C102-SET-0060",
+    "sku": "FIG-C102-060",
     "title": "Hai nhân vật nữ đi dạo phố",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1388,7 +1388,7 @@
   },
   {
     "id": "G061",
-    "sku": "C102-SET-0061",
+    "sku": "FIG-C102-061",
     "title": "Nhóm ba nhân vật nam trang phục dài",
     "theme": "Đô thị & Đường phố",
     "brand": "Liang Ge",
@@ -1408,7 +1408,7 @@
   },
   {
     "id": "G062",
-    "sku": "C102-FIG-0062",
+    "sku": "FIG-C102-062",
     "title": "Nhân vật đường phố đeo ba lô",
     "theme": "Đô thị & Đường phố",
     "brand": "Junix",
@@ -1434,7 +1434,7 @@
   },
   {
     "id": "G063",
-    "sku": "C102-SET-0063",
+    "sku": "FIG-C102-063",
     "title": "Nhân vật ngồi nghỉ cạnh xe nhỏ",
     "theme": "Đô thị & Đường phố",
     "brand": "Junix",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "G064",
-    "sku": "C102-FIG-0064",
+    "sku": "FIG-C102-064",
     "title": "Nhân vật nam áo khoác dài",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1480,7 +1480,7 @@
   },
   {
     "id": "G065",
-    "sku": "C102-FIG-0065",
+    "sku": "FIG-C102-065",
     "title": "Nhân vật nam áo blouse dài",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "OKGO",
@@ -1504,7 +1504,7 @@
   },
   {
     "id": "G066",
-    "sku": "C102-SET-0066",
+    "sku": "FIG-C102-066",
     "title": "Nhóm nhân vật nữ váy đỏ",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -1530,7 +1530,7 @@
   },
   {
     "id": "G067",
-    "sku": "C102-SET-0067",
+    "sku": "FIG-C102-067",
     "title": "Mẹ và bé ngồi thư giãn",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "G068",
-    "sku": "C102-SET-0068",
+    "sku": "FIG-C102-068",
     "title": "Nhóm nhân vật đứng trước xe hơi",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": "G069",
-    "sku": "C102-SET-0069",
+    "sku": "FIG-C102-069",
     "title": "Nhóm nhân vật nữ trên phố",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1600,7 +1600,7 @@
   },
   {
     "id": "G070",
-    "sku": "C102-SET-0070",
+    "sku": "FIG-C102-070",
     "title": "Nhóm nhân vật quanh xe đua xanh",
     "theme": "Đường đua & Tốc độ",
     "brand": "Chất 102",
@@ -1624,7 +1624,7 @@
   },
   {
     "id": "G071",
-    "sku": "C102-SET-0071",
+    "sku": "FIG-C102-071",
     "title": "Nhóm nhân vật cạnh xe thể thao",
     "theme": "Đường đua & Tốc độ",
     "brand": "Chất 102",
@@ -1645,7 +1645,7 @@
   },
   {
     "id": "G072",
-    "sku": "C102-SET-0072",
+    "sku": "FIG-C102-072",
     "title": "Nhân vật nữ đi xe mini",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -1667,7 +1667,7 @@
   },
   {
     "id": "G073",
-    "sku": "C102-SET-0073",
+    "sku": "FIG-C102-073",
     "title": "Nhóm nhân vật nghỉ bên mặt nước",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -1688,7 +1688,7 @@
   },
   {
     "id": "G074",
-    "sku": "C102-SET-0074",
+    "sku": "FIG-C102-074",
     "title": "Nhân vật người lớn và xe nôi",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -1710,7 +1710,7 @@
   },
   {
     "id": "G075",
-    "sku": "C102-FIG-0075",
+    "sku": "FIG-C102-075",
     "title": "Nhân vật nữ chạy mặc váy sáng",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1731,7 +1731,7 @@
   },
   {
     "id": "G076",
-    "sku": "C102-SET-0076",
+    "sku": "FIG-C102-076",
     "title": "Hai nhân vật nữ ngồi xổm",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1752,7 +1752,7 @@
   },
   {
     "id": "G077",
-    "sku": "C102-SCN-0077",
+    "sku": "FIG-C102-077",
     "title": "Bối cảnh phố có nhóm nhân vật mini",
     "theme": "Văn hóa Phố Nhật",
     "brand": "Chất 102",
@@ -1772,7 +1772,7 @@
   },
   {
     "id": "G078",
-    "sku": "C102-SET-0078",
+    "sku": "FIG-C102-078",
     "title": "Nhân vật nghỉ trên ghế dài",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -1792,7 +1792,7 @@
   },
   {
     "id": "G079",
-    "sku": "C102-SET-0079",
+    "sku": "FIG-C102-079",
     "title": "Xe đẩy thức ăn đường phố",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "Chất 102",
@@ -1814,7 +1814,7 @@
   },
   {
     "id": "G080",
-    "sku": "C102-SET-0080",
+    "sku": "FIG-C102-080",
     "title": "Nhân viên đứng sau quầy dịch vụ",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "Chất 102",
@@ -1834,7 +1834,7 @@
   },
   {
     "id": "G081",
-    "sku": "C102-SET-0081",
+    "sku": "FIG-C102-081",
     "title": "Hai nhân vật nữ trang phục thể thao",
     "theme": "Đời sống & Thư giãn",
     "brand": "Chất 102",
@@ -1856,7 +1856,7 @@
   },
   {
     "id": "G082",
-    "sku": "C102-SET-0082",
+    "sku": "FIG-C102-082",
     "title": "Hai nhân vật nam đứng cạnh xe trắng",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1878,7 +1878,7 @@
   },
   {
     "id": "G083",
-    "sku": "C102-FIG-0083",
+    "sku": "FIG-C102-083",
     "title": "Nhân vật nam áo vàng đứng chờ",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1900,7 +1900,7 @@
   },
   {
     "id": "G084",
-    "sku": "C102-FIG-0084",
+    "sku": "FIG-C102-084",
     "title": "Nhân vật nam áo blouse trắng",
     "theme": "Cửa hàng & Dịch vụ",
     "brand": "Chất 102",
@@ -1922,7 +1922,7 @@
   },
   {
     "id": "G085",
-    "sku": "C102-FIG-0085",
+    "sku": "FIG-C102-085",
     "title": "Nhân vật nam áo khoác tối dài",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -1944,7 +1944,7 @@
   },
   {
     "id": "G086",
-    "sku": "C102-SET-0086",
+    "sku": "FIG-C102-086",
     "title": "Nhóm nhân vật lễ hội mùa đông",
     "theme": "Lễ hội Mùa đông",
     "brand": "Chất 102",
@@ -1967,7 +1967,7 @@
   },
   {
     "id": "G087",
-    "sku": "C102-SET-0087",
+    "sku": "FIG-C102-087",
     "title": "Nhân vật ông già Noel và phụ kiện",
     "theme": "Lễ hội Mùa đông",
     "brand": "Chất 102",
@@ -1990,7 +1990,7 @@
   },
   {
     "id": "G088",
-    "sku": "C102-SCN-0088",
+    "sku": "FIG-C102-088",
     "title": "Bối cảnh cây thông Giáng sinh",
     "theme": "Lễ hội Mùa đông",
     "brand": "Chất 102",
@@ -2010,7 +2010,7 @@
   },
   {
     "id": "G089",
-    "sku": "C102-SET-0089",
+    "sku": "FIG-C102-089",
     "title": "Xe tuần lộc chở ông già Noel",
     "theme": "Lễ hội Mùa đông",
     "brand": "Chất 102",
@@ -2031,7 +2031,7 @@
   },
   {
     "id": "G090",
-    "sku": "C102-SET-0090",
+    "sku": "FIG-C102-090",
     "title": "Hai nhân vật lớn tuổi ngồi nghỉ",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -2055,7 +2055,7 @@
   },
   {
     "id": "G091",
-    "sku": "C102-SET-0091",
+    "sku": "FIG-C102-091",
     "title": "Cặp nhân vật nam streetwear",
     "theme": "Đô thị & Đường phố",
     "brand": "Liang Ge",
@@ -2079,7 +2079,7 @@
   },
   {
     "id": "G092",
-    "sku": "C102-FIG-0092",
+    "sku": "FIG-C102-092",
     "title": "Nhân vật nữ trang phục thể thao hồng",
     "theme": "Đời sống & Thư giãn",
     "brand": "Junix",
@@ -2102,7 +2102,7 @@
   },
   {
     "id": "G093",
-    "sku": "C102-FIG-0093",
+    "sku": "FIG-C102-093",
     "title": "Nhân vật nam áo thể thao màu vàng",
     "theme": "Đời sống & Thư giãn",
     "brand": "Junix",
@@ -2124,7 +2124,7 @@
   },
   {
     "id": "G094",
-    "sku": "C102-FIG-0094",
+    "sku": "FIG-C102-094",
     "title": "Nhân vật nữ đồng phục thể thao",
     "theme": "Đời sống & Thư giãn",
     "brand": "OKGO",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": "G095",
-    "sku": "C102-SET-0095",
+    "sku": "FIG-C102-095",
     "title": "Hai nhân vật đeo ba lô, trang phục đô thị",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -2169,7 +2169,7 @@
   },
   {
     "id": "G096",
-    "sku": "C102-SET-0096",
+    "sku": "FIG-C102-096",
     "title": "Hai nhân vật ngồi trên bậc màu đỏ",
     "theme": "Đô thị & Đường phố",
     "brand": "Chất 102",
@@ -2191,7 +2191,7 @@
   },
   {
     "id": "G097",
-    "sku": "C102-SET-0097",
+    "sku": "FIG-C102-097",
     "title": "Hai nhân vật nữ trang phục jean",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": "G098",
-    "sku": "C102-SET-0098",
+    "sku": "FIG-C102-098",
     "title": "Hai nhân vật đứng bên xe trắng",
     "theme": "Đô thị & Đường phố",
     "brand": "OKGO",
@@ -2231,7 +2231,7 @@
   },
   {
     "id": "G099",
-    "sku": "C102-SET-0099",
+    "sku": "FIG-C102-099",
     "title": "Nhân vật lái xe kart đỏ",
     "theme": "Đường đua & Tốc độ",
     "brand": "Chất 102",
@@ -2253,7 +2253,7 @@
   },
   {
     "id": "G100",
-    "sku": "C102-SET-0100",
+    "sku": "FIG-C102-100",
     "title": "Nhân Viên Kho & Xe Nâng Turret Truck",
     "theme": "Kho vận & Kỹ thuật",
     "brand": "Chất 102",
