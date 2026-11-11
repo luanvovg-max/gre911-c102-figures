@@ -1,0 +1,49 @@
+name: C102 SEO PR pre-check
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-seo-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Build
+        run: |
+          npm ci
+          npm run build
+      - name: Check generated SEO files
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import {readFileSync, existsSync} from 'node:fs';
+          const mustExist=['dist/index.html','dist/robots.txt','dist/sitemap.xml','dist/CNAME'];
+          for (const f of mustExist) {
+            if (!existsSync(f)) throw new Error('Missing built file: '+f);
+          }
+          const html=readFileSync('dist/index.html','utf8');
+          const robots=readFileSync('dist/robots.txt','utf8');
+          const sitemap=readFileSync('dist/sitemap.xml','utf8');
+          const canonical='https://c102.gre911.com/';
+          const n=(s,needle)=>s.split(needle).length-1;
+          if (n(html,'rel="canonical"')!==1 || !html.includes('href="'+canonical+'"'))
+            throw new Error('Expected exactly one correct canonical');
+          if (n(html,'<title>')!==1) throw new Error('Expected one homepage title');
+          if (html.includes('<meta name="robots" content="noindex'))
+            throw new Error('Unexpected static noindex');
+          if (!robots.includes('Sitemap: '+canonical+'sitemap.xml'))
+            throw new Error('Invalid robots sitemap');
+          if (n(sitemap,'<loc>')!==1 || !sitemap.includes('<loc>'+canonical+'</loc>'))
+            throw new Error('Sitemap must contain homepage only');
+          if (readFileSync('dist/CNAME','utf8').trim()!=='c102.gre911.com')
+            throw new Error('Custom domain changed');
+          console.log('C102 SEO build artifact checks OK');
+          NODE
