@@ -1,0 +1,5 @@
+# C102 1:64 collection. Crawl/index control lives with page-level responses.
+User-agent: *
+Allow: /
+
+Sitemap: https://c102.gre911.com/sitemap.xml
