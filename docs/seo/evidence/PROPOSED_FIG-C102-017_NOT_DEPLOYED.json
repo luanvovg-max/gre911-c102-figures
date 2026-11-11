@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Hai nhân vật mang tạp dề lao động",
+  "description": "Hai nhân vật mang tạp dề lao động. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi OKGO, hoàn thiện sơn thủ công chi tiết cao. Phù hợp chủ đề Cửa hàng & Dịch vụ, hoàn hảo cho bối cảnh sa bàn Cửa hàng tiện lợi & Tiệm cafe.",
+  "sku": "FIG-C102-017",
+  "image": [
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__01.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__02.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__03.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__04.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__05.jpg"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "OKGO"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": 450000,
+    "priceCurrency": "VND"
+  }
+}

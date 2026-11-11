@@ -1,0 +1,3250 @@
+[
+  {
+    "checkedAt": "2026-11-11T16:52:49.304Z",
+    "expected": {
+      "sku": "FIG-C102-001",
+      "price": 295000,
+      "priceFormatted": "295.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "295.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-001",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-001__G001__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân viên cửa hàng mặc tạp dề xanh",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:49.729Z",
+    "expected": {
+      "sku": "FIG-C102-002",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__06.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-002",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-002__G002__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật phố Nhật Bản",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:50.165Z",
+    "expected": {
+      "sku": "FIG-C102-003",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-003",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-003__G003__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ ngồi bên xe hơi",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:50.589Z",
+    "expected": {
+      "sku": "FIG-C102-004",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-004",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-004__G004__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật khu vực xe thể thao màu đỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:51.013Z",
+    "expected": {
+      "sku": "FIG-C102-005",
+      "price": 295000,
+      "priceFormatted": "295.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "295.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-005",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-005__G005__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ ngồi bên đường phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:51.448Z",
+    "expected": {
+      "sku": "FIG-C102-006",
+      "price": 290000,
+      "priceFormatted": "290.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "290.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-006",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-006__G006__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật đi xe ba bánh mini",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:51.874Z",
+    "expected": {
+      "sku": "FIG-C102-007",
+      "price": 290000,
+      "priceFormatted": "290.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "290.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-007",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-007__G007__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân Vật Nữ Firefly Phố Nhật",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:52.297Z",
+    "expected": {
+      "sku": "FIG-C102-008",
+      "price": 990000,
+      "priceFormatted": "990.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__06.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "990.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-008",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-008__G008__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật đường phố trao đổi",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:52.729Z",
+    "expected": {
+      "sku": "FIG-C102-009",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-009",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-009__G009__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật du lịch đội mũ rộng vành",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:53.148Z",
+    "expected": {
+      "sku": "FIG-C102-010",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-010",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-010__G010__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật nữ phong cách trẻ trung",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:53.572Z",
+    "expected": {
+      "sku": "FIG-C102-011",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-011",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-011__G011__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp Nữ Cổ Động Biker & Race Queens",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:53.993Z",
+    "expected": {
+      "sku": "FIG-C102-012",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-012",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-012__G012__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Học sinh nữ và nam mang cặp",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:54.413Z",
+    "expected": {
+      "sku": "FIG-C102-013",
+      "price": 590000,
+      "priceFormatted": "590.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "590.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-013",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-013__G013__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm mẹ và bé trong phố nhỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:54.833Z",
+    "expected": {
+      "sku": "FIG-C102-014",
+      "price": 390000,
+      "priceFormatted": "390.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-014__G014__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-014__G014__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-014__G014__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-014__G014__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "390.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-014",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-014__G014__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-014__G014__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật bên xe hơi đỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:55.255Z",
+    "expected": {
+      "sku": "FIG-C102-015",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-015",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-015__G015__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật trẻ thời trang",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:55.676Z",
+    "expected": {
+      "sku": "FIG-C102-016",
+      "price": 295000,
+      "priceFormatted": "295.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "295.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-016",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-016__G016__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật đồng phục xanh rêu",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:56.085Z",
+    "expected": {
+      "sku": "FIG-C102-017",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-017",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-017__G017__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật mang tạp dề lao động",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:56.505Z",
+    "expected": {
+      "sku": "FIG-C102-018",
+      "price": 295000,
+      "priceFormatted": "295.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__07.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__08.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__09.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__10.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__11.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "295.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-018",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__08.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__09.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__10.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-018__G018__11.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Bộ Ngũ Đại Nhân Vật Streetwear",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:56.943Z",
+    "expected": {
+      "sku": "FIG-C102-019",
+      "price": 550000,
+      "priceFormatted": "550.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "550.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-019",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-019__G019__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam đội mũ đứng tựa",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:57.365Z",
+    "expected": {
+      "sku": "FIG-C102-020",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__06.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-020",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-020__G020__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật ngoài trời mặc tạp dề",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:57.788Z",
+    "expected": {
+      "sku": "FIG-C102-021",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-021",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-021__G021__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật chạy bộ đường phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:58.210Z",
+    "expected": {
+      "sku": "FIG-C102-022",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-022",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-022__G022__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Quý Cô & Xe Mô Tô Orange Moto",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:58.645Z",
+    "expected": {
+      "sku": "FIG-C102-023",
+      "price": 1200000,
+      "priceFormatted": "1.200.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__07.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "1.200.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-023",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-023__G023__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật nam trang phục thường ngày",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:59.068Z",
+    "expected": {
+      "sku": "FIG-C102-024",
+      "price": 195000,
+      "priceFormatted": "195.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__07.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "195.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-024",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-024__G024__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Linh vật gấu và khủng long mini",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:52:59.494Z",
+    "expected": {
+      "sku": "FIG-C102-025",
+      "price": 550000,
+      "priceFormatted": "550.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "550.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-025",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-025__G025__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nhỏ trang phục xanh đỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:28.206Z",
+    "expected": {
+      "sku": "FIG-C102-026",
+      "price": 600000,
+      "priceFormatted": "600.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-026__G026__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-026__G026__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-026__G026__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-026__G026__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "600.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-026",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-026__G026__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-026__G026__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ dắt chó",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:28.647Z",
+    "expected": {
+      "sku": "FIG-C102-027",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-027__G027__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-027__G027__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-027__G027__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-027__G027__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-027",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-027__G027__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-027__G027__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam ngồi thư giãn",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:29.090Z",
+    "expected": {
+      "sku": "FIG-C102-028",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-028__G028__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-028__G028__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-028__G028__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-028__G028__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-028",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-028__G028__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-028__G028__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ áo cam cầm máy ảnh",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:29.505Z",
+    "expected": {
+      "sku": "FIG-C102-029",
+      "price": 600000,
+      "priceFormatted": "600.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "600.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-029",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-029__G029__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ mặc đồ đỏ cùng chó",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:29.932Z",
+    "expected": {
+      "sku": "FIG-C102-030",
+      "price": 295000,
+      "priceFormatted": "295.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "295.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-030",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-030__G030__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ tạo dáng thể thao",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:30.365Z",
+    "expected": {
+      "sku": "FIG-C102-031",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-031__G031__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-031__G031__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-031__G031__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-031__G031__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-031",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-031__G031__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-031__G031__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam trang phục ngụy trang",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:30.805Z",
+    "expected": {
+      "sku": "FIG-C102-032",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-032",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-032__G032__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật nữ mặc váy trắng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:31.244Z",
+    "expected": {
+      "sku": "FIG-C102-033",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-033",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-033__G033__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật nữ mang túi xách",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:31.673Z",
+    "expected": {
+      "sku": "FIG-C102-034",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-034",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-034__G034__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ trang phục sọc",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:32.113Z",
+    "expected": {
+      "sku": "FIG-C102-035",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-035",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-035__G035__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ trang phục thể thao",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:32.549Z",
+    "expected": {
+      "sku": "FIG-C102-036",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-036",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-036__G036__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật nam ngồi nghỉ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:32.972Z",
+    "expected": {
+      "sku": "FIG-C102-037",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-037",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-037__G037__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ quần jean xanh",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:33.405Z",
+    "expected": {
+      "sku": "FIG-C102-038",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-038",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-038__G038__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ đeo ba lô cúi người",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:33.827Z",
+    "expected": {
+      "sku": "FIG-C102-039",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-039",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-039__G039__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật ngồi bậc thềm",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:34.254Z",
+    "expected": {
+      "sku": "FIG-C102-040",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-040",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-040__G040__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật ngồi bên nhau",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:34.703Z",
+    "expected": {
+      "sku": "FIG-C102-041",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-041",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-041__G041__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam nhân viên cửa hàng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:35.126Z",
+    "expected": {
+      "sku": "FIG-C102-042",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-042",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-042__G042__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ áo trắng váy tối",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:35.561Z",
+    "expected": {
+      "sku": "FIG-C102-043",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__07.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__08.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__09.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-043",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__08.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__09.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cụm nhân vật phố Nhật và phụ kiện cầu thang",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:35.993Z",
+    "expected": {
+      "sku": "FIG-C102-044",
+      "price": 295000,
+      "priceFormatted": "295.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__07.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "295.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-044",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-044__G044__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật trước cửa tiệm phố Nhật",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:36.414Z",
+    "expected": {
+      "sku": "FIG-C102-045",
+      "price": 550000,
+      "priceFormatted": "550.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "550.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-045",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-045__G045__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ trang phục thường ngày",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:36.834Z",
+    "expected": {
+      "sku": "FIG-C102-046",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-046",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-046__G046__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nam đi dạo phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:37.273Z",
+    "expected": {
+      "sku": "FIG-C102-047",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-047",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-047__G047__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ áo khoác sắc màu",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:37.702Z",
+    "expected": {
+      "sku": "FIG-C102-048",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-048",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-048__G048__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật áo thể thao đường phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:38.148Z",
+    "expected": {
+      "sku": "FIG-C102-049",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-049",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-049__G049__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp Lướt Sóng Coastal Surfers",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:53:38.574Z",
+    "expected": {
+      "sku": "FIG-C102-050",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-050__G050__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-050__G050__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-050__G050__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-050__G050__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-050",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-050__G050__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-050__G050__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật trẻ đeo ba lô",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:04.106Z",
+    "expected": {
+      "sku": "FIG-C102-051",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__06.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-051",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-051__G051__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ mang balo và túi",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:04.559Z",
+    "expected": {
+      "sku": "FIG-C102-052",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-052__G052__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-052__G052__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-052__G052__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-052__G052__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-052",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-052__G052__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-052__G052__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nam ngồi nghỉ ngoài trời",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:04.980Z",
+    "expected": {
+      "sku": "FIG-C102-053",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-053__G053__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-053__G053__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-053__G053__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-053__G053__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-053",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-053__G053__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-053__G053__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ váy trắng tạo dáng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:05.418Z",
+    "expected": {
+      "sku": "FIG-C102-054",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-054__G054__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-054__G054__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-054__G054__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-054__G054__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-054",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-054__G054__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-054__G054__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ mặc áo khoác tối",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:05.860Z",
+    "expected": {
+      "sku": "FIG-C102-055",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-055",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-055__G055__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ áo trắng quần short",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:06.299Z",
+    "expected": {
+      "sku": "FIG-C102-056",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-056",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-056__G056__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nam đi du lịch",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:06.711Z",
+    "expected": {
+      "sku": "FIG-C102-057",
+      "price": 600000,
+      "priceFormatted": "600.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "600.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-057",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-057__G057__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật bé gái kéo xe đồ chơi",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:07.138Z",
+    "expected": {
+      "sku": "FIG-C102-058",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-058__G058__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-058__G058__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-058__G058__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-058__G058__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-058",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-058__G058__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-058__G058__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam ngồi xổm bên vật dụng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:07.575Z",
+    "expected": {
+      "sku": "FIG-C102-059",
+      "price": 400000,
+      "priceFormatted": "400.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "400.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-059",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-059__G059__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam mặc áo khoác tối",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:07.993Z",
+    "expected": {
+      "sku": "FIG-C102-060",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-060",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-060__G060__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ đi dạo phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:08.413Z",
+    "expected": {
+      "sku": "FIG-C102-061",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-061__G061__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-061__G061__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-061__G061__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-061",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-061__G061__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm ba nhân vật nam trang phục dài",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:08.841Z",
+    "expected": {
+      "sku": "FIG-C102-062",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__07.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-062",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-062__G062__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật đường phố đeo ba lô",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:09.264Z",
+    "expected": {
+      "sku": "FIG-C102-063",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-063",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-063__G063__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật ngồi nghỉ cạnh xe nhỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:09.689Z",
+    "expected": {
+      "sku": "FIG-C102-064",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-064",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-064__G064__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam áo khoác dài",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:10.109Z",
+    "expected": {
+      "sku": "FIG-C102-065",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-065",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-065__G065__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam áo blouse dài",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:10.529Z",
+    "expected": {
+      "sku": "FIG-C102-066",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__07.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-066",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-066__G066__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật nữ váy đỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:10.951Z",
+    "expected": {
+      "sku": "FIG-C102-067",
+      "price": 850000,
+      "priceFormatted": "850.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-067__G067__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-067__G067__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-067__G067__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-067__G067__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "850.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-067",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-067__G067__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-067__G067__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Mẹ và bé ngồi thư giãn",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:11.378Z",
+    "expected": {
+      "sku": "FIG-C102-068",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-068",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-068__G068__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật đứng trước xe hơi",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:11.807Z",
+    "expected": {
+      "sku": "FIG-C102-069",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__05.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__06.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__07.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-069",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__06.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-069__G069__07.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật nữ trên phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:12.227Z",
+    "expected": {
+      "sku": "FIG-C102-070",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-070",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-070__G070__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật quanh xe đua xanh",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:12.646Z",
+    "expected": {
+      "sku": "FIG-C102-071",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-071__G071__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-071__G071__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-071__G071__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-071__G071__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-071",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-071__G071__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-071__G071__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật cạnh xe thể thao",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:13.055Z",
+    "expected": {
+      "sku": "FIG-C102-072",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-072",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-072__G072__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ đi xe mini",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:13.475Z",
+    "expected": {
+      "sku": "FIG-C102-073",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-073__G073__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-073__G073__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-073__G073__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-073__G073__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-073",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-073__G073__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-073__G073__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật nghỉ bên mặt nước",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:13.896Z",
+    "expected": {
+      "sku": "FIG-C102-074",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-074",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-074__G074__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật người lớn và xe nôi",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:14.318Z",
+    "expected": {
+      "sku": "FIG-C102-075",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-075__G075__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-075__G075__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-075__G075__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-075__G075__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-075",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-075__G075__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-075__G075__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ chạy mặc váy sáng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:28.788Z",
+    "expected": {
+      "sku": "FIG-C102-076",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-076__G076__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-076__G076__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-076__G076__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-076__G076__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-076",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-076__G076__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-076__G076__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ ngồi xổm",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:29.226Z",
+    "expected": {
+      "sku": "FIG-C102-077",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-077__G077__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-077__G077__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-077__G077__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-077",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-077__G077__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Bối cảnh phố có nhóm nhân vật mini",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:29.629Z",
+    "expected": {
+      "sku": "FIG-C102-078",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-078__G078__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-078__G078__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-078__G078__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-078",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-078__G078__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nghỉ trên ghế dài",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:30.048Z",
+    "expected": {
+      "sku": "FIG-C102-079",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-079",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-079__G079__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Xe đẩy thức ăn đường phố",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:30.472Z",
+    "expected": {
+      "sku": "FIG-C102-080",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-080__G080__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-080__G080__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-080__G080__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-080",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-080__G080__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân viên đứng sau quầy dịch vụ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:30.897Z",
+    "expected": {
+      "sku": "FIG-C102-081",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-081",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-081__G081__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ trang phục thể thao",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:31.323Z",
+    "expected": {
+      "sku": "FIG-C102-082",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-082",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-082__G082__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nam đứng cạnh xe trắng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:31.744Z",
+    "expected": {
+      "sku": "FIG-C102-083",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-083",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-083__G083__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam áo vàng đứng chờ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:32.163Z",
+    "expected": {
+      "sku": "FIG-C102-084",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-084",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-084__G084__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam áo blouse trắng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:32.585Z",
+    "expected": {
+      "sku": "FIG-C102-085",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-085",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-085__G085__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam áo khoác tối dài",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:33.007Z",
+    "expected": {
+      "sku": "FIG-C102-086",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-086",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-086__G086__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhóm nhân vật lễ hội mùa đông",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:33.430Z",
+    "expected": {
+      "sku": "FIG-C102-087",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-087",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-087__G087__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật ông già Noel và phụ kiện",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:33.854Z",
+    "expected": {
+      "sku": "FIG-C102-088",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-088__G088__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-088__G088__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-088__G088__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-088",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-088__G088__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Bối cảnh cây thông Giáng sinh",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:34.294Z",
+    "expected": {
+      "sku": "FIG-C102-089",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-089__G089__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-089__G089__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-089__G089__02.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-089__G089__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-089",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-089__G089__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-089__G089__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Xe tuần lộc chở ông già Noel",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:34.733Z",
+    "expected": {
+      "sku": "FIG-C102-090",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-090",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-090__G090__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật lớn tuổi ngồi nghỉ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:35.210Z",
+    "expected": {
+      "sku": "FIG-C102-091",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__04.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__05.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-091",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-091__G091__05.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Cặp nhân vật nam streetwear",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:35.652Z",
+    "expected": {
+      "sku": "FIG-C102-092",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-092",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-092__G092__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ trang phục thể thao hồng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:36.070Z",
+    "expected": {
+      "sku": "FIG-C102-093",
+      "price": 500000,
+      "priceFormatted": "500.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "500.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-093",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-093__G093__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nam áo thể thao màu vàng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:36.613Z",
+    "expected": {
+      "sku": "FIG-C102-094",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-094",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-094__G094__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật nữ đồng phục thể thao",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:37.062Z",
+    "expected": {
+      "sku": "FIG-C102-095",
+      "price": null,
+      "priceFormatted": "Giá liên hệ",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__03.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__04.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "Giá liên hệ",
+      "rdfa": [],
+      "sku": "FIG-C102-095",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-095__G095__04.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật đeo ba lô, trang phục đô thị",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:37.481Z",
+    "expected": {
+      "sku": "FIG-C102-096",
+      "price": 850000,
+      "priceFormatted": "850.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "850.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-096",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-096__G096__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật ngồi trên bậc màu đỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:37.887Z",
+    "expected": {
+      "sku": "FIG-C102-097",
+      "price": 450000,
+      "priceFormatted": "450.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-097__G097__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-097__G097__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-097__G097__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "450.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-097",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-097__G097__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật nữ trang phục jean",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:38.308Z",
+    "expected": {
+      "sku": "FIG-C102-098",
+      "price": 900000,
+      "priceFormatted": "900.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-098__G098__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-098__G098__01.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-098__G098__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "900.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-098",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-098__G098__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Hai nhân vật đứng bên xe trắng",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:38.723Z",
+    "expected": {
+      "sku": "FIG-C102-099",
+      "price": 600000,
+      "priceFormatted": "600.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "600.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-099",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-099__G099__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân vật lái xe kart đỏ",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  },
+  {
+    "checkedAt": "2026-11-11T16:54:39.143Z",
+    "expected": {
+      "sku": "FIG-C102-100",
+      "price": 800000,
+      "priceFormatted": "800.000₫",
+      "cover": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__01.jpg",
+      "gallery": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__01.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__02.jpg",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__03.jpg"
+      ]
+    },
+    "observed": {
+      "hero": "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__01.jpg?tr=w-900,q-88,f-auto",
+      "jsonld": [],
+      "microdata": [],
+      "price": "800.000₫",
+      "rdfa": [],
+      "sku": "FIG-C102-100",
+      "thumbnails": [
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__01.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__02.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto",
+        "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-100__G100__03.jpg?tr=w-160,h-160,cm-pad_resize,bg-071A18,f-auto"
+      ],
+      "title": "Nhân Viên Kho & Xe Nâng Turret Truck",
+      "url": "https://c102.gre911.com/"
+    },
+    "pass": true,
+    "schemaParity": "NOT_APPLICABLE_NO_PRODUCT_MARKUP"
+  }
+]
