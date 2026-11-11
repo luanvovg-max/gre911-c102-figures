@@ -1404,13 +1404,18 @@ updateRail(0);
 size();
 paint();
 
-const preloadImgs = FIGURES.map(f => {
+// Keep the first view responsive: preload only the initially visible covers.
+// A slow asset must never hold the entire catalog behind the loading overlay.
+const preloadImgs = FIGURES.slice(0, 8).map(f => {
   const img = new Image();
-  img.src = f.cover;
+  img.src = getOptimizedImageUrl(f.cover, 800, 80);
   return img.decode().catch(() => {});
 });
 
-Promise.all(preloadImgs).then(() => document.fonts.ready).then(() => {
+Promise.race([
+  Promise.all(preloadImgs).then(() => document.fonts.ready),
+  new Promise(resolve => setTimeout(resolve, 5000)),
+]).then(() => {
   size();
   paint();
   $('wait').classList.add('gone');
