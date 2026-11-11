@@ -1,0 +1,53 @@
+{
+  "checked_at": "2026-11-11T16:55:34.533744+00:00",
+  "source_sha": "50adbcaf3fe5fb642169a821c6c30549cdd01cfe",
+  "host": "https://c102.gre911.com/",
+  "bundle": "assets/index-CpU-j9AU.js",
+  "bundle_sha256": "6749a0fa0fdd7e8c93a29da2a42ab6ab39dbb46c1e7ae2339fba4e5ed0af4cda",
+  "jsonld_count": 0,
+  "microdata_count": 0,
+  "rdfa_count": 0,
+  "product_schema_parity": "NOT_APPLICABLE_ABSENT_MARKUP",
+  "live_ui_source_comparison": {
+    "groups": 100,
+    "passed": 100,
+    "image_references": 474,
+    "unique_files": 374,
+    "numeric_prices": 75,
+    "contact_prices": 25,
+    "mismatches": []
+  },
+  "contact_skus": [
+    "FIG-C102-043",
+    "FIG-C102-066",
+    "FIG-C102-068",
+    "FIG-C102-069",
+    "FIG-C102-070",
+    "FIG-C102-071",
+    "FIG-C102-072",
+    "FIG-C102-073",
+    "FIG-C102-074",
+    "FIG-C102-075",
+    "FIG-C102-076",
+    "FIG-C102-077",
+    "FIG-C102-078",
+    "FIG-C102-079",
+    "FIG-C102-080",
+    "FIG-C102-081",
+    "FIG-C102-082",
+    "FIG-C102-083",
+    "FIG-C102-084",
+    "FIG-C102-085",
+    "FIG-C102-086",
+    "FIG-C102-087",
+    "FIG-C102-088",
+    "FIG-C102-089",
+    "FIG-C102-095"
+  ],
+  "canonical": null,
+  "observed_distinct_link_targets": [
+    "#"
+  ],
+  "scope": "Live UI parity only; not Product Master, supplier-price, stock or rights acceptance",
+  "proposed_samples_not_deployed": true
+}

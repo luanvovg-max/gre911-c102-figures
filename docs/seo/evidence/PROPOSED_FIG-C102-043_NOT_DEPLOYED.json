@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Cụm nhân vật phố Nhật và phụ kiện cầu thang",
+  "description": "Cụm nhân vật phố Nhật và phụ kiện cầu thang. Mô hình nhân vật tỉ lệ 1:64 chế tác tinh xảo trên chất liệu Resin SLA cao cấp bởi Chất 102 (Made in VN), hoàn thiện sơn thủ công chi tiết cao. Phù hợp chủ đề Văn hóa Phố Nhật, hoàn hảo cho bối cảnh sa bàn Phố cổ Nhật Bản & Bậc thang.",
+  "sku": "FIG-C102-043",
+  "image": [
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__01.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__02.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__03.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__04.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__05.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__06.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__07.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__08.jpg",
+    "https://ik.imagekit.io/gre911/images/products/Partners/C102/Figures/HighRes/FIG-C102-043__G043__09.jpg"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "Chất 102"
+  }
+}
