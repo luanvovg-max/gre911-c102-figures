@@ -605,6 +605,10 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
 .search-brand-tag{font-size:8.5px;color:var(--text-dimmer);text-transform:uppercase;letter-spacing:0.05em}
 .search-card-price{font-size:10.5px;color:var(--gold-light);font-weight:700}
 
+
+/* SEO category entry: real crawlable URL, separate from JS-only filter controls */
+.seo-hub-link{display:inline-block;margin-top:calc(9*var(--u));font-size:clamp(10px,calc(10*var(--u)),14px);line-height:1.5;letter-spacing:0.05em;color:var(--text-main);text-decoration:underline;text-underline-offset:4px}
+.seo-hub-link:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
 </style>
 </head>
 <body>
@@ -665,6 +669,7 @@ main{position:relative;display:grid;grid-template-columns:1fr calc(410*var(--u))
           <span class="win"><span class="roll" id="roll"></span></span>
         </div>
         <a class="shop michroma" id="explore-btn" href="#">CHI TIẾT MẪU NÀY ➔</a>
+        <a class="seo-hub-link" href="/figure-1-64/">Hướng dẫn chọn Figure 1:64</a>
       </div>
 
       <div class="ring" id="ring"></div>
