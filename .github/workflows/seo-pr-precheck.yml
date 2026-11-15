@@ -2,7 +2,6 @@ name: C102 SEO PR pre-check
 
 on:
   pull_request:
-    branches: [main]
 
 permissions:
   contents: read
@@ -25,13 +24,14 @@ jobs:
         run: |
           node --input-type=module <<'NODE'
           import {readFileSync, existsSync} from 'node:fs';
-          const mustExist=['dist/index.html','dist/robots.txt','dist/sitemap.xml','dist/CNAME'];
+          const mustExist=['dist/index.html','dist/robots.txt','dist/sitemap.xml','dist/CNAME','dist/figure-1-64/index.html'];
           for (const f of mustExist) {
             if (!existsSync(f)) throw new Error('Missing built file: '+f);
           }
           const html=readFileSync('dist/index.html','utf8');
           const robots=readFileSync('dist/robots.txt','utf8');
           const sitemap=readFileSync('dist/sitemap.xml','utf8');
+          const category=readFileSync('dist/figure-1-64/index.html','utf8');
           const canonical='https://c102.gre911.com/';
           const n=(s,needle)=>s.split(needle).length-1;
           if (n(html,'rel="canonical"')!==1 || !html.includes('href="'+canonical+'"'))
@@ -41,8 +41,17 @@ jobs:
             throw new Error('Unexpected static noindex');
           if (!robots.includes('Sitemap: '+canonical+'sitemap.xml'))
             throw new Error('Invalid robots sitemap');
-          if (n(sitemap,'<loc>')!==1 || !sitemap.includes('<loc>'+canonical+'</loc>'))
-            throw new Error('Sitemap must contain homepage only');
+          const categoryUrl=canonical+'figure-1-64/';
+          if (n(sitemap,'<loc>')!==2 || !sitemap.includes('<loc>'+canonical+'</loc>') || !sitemap.includes('<loc>'+categoryUrl+'</loc>'))
+            throw new Error('Sitemap must contain exactly homepage + implemented category URL');
+          if (n(category,'rel="canonical"')!==1 || !category.includes('href="'+categoryUrl+'"'))
+            throw new Error('Category page canonical mismatch');
+          if (n(category,'<title>')!==1 || n(category,'<h1>')!==1)
+            throw new Error('Category page must have unique title and H1');
+          if (!html.includes('href="/figure-1-64/"'))
+            throw new Error('Homepage lacks crawlable category link');
+          if (category.includes('<meta name="robots" content="noindex'))
+            throw new Error('Unexpected category noindex');
           if (readFileSync('dist/CNAME','utf8').trim()!=='c102.gre911.com')
             throw new Error('Custom domain changed');
           console.log('C102 SEO build artifact checks OK');
